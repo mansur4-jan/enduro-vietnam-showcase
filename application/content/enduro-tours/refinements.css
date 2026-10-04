@@ -1,0 +1,34 @@
+.enduro-tour{line-height:normal;--soft:#f0f3ef;overflow-wrap:break-word}
+.enduro-tour h1,.enduro-tour h2,.enduro-tour h3{font-weight:700}
+.enduro-tour .container{max-width:none}
+.enduro-tour picture{display:contents}
+.enduro-tour section[id]{scroll-margin-top:90px}
+.enduro-tour .site-header .header-chip.brand,.enduro-tour .site-header.scrolled .header-chip.brand{background:transparent;box-shadow:none;backdrop-filter:none;color:white}
+.enduro-tour .site-header.over-content .header-chip.brand{color:var(--pine)}
+.enduro-tour .hero-price small{font-family:Manrope,Arial,sans-serif}
+.enduro-tour .hero-price{white-space:nowrap}
+.enduro-tour .hero h1{overflow-wrap:normal}
+.enduro-tour .trail-media img{position:absolute;inset:0}
+.enduro-tour .lead-panel{background:white;color:var(--ink);border:0;border-radius:var(--r-lg);padding:20px;position:static;width:100%;max-width:none}
+.enduro-tour .lead-panel h2{font-size:24px;color:var(--ink)}
+.enduro-tour .lead-panel p{color:var(--muted)}
+.enduro-tour .lead-panel form{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.enduro-tour .lead-panel label{display:grid;gap:6px;font-size:11px;font-weight:800;color:var(--muted)}
+.enduro-tour .lead-panel input,.enduro-tour .lead-panel select,.enduro-tour .lead-panel textarea{width:100%;min-width:0;padding:12px;border:1px solid var(--line);border-radius:8px;background:white;color:var(--ink)}
+.enduro-tour .lead-panel label:has(textarea),.enduro-tour .lead-panel .consent,.enduro-tour .lead-panel [role=alert],.enduro-tour .lead-panel button{grid-column:1/-1}
+.enduro-tour .lead-panel .consent{display:flex;align-items:flex-start;font-weight:500;flex-wrap:wrap}
+.enduro-tour .lead-panel .consent input{width:18px;height:18px;flex:0 0 18px}
+.enduro-tour .lead-panel button{background:var(--orange);color:white;min-height:48px;border:0;border-radius:8px;font-weight:800;cursor:pointer}
+.enduro-tour .lead-panel button:disabled{opacity:.6;cursor:wait}
+.enduro-tour .honeypot{position:absolute;left:-10000px;width:1px;height:1px;overflow:hidden}
+.enduro-tour details.acc summary{padding:18px 0;font-weight:800;cursor:pointer}
+.enduro-tour details.acc p{font-size:13px;line-height:1.62;color:var(--muted);margin:0 0 17px}
+.enduro-tour .program-copy{margin-top:24px;color:var(--muted);font-size:13px;line-height:1.65}
+.enduro-tour .program-copy summary{cursor:pointer;font-weight:800;color:var(--ink)}
+.enduro-tour .program-copy p{margin-top:12px}
+.enduro-tour .footer{padding:24px;background:var(--pine-dark);color:#d8e1db;display:flex;justify-content:center;gap:20px;flex-wrap:wrap;font-size:12px}
+.enduro-tour a:focus-visible,.enduro-tour button:focus-visible,.enduro-tour summary:focus-visible{outline:3px solid var(--orange);outline-offset:4px}
+.enduro-tour .gallery-item{display:block}
+@media(max-width:1599px){.enduro-tour .side-toc{display:none}}
+@media(max-width:900px){.enduro-tour .screenish>.container{width:calc(100% - 32px)}}
+@media(max-width:600px){.enduro-tour .header-inner{grid-template-columns:1fr auto}.enduro-tour .nav{display:none}.enduro-tour .screenish>.container{width:calc(100% - 24px)}.enduro-tour .lead-panel form{grid-template-columns:1fr}.enduro-tour .footer{padding-bottom:100px}.enduro-tour .trail-caption strong{font-size:22px}}

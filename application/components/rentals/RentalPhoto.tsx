@@ -1,0 +1,2 @@
+import media from '@/content/rentals/media.json';
+export function RentalPhoto({src,alt,eager=false}:{src:string;alt:string;eager?:boolean}){const m=(media as Record<string,{avif:string;webp:string;width:number;height:number}>)[src];return m?<picture><source srcSet={m.avif} type="image/avif"/><img src={m.webp} width={m.width} height={m.height} alt={alt} loading={eager?'eager':'lazy'} fetchPriority={eager?'high':'auto'} decoding="async"/></picture>:<img src={src} alt={alt} loading={eager?'eager':'lazy'} decoding="async"/>;}

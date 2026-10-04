@@ -1,0 +1,2 @@
+import type {MetadataRoute} from 'next';
+export default function robots():MetadataRoute.Robots{const origin=(process.env.NEXT_PUBLIC_SITE_URL||'https://enduro-vietnam.com').replace(/\/$/,'');const privateMode=process.env.NODE_ENV!=='production'||process.env.NEXT_PUBLIC_LOCAL_SAFE_MODE==='1'||!!process.env.STAGING_USER;return {rules:{userAgent:'*',allow:privateMode?undefined:'/',disallow:privateMode?'/':['/admin','/api']},sitemap:origin+'/sitemap.xml'};}

@@ -1,0 +1,9 @@
+node_modules
+.next*
+.shipstudio
+.data
+.env*
+!.env.example
+.git
+*.zip
+*.tsbuildinfo

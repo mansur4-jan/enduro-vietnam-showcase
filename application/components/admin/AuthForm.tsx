@@ -1,0 +1,8 @@
+'use client';
+import Link from 'next/link';
+import {useState} from 'react';
+export function AuthForm({mode,token}:{mode:'login'|'accept'|'reset';token?:string}){
+ const [error,setError]=useState(''),[busy,setBusy]=useState(false),[done,setDone]=useState(false);
+ return <main className="admin-auth"><Link prefetch={false} href="/">Enduro Vietnam</Link><h1>{mode==='login'?'Вход в кабинет':mode==='accept'?'Принять приглашение':'Восстановить доступ'}</h1>{done?<p>Пароль сохранён. <Link prefetch={false} href="/admin/login">Войти</Link></p>:<form onSubmit={async e=>{e.preventDefault();setBusy(true);setError('');const values=Object.fromEntries(new FormData(e.currentTarget));try{const r=await fetch('/api/admin/auth',{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({...values,action:mode,token})});const d=await r.json();if(!r.ok)throw new Error(d.error);if(mode==='login')window.location.assign('/admin');else setDone(true);}catch(e){setError((e as Error).message);}finally{setBusy(false);}}}>
+ {mode==='login'&&<label>Email<input name="email" type="email" autoComplete="username" required/></label>}<label>Пароль<input name="password" type="password" minLength={mode==='login'?1:12} maxLength={128} autoComplete={mode==='login'?'current-password':'new-password'} required/></label>{mode==='login'&&<label>Код MFA, если подключён<input name="otp" inputMode="numeric" autoComplete="one-time-code" maxLength={6}/></label>}<p role="alert">{error}</p><button disabled={busy}>{busy?'Подождите…':mode==='login'?'Войти':'Сохранить пароль'}</button></form>}<p>Регистрация по приглашению владельца. Для восстановления доступа обратитесь к владельцу; он выдаст личную ссылку.</p></main>;
+}

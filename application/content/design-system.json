@@ -1,0 +1,40 @@
+{
+  "source": "computed browser values .shipstudio/source/computed-1230.json",
+  "colors": {
+    "ink": "#232f23",
+    "heading": "#808080",
+    "heroHeading": "#eae6d9",
+    "header": "#030609",
+    "link": "#203a57",
+    "accent": "#f56d14"
+  },
+  "type": {
+    "hero": {
+      "family": "Unbounded",
+      "size": 48,
+      "lineHeight": 57.6,
+      "weight": 500
+    },
+    "section": {
+      "family": "Unbounded",
+      "size": 32,
+      "lineHeight": 38.4,
+      "weight": 500
+    },
+    "body": {
+      "family": "Inter",
+      "size": 16,
+      "lineHeight": 25.6,
+      "weight": 400
+    }
+  },
+  "breakpoints": [
+    405,
+    500,
+    767,
+    768,
+    800,
+    1229,
+    1230
+  ]
+}

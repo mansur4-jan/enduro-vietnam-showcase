@@ -1,0 +1,45 @@
+.city-page{font-size:16px;line-height:normal;font-family:var(--body);color:var(--ink);background:white;-webkit-font-smoothing:antialiased}
+.city-page .container{max-width:none}
+.city-page h1,.city-page h2,.city-page h3{overflow-wrap:anywhere}
+.city-page h4{font-weight:800}
+.city-page .reveal{opacity:1;transform:none}
+.city-page [id]{scroll-margin-top:90px}
+.city-page :focus-visible{outline:3px solid var(--orange);outline-offset:4px}
+.city-page .header-chip.brand{background:transparent;backdrop-filter:none;box-shadow:none;color:white;text-shadow:0 1px 8px #000}
+.city-page .site-header.scrolled .header-chip.brand{color:var(--pine-dark);text-shadow:0 1px 6px #fff}
+.city-page .drawer:not(.open),.city-page .backdrop:not(.open){visibility:hidden}
+.city-page .drawer.open,.city-page .backdrop.open{visibility:visible}
+.city-page .header-inner{min-width:0}
+.city-page .nav{white-space:nowrap}
+.city-page .hero-copy{min-width:0}
+.city-page .hero h1{font-size:clamp(42px,5.5vw,78px)}
+.city-page .tour-rail,.city-page .quick-scroll,.city-page .bikes-wrap,.city-page .people-layout,.city-page .faq-list,.city-page .article-grid,.city-page .final-form{min-width:0}
+.city-page .tour-photo picture,.city-page .quick-thumb picture,.city-page .article-img picture{display:block;height:100%}
+.city-page .tour-card{min-width:0}
+.city-page .tour-copy{overflow-wrap:anywhere}
+.city-page .tour-price strong{font-size:19px}
+.city-page .bike-row .price{white-space:normal}
+.city-page .bike-row a{width:auto;min-width:38px;padding:0 8px;font-size:10px}
+.city-page .form-consent{display:flex;align-items:flex-start;gap:8px;font-size:11px;line-height:1.5;margin-top:12px}
+.city-page .form-consent input{flex:none;width:16px;height:16px;margin-top:2px}
+.city-page .form-consent a,.city-page .compare a{text-decoration:underline;text-underline-offset:3px}
+.city-page .form-status{font-size:12px;line-height:1.6;margin-top:10px;color:var(--ink)}
+.city-page .btn:disabled{opacity:.6;cursor:wait}
+.city-page .person-card picture,.city-page .bike-visual picture,.city-page .route-main picture,.city-page .act-card picture{position:absolute;inset:0;display:block}
+.city-page .route-tile h3{margin-bottom:8px}
+.city-page .article-copy a{color:var(--orange)}
+.city-page .reviews{grid-template-columns:repeat(3,minmax(0,1fr))}
+.city-page .review .stars{color:var(--orange);font-weight:800;letter-spacing:0}
+.city-page .empty-offers{padding:28px;border:1px solid var(--line);border-radius:20px;background:var(--soft)}
+@media(min-width:1251px){.city-page .side-toc{width:116px;right:8px}.city-page .side-toc a{font-size:9px;padding:8px 5px}}
+@media(max-width:900px){.city-page .reviews{grid-template-columns:none}.city-page .article-grid{grid-template-columns:none}.city-page .section{padding:48px 0}.city-page .screenish>.container{width:calc(100% - 32px)}}
+@media(max-width:600px){.city-page .hero h1{font-size:39px}.city-page .screenish>.container{width:calc(100% - 24px)}.city-page .header-inner{gap:8px;grid-template-columns:1fr auto}.city-page .nav{display:none}.city-page .brand{font-size:10px;padding:0}.city-page .section{padding:40px 0}.city-page .level-box{grid-template-columns:auto 1fr}.city-page .level-box a{grid-column:2}.city-page .bike-row{grid-template-columns:minmax(0,1fr) auto}.city-page .bike-row a{grid-column:2}.city-page .tour-title{font-size:18px}.city-page .final-inner{padding:48px 0}.city-page .floating{bottom:12px}}
+
+@media(min-width:1251px) and (max-width:1599px){.city-page .side-toc{display:none}}
+
+.city-page .header-chip.brand{gap:3px}
+.city-page .site-header.scrolled .header-chip.brand{color:white;text-shadow:0 1px 8px #000}
+.city-page .site-header.over-content .header-chip.brand{color:var(--pine-dark);text-shadow:0 1px 6px #fff}
+@media(prefers-reduced-motion:reduce){.city-page .drawer,.city-page .backdrop{transition:none}}
+
+.city-page .header-chip.brand,.city-page .site-header.scrolled .header-chip.brand,.city-page .site-header.over-content .header-chip.brand{background:transparent;box-shadow:none;backdrop-filter:none}

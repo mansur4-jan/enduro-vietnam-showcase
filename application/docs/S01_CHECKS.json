@@ -1,0 +1,137 @@
+{
+  "checkedAt": "2026-10-03T11:12:56.771338+00:00",
+  "baseUrl": "http://127.0.0.1:3000",
+  "routeResults": [
+    {
+      "route": "/",
+      "directAndRepeatedRequest": [
+        {
+          "status": 200,
+          "titleMatches": true,
+          "h1Matches": true,
+          "noindex": true,
+          "contactActionsDisabled": true,
+          "externalRuntimeResources": [],
+          "submitDisabled": true
+        },
+        {
+          "status": 200,
+          "titleMatches": true,
+          "h1Matches": true,
+          "noindex": true,
+          "contactActionsDisabled": true,
+          "externalRuntimeResources": [],
+          "submitDisabled": true
+        }
+      ]
+    },
+    {
+      "route": "/ru",
+      "directAndRepeatedRequest": [
+        {
+          "status": 200,
+          "titleMatches": true,
+          "h1Matches": true,
+          "noindex": true,
+          "contactActionsDisabled": true,
+          "externalRuntimeResources": []
+        },
+        {
+          "status": 200,
+          "titleMatches": true,
+          "h1Matches": true,
+          "noindex": true,
+          "contactActionsDisabled": true,
+          "externalRuntimeResources": []
+        }
+      ]
+    },
+    {
+      "route": "/all-tours",
+      "directAndRepeatedRequest": [
+        {
+          "status": 200,
+          "titleMatches": true,
+          "h1Matches": true,
+          "noindex": true,
+          "contactActionsDisabled": true,
+          "externalRuntimeResources": []
+        },
+        {
+          "status": 200,
+          "titleMatches": true,
+          "h1Matches": true,
+          "noindex": true,
+          "contactActionsDisabled": true,
+          "externalRuntimeResources": []
+        }
+      ]
+    },
+    {
+      "route": "/ru/all-tours",
+      "directAndRepeatedRequest": [
+        {
+          "status": 200,
+          "titleMatches": true,
+          "h1Matches": true,
+          "noindex": true,
+          "contactActionsDisabled": true,
+          "externalRuntimeResources": []
+        },
+        {
+          "status": 200,
+          "titleMatches": true,
+          "h1Matches": true,
+          "noindex": true,
+          "contactActionsDisabled": true,
+          "externalRuntimeResources": []
+        }
+      ]
+    },
+    {
+      "route": "/all-tours/dalat-enduro-tour-one-day",
+      "directAndRepeatedRequest": [
+        {
+          "status": 200,
+          "titleMatches": true,
+          "h1Matches": true,
+          "noindex": true,
+          "contactActionsDisabled": true,
+          "externalRuntimeResources": []
+        },
+        {
+          "status": 200,
+          "titleMatches": true,
+          "h1Matches": true,
+          "noindex": true,
+          "contactActionsDisabled": true,
+          "externalRuntimeResources": []
+        }
+      ]
+    },
+    {
+      "route": "/rent-motorbike-dalat",
+      "directAndRepeatedRequest": [
+        {
+          "status": 200,
+          "titleMatches": true,
+          "h1Matches": true,
+          "noindex": true,
+          "contactActionsDisabled": true,
+          "externalRuntimeResources": []
+        },
+        {
+          "status": 200,
+          "titleMatches": true,
+          "h1Matches": true,
+          "noindex": true,
+          "contactActionsDisabled": true,
+          "externalRuntimeResources": []
+        }
+      ]
+    }
+  ],
+  "localFormRefusals": 3,
+  "privateAndUnknown404Checks": 3,
+  "errors": []
+}

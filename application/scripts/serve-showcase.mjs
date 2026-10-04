@@ -1,0 +1,5 @@
+import {createServer} from 'node:http';
+import {readFile,stat} from 'node:fs/promises';
+import path from 'node:path';
+const root=path.resolve('.shipstudio/github-publication/site'),prefix='/enduro-vietnam-showcase';
+export async function startShowcase(){const server=createServer(async(req,res)=>{try{let p=decodeURIComponent(new URL(req.url,'http://localhost').pathname);if(!p.startsWith(prefix+'/')&&p!==prefix){res.writeHead(404);res.end();return;}p=path.resolve(root,'.'+(p.slice(prefix.length)||'/'));if(!p.startsWith(root+'/')&&p!==root)throw new Error();if((await stat(p)).isDirectory())p+='/index.html';const mime={'.html':'text/html; charset=utf-8','.css':'text/css','.js':'application/javascript','.json':'application/json','.svg':'image/svg+xml','.woff2':'font/woff2','.avif':'image/avif','.webp':'image/webp','.jpg':'image/jpeg','.png':'image/png'};res.setHeader('Content-Type',mime[path.extname(p)]||'application/octet-stream');res.end(await readFile(p));}catch{res.writeHead(404);res.end('Not found');}});await new Promise(r=>server.listen(0,'127.0.0.1',r));return server;}

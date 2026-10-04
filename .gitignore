@@ -1,0 +1,9 @@
+site/assets/
+site/fonts/
+application/node_modules/
+application/.data/
+application/.next*/
+application/.env*
+!application/.env.example
+*.tsbuildinfo
+.DS_Store

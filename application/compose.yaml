@@ -1,0 +1,41 @@
+services:
+  database:
+    image: postgres:18-bookworm
+    environment:
+      POSTGRES_DB: enduro
+      POSTGRES_USER: enduro
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:?Set a private database password}
+    volumes:
+      - postgres:/var/lib/postgresql
+    healthcheck:
+      test: [CMD-SHELL, pg_isready -U enduro -d enduro]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+    restart: unless-stopped
+  web:
+    build: .
+    env_file: .env.production
+    environment:
+      DATABASE_URL: postgresql://enduro:${POSTGRES_PASSWORD}@database:5432/enduro
+      NODE_ENV: production
+      APP_HTTPS: '1'
+    ports: [127.0.0.1:3000:3000]
+    volumes: [media:/app/.data/media]
+    depends_on:
+      database:
+        condition: service_healthy
+    restart: unless-stopped
+  worker:
+    build: .
+    command: [node, server/outbox-worker.mjs]
+    env_file: .env.production
+    environment:
+      DATABASE_URL: postgresql://enduro:${POSTGRES_PASSWORD}@database:5432/enduro
+    depends_on:
+      database:
+        condition: service_healthy
+    restart: unless-stopped
+volumes:
+  postgres:
+  media:

@@ -1,0 +1,11 @@
+import {readFile,writeFile} from 'node:fs/promises';
+const base=process.env.APP_URL??'http://localhost:3000',routes=JSON.parse(await readFile('.shipstudio/public-route-checks.json','utf8')).routes.filter(r=>r.status===200),checks=[],errors=[];
+const htmlCache=new Map();async function html(path){if(!htmlCache.has(path)){const r=await fetch(base+path,{redirect:'manual'});htmlCache.set(path,{status:r.status,text:await r.text()});}return htmlCache.get(path);}
+const canonical=t=>/<link rel="canonical" href="([^"]+)"/.exec(t)?.[1];const languages=t=>[...t.matchAll(/<link rel="alternate" hrefLang="([^"]+)" href="([^"]+)"/g)].map(m=>({locale:m[1],path:new URL(m[2]).pathname}));
+for(const r of routes){const p=await html(r.path),c=canonical(p.text);if(!c){errors.push(`${r.path}: no canonical`);continue;}const target=new URL(c).pathname;const canonicalPage=await html(target);if(canonicalPage.status!==200)errors.push(`${r.path}: canonical target ${target} ${canonicalPage.status}`);if(canonical(canonicalPage.text)!==c)errors.push(`${r.path}: canonical chain`);
+ for(const pair of languages(p.text)){const other=await html(pair.path);if(other.status!==200)errors.push(`${r.path}: alternate ${pair.path} ${other.status}`);const expected=pair.locale==='ru'?'ru':'en';if(!other.text.includes(`<html lang="${expected}"`))errors.push(`${r.path}: alternate lang incorrect`);if(!languages(other.text).some(x=>x.path===target))errors.push(`${r.path}: alternate ${pair.path} not reciprocal to ${target}`);}
+ checks.push({path:r.path,canonical:target,languagePairs:languages(p.text)});
+}
+for(const path of ['/all-tours?city=dalat','/ru/all-tours?page=2','/rentals/cars']){const p=await html(path);if(!/<meta name="robots" content="[^"]*noindex/.test(p.text))errors.push(`${path}: must be noindex`);}
+const admin=await html('/admin/login');if(!/<meta name="robots" content="[^"]*noindex/.test(admin.text))errors.push('Admin login indexable');const robots=await fetch(base+'/robots.txt');if(robots.status!==200)errors.push('robots.txt missing');
+await writeFile('.shipstudio/seo-checks.json',JSON.stringify({checkedAt:new Date().toISOString(),checks,errors,sourceProductionGscTested:false},null,2)+'\n');console.log(JSON.stringify({pages:checks.length,errors}));if(errors.length)process.exitCode=1;

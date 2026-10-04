@@ -1,0 +1,4 @@
+import {writeFile,mkdir} from 'node:fs/promises';
+import {randomBytes,randomUUID,createHash} from 'node:crypto';
+import {runSQL} from '../server/sql-client.mjs';
+const [r]=await runSQL([{sql:"SELECT id FROM users WHERE role='owner' AND active ORDER BY created_at LIMIT 1"}]);if(!r.rows.length)throw new Error('No active owner');const token=randomBytes(32).toString('hex');await runSQL([{sql:"INSERT INTO recovery_tokens(token_hash,user_id,expires_at) VALUES($1,$2,now()+interval '1 hour')",params:[createHash('sha256').update(token).digest('hex'),r.rows[0].id]}]);await mkdir('.data',{recursive:true,mode:0o700});await writeFile('.data/owner-recovery.txt',`/admin/recover?token=${token}\nExpires after one hour; single use. Existing MFA is preserved.\n`,{mode:0o600});console.log('Private owner recovery link saved in .data/owner-recovery.txt; token not printed.');

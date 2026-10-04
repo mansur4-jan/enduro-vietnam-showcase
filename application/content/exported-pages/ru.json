@@ -1,0 +1,2361 @@
+{
+  "route": "/ru",
+  "title": "Мото туры Вьетнам: Аренда мотоциклов для офф-роуд приключений | Enduro-Vietnam",
+  "description": "Мото туры и аренда эндуро мотоциклов во Вьетнаме: Мощные байки, отличная оффроуд-резина, и локации, куда не доедет обычный транспорт. Работаем круглый год, доступно обучение для новичков | Enduro-Vietnam",
+  "canonical": "https://enduro-vietnam.com/ru",
+  "language": "ru",
+  "sourceUrl": "https://enduro-vietnam.com/ru",
+  "blocks": [
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "link",
+          "originalHref": "#uslugi",
+          "href": "/ru#uslugi",
+          "kind": "internal",
+          "sourceStatus": 200,
+          "sourcePath": "/ru",
+          "children": [
+            {
+              "type": "text",
+              "text": "Услуги"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "аренда | мототуры"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Сеть по всей стране:"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": "Наши базы в ключевых точках Вьетнама — аренда и поддержка там, где вам удобно"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "5 лет опыта:"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " Провели сотни туров и знаем самые безопасные и драйвовые маршруты страны"
+        }
+      ]
+    },
+    {
+      "type": "h1",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "МОТО ТУРЫ ВО ВЬЕТНАМЕ"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Мототуры по Вьетнаму"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "link",
+          "originalHref": "https://t.me/mototourvietnam",
+          "href": "https://t.me/mototourvietnam",
+          "kind": "external",
+          "sourceStatus": null,
+          "children": [
+            {
+              "type": "em",
+              "children": []
+            },
+            {
+              "type": "text",
+              "text": "Забронировать"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "АРЕНДА ЭНДУРО ДЛЯ ОФФ-РОУД ПРИКЛЮЧЕНИЙ"
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "ГОРОДА, В КОТОРЫХ МЫ ПРОВОДИМ ТУРЫ"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Подберите идеальный отдых"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "link",
+          "originalHref": "https://enduro-vietnam.com/ru/dalat",
+          "href": "/ru/dalat",
+          "kind": "internal",
+          "sourceStatus": 200,
+          "sourcePath": "/ru/dalat",
+          "children": [
+            {
+              "type": "text",
+              "text": "Далат"
+            },
+            {
+              "type": "text",
+              "text": "Уникальное высокогорье с мягким климатом и сосновыми борами. Здесь нет густого подлеска, поэтому можно свободно съезжать с трасс и прокладывать свой путь прямо через лес. Вас ждут затяжные подъемы, чистый горный воздух и скоростные прохваты по игольчатому ковру."
+            },
+            {
+              "type": "link",
+              "originalHref": "https://enduro-vietnam.com/ru/dalat",
+              "href": "/ru/dalat",
+              "kind": "internal",
+              "sourceStatus": 200,
+              "sourcePath": "/ru/dalat",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Узнать подробнее"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "link",
+          "originalHref": "https://enduro-vietnam.com/ru/nhatrang",
+          "href": "/ru/nhatrang",
+          "kind": "internal",
+          "sourceStatus": 200,
+          "sourcePath": "/ru/nhatrang",
+          "children": [
+            {
+              "type": "text",
+              "text": "Нячанг"
+            },
+            {
+              "type": "text",
+              "text": "Маршруты сквозь настоящие тропики к скрытым водопадам. Вы пройдете по скалистым участкам и руслам горных рек, увидите дикую природу Вьетнама изнутри и подниметесь на обзорные точки, с которых открывается панорама на весь залив и прибрежные острова."
+            },
+            {
+              "type": "link",
+              "originalHref": "https://enduro-vietnam.com/ru/nhatrang",
+              "href": "/ru/nhatrang",
+              "kind": "internal",
+              "sourceStatus": 200,
+              "sourcePath": "/ru/nhatrang",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Узнать подробнее"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "link",
+          "originalHref": "https://enduro-vietnam.com/ru/muine",
+          "href": "/ru/muine",
+          "kind": "internal",
+          "sourceStatus": 200,
+          "sourcePath": "/ru/muine",
+          "children": [
+            {
+              "type": "text",
+              "text": "Муйне"
+            },
+            {
+              "type": "text",
+              "text": "Единственная локация в Юго-Восточной Азии с настоящими пустынными пейзажами. Огромные пространства белых и красных дюн, езда по кромке океана и скоростные участки. Уникальный опыт управления байком на глубоком песке в окружении невероятных видов."
+            },
+            {
+              "type": "link",
+              "originalHref": "https://enduro-vietnam.com/ru/muine",
+              "href": "/ru/muine",
+              "kind": "internal",
+              "sourceStatus": 200,
+              "sourcePath": "/ru/muine",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Узнать подробнее"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "ПОЕЗДКА С РЕБЯТАМИ ИЗ КАЗАХСТАНА"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Мы с ребятами из Казахстана рванули на байках к Суои Ван через сосны и холмы! Пикник у воды: кофе из местных плантаций и завораживающие виды. Ребята с мопедным опытом быстро освоили эндуро — сцепление, газ, трейлы. За пару часов в уверенных райдеров!"
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "МОТО ПАРК"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Ищете аренду мото или прокат мото для приключений? Организуем внедорожный тур на легендарных dirt-байках: Honda XR, Yamaha Serow. Доступно обучение на мотоцикле для новичков"
+        }
+      ]
+    },
+    {
+      "type": "h3",
+      "id": null,
+      "children": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "🔥 Honda XR 230"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "strong",
+          "children": []
+        },
+        {
+          "type": "text",
+          "text": "Наш ТОП-байк. Увеличенная мощность и укороченная ручка газа для максимально резвого разгона и комфорта."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "20 л.с. 🦾"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "link",
+          "originalHref": "https://t.me/mototourvietnam",
+          "href": "https://t.me/mototourvietnam",
+          "kind": "external",
+          "sourceStatus": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Забронировать мотоцикл"
+            },
+            {
+              "type": "em",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "h3",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "🔰 "
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Honda XR 150"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "strong",
+          "children": []
+        },
+        {
+          "type": "text",
+          "text": "Лучший выбор для новичков. Умеренная мощность гарантирует безопасное и лёгкое знакомство с миром эндуро."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "12 л.с. 🦾"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "link",
+          "originalHref": "https://t.me/mototourvietnam",
+          "href": "https://t.me/mototourvietnam",
+          "kind": "external",
+          "sourceStatus": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Забронировать мотоцикл"
+            },
+            {
+              "type": "em",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "h3",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "⛰️ "
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Yamaha Serow 225"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "strong",
+          "children": []
+        },
+        {
+          "type": "text",
+          "text": "Легенда бездорожья, отличающаяся высочайшей проходимостью на любых, даже самых сложных маршрутах."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "18 л.с. 🦾"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "link",
+          "originalHref": "https://t.me/mototourvietnam",
+          "href": "https://t.me/mototourvietnam",
+          "kind": "external",
+          "sourceStatus": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Забронировать мотоцикл"
+            },
+            {
+              "type": "em",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "ВИДЕО ИЗ НАШЕЙ ЖИЗНИ"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "У нас очень насыщенная жизнь и мы рады ей поделиться 😊"
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "id": "uslugi",
+      "children": [
+        {
+          "type": "text",
+          "text": "СТОИМОСТЬ АРЕНДЫ"
+        }
+      ]
+    },
+    {
+      "type": "h3",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Название услуги"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "1 день"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "3 дня"
+        }
+      ]
+    },
+    {
+      "type": "h4",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Прокат эндуро 150 куб."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "25💲"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "70💲"
+        }
+      ]
+    },
+    {
+      "type": "h4",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Аренда эндуро 230 куб."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "от 40💲"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "120💲"
+        }
+      ]
+    },
+    {
+      "type": "h4",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Тур эндуро"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "от 100💲"
+        }
+      ]
+    },
+    {
+      "type": "h4",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Аренда скутера"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "от 5💲"
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "НАШИ ПРЕИМУЩЕСТВА"
+        }
+      ]
+    },
+    {
+      "type": "h3",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Бесплатное обучение для начинающих"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "В рамках тура мы научим вас всему: от основ работы со сцеплением и переключения скоростей до уверенного переезда препятствий на внедорожном байке."
+        }
+      ]
+    },
+    {
+      "type": "h3",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Водительские права категории \"А\" не требуются"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Желательно иметь права МВУ для безопасной езды. "
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Но давайте будем честны, мы во Вьетнаме, и здешняя полиция очень снисходительна к туристам."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "h3",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Трассы любой сложности"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Вьетнам — сплошной рай для эндуро: туманные горы, водопады, чайные плантации и скрытые тропы. Мы подберем маршрут под вас — от легких для новичков с панорамными видами до хардкорных для профи, с адреналиновыми спусками и вызовами!"
+        }
+      ]
+    },
+    {
+      "type": "h3",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Простая бронь"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Мы сделали сервис максимально простым, чтобы вы могли наслаждаться мото трипом и не думать ни о каких проблемах. У нас одни из самых конкурентноспособных цен"
+        }
+      ]
+    },
+    {
+      "type": "h3",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Бесплатное обучение для начинающих"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "В рамках тура мы научим вас всему: от основ работы со сцеплением и переключения скоростей до уверенного переезда препятствий на внедорожном байке."
+        }
+      ]
+    },
+    {
+      "type": "h3",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Водительские права категории \"А\" не требуются"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Желательно иметь права МВУ для безопасной езды. "
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Но давайте будем честны, мы во Вьетнаме, и здешняя полиция очень снисходительна к туристам."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "h3",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Трассы любой сложности"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Вьетнам — сплошной рай для эндуро: туманные горы, водопады, чайные плантации и скрытые тропы. Мы подберем маршрут под вас — от легких для новичков с панорамными видами до хардкорных для профи, с адреналиновыми спусками и вызовами!"
+        }
+      ]
+    },
+    {
+      "type": "h3",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Простое бронирование"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Мы сделали сервис максимально простым, чтобы вы могли наслаждаться мото трипом и не думать ни о каких проблемах. У нас одни из самых конкурентноспособных цен"
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "ИНСТРУКТОРЫ"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Профессионалы, которые дадут вам уверенность"
+        }
+      ]
+    },
+    {
+      "type": "h3",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Михайлов Андрей"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Инструктор, с детства на колесах"
+        }
+      ]
+    },
+    {
+      "type": "h3",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Лихачёв Слава"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Инструктор, с 14 лет на эндуро суете"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Михайлов Алексей"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Инструктор, с детства на колесах"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Лихачёв Слава"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Инструктор, с 14 лет на эндуро суете"
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "ОТЗЫВЫ ГОСТЕЙ ВЬЕТНАМА"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "children": [
+        {
+          "type": "text",
+          "text": "1"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "children": [
+        {
+          "type": "text",
+          "text": "/"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "children": [
+        {
+          "type": "text",
+          "text": "3"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Михаил"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Решили с отцом вдвоем отправиться на этот эндуро-тур. У него за плечами куча опыта в покатушках на мотоцикле, а у меня — почти ноль. Честно, я сильно переживал, что без навыков весь выезд пойдет насмарку. Но на деле все вышло иначе: Андрей всего за 1–2 часа \"посадил\" меня за руль, разобрал азы и тонкости вождения. "
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "В оставшееся время мы оторвались по-настоящему — проехали через джунгли, каменистые тропы, бездорожье, холмы и горные склоны Центрального нагорья. Нам обоим зашло на все сто, и это приключение задало настроение всей нашей поездке по Вьетнаму! 😊 Особо отмечу тренерский талант Андрея — он мастерски работает с новичками и по-настоящему открыл для нас с отцом волшебный мир эндуро. Рекомендую всем, кто хочет адреналина в прохладных высотах Далата!"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Показать еще"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Скрыть"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Андрей"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Супруга Юлия подарила мне эту экскурсию на день рождения — она знает, как я обожаю мотоциклы. Сама-то у неё опыта всего пара часов на кроссовой трассе, так что все три дня после оплаты тура она переживала не на шутку. А я в эндуро тоже не профи. Но Бориса — Тренера (именно Тренера, ведь это больше тренировка с элементами приключения, чем просто поездка) — наш \"нулевой\" багаж ни капли не смутил. "
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Он потратил не меньше часа на учебной площадке, чтобы с нуля поставить на ноги человека, и, кстати, Юля даже самостоятельно поехала — правда, только по прямой ;) В итоге Борис принял крутое решение: взял Юлю вторым номером на свой байк. В сумме мы накатали около 60 км по пересечёнке — с камнями, канавами, крутыми подъёмами и спусками. Честно, порой казалось, что очередное препятствие вообще нереально одолеть физически, но видя, как легко Борис с этим справляется (ещё и с пассажиром!), я заряжался мотивацией и повторял следом. Конечно, технике и экипировке досталось по полной... Каждая секунда этого маршрута врежется в память навсегда, а непринуждённое общение с Борисом оставило сплошной позитив. А финальный \"добивающий\" штрих — подарок лично от него! Затронуло до слёз! Эта вылазка стоит куда дороже любой цены — воспоминания-то бесценны! Рекомендую всем парам, ищущим адреналин и единение с природой. 😊"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Показать еще"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Скрыть"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Михаил"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Решили с отцом вдвоем отправиться на этот эндуро-тур в Далат. У него за плечами куча опыта в покатушках на мотоцикле, а у меня — почти ноль. Честно, я сильно переживал, что без навыков весь выезд пойдет насмарку. Но на деле все вышло иначе: Андрей всего за 1–2 часа \"посадил\" меня за руль, разобрал азы и тонкости вождения. "
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "В оставшееся время мы оторвались по-настоящему — проехали через джунгли, каменистые тропы, бездорожье, холмы и горные склоны Центрального нагорья. Нам обоим зашло на все сто, и это приключение задало настроение всей нашей поездке по Вьетнаму! 😊 Особо отмечу тренерский талант Андрея — он мастерски работает с новичками и по-настоящему открыл для нас с отцом волшебный мир эндуро. Рекомендую всем, кто хочет адреналина в прохладных высотах Далата!"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Показать еще"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Скрыть"
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "ФОТО С ВЫЕЗДОВ"
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Часто задаваемые вопросы (FAQ)"
+        }
+      ]
+    },
+    {
+      "type": "h3",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Нужны ли международные права для катания на мотоцикле?"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Хотя формально права требуются, Далат — туристический центр эндуро. Но вьетнамские власти в Далате не тормозят туристов на эндуро мотоциклах. Поэтому мы можем спокойно кататься, не беспокоясь об этом💫"
+        }
+      ]
+    },
+    {
+      "type": "h3",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Со скольких и до скольких часов вы работаете?"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Мы начинаем катать с самого утра, примерно с 7:00, и работаем до наступления темноты, около 18:00. Вы можете выбрать прокат любой продолжительности, вплоть до целого дня."
+        }
+      ]
+    },
+    {
+      "type": "h3",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Можно ли мне кататься на мото, если у меня нет опыта вождения?"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Конечно! Мы тренируем всех, независимо от возраста и пола. Всего за один день тренировки вы освоите механику и сможете уверенно ездить самостоятельно. Мы гарантируем, что вы сможете поехать⚡️"
+        }
+      ]
+    },
+    {
+      "type": "h3",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Какая экипировка включена в стоимость?"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "В стоимость проката включены мотоцикл (эндуро) и защитный шлем. Рекомендуем приехать в удобной, закрытой одежде, которую не жалко испачкать. Обувь тоже возьмите удобную, на шнурках. Тапки точно не подойдут😁"
+        }
+      ]
+    },
+    {
+      "type": "h3",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Могу ли я взять в аренду эндуро мотоцикл без залога?"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "В залог за мотоцикл берется либо 200💲, либо ваш паспорт. Это гарантия на случай мелкого ремонта."
+        }
+      ]
+    },
+    {
+      "type": "h3",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Кто оплачивает поломки или повреждения мотоцикла?"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Все, что происходит по вине клиента (падения😱, повреждения), оплачивается клиентом по факту ремонта."
+        }
+      ]
+    },
+    {
+      "type": "h3",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Вы сдаете в аренду только эндуро мотоциклы или также кроссовые мотоциклы?"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Наш основной фокус — это, конечно, эндуро мотоциклы для офф-роуда. Кроссовые мотоциклы мы сами в аренду не сдаем, но можем связать вас с нашими вьетнамскими коллегами, которые их предлагают. Только имейте в виду, что ценник там, соответственно, выше. А еще у нас можно взять GoPro, дрон, скутеры, мопеды (включая PG-1). Любой каприз за ваши деньги! Хотите выездную кухню или шашлык? Спросите! 😉💸"
+        }
+      ]
+    },
+    {
+      "type": "h3",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Не нашли "
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "text",
+          "text": "ответ? "
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Напишите нам"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Enduro-Vietnam"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "По вопросам сотрудничества пишите в телеграмм"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "© 2026. Все права защищены"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "link",
+          "originalHref": "/ru",
+          "href": "/ru",
+          "kind": "internal",
+          "sourceStatus": 200,
+          "sourcePath": "/ru",
+          "children": [
+            {
+              "type": "text",
+              "text": "Главная страница"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "link",
+          "originalHref": "/ru/dalat",
+          "href": "/ru/dalat",
+          "kind": "internal",
+          "sourceStatus": 200,
+          "sourcePath": "/ru/dalat",
+          "children": [
+            {
+              "type": "text",
+              "text": "Эндуро туры в Далате"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "link",
+          "originalHref": "/ru/nhatrang",
+          "href": "/ru/nhatrang",
+          "kind": "internal",
+          "sourceStatus": 200,
+          "sourcePath": "/ru/nhatrang",
+          "children": [
+            {
+              "type": "text",
+              "text": "Эндуро туры в Нячанге"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "link",
+          "originalHref": "/ru/danang",
+          "href": "/ru/danang",
+          "kind": "internal",
+          "sourceStatus": 200,
+          "sourcePath": "/ru/danang",
+          "children": [
+            {
+              "type": "text",
+              "text": "Эндуро туры в Дананге"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "link",
+          "originalHref": "/ru/muine",
+          "href": "/ru/muine",
+          "kind": "internal",
+          "sourceStatus": 200,
+          "sourcePath": "/ru/muine",
+          "children": [
+            {
+              "type": "text",
+              "text": "Эндуро туры в Муйне"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "link",
+          "originalHref": "/ru/all-tours",
+          "href": "/ru/all-tours",
+          "kind": "internal",
+          "sourceStatus": 200,
+          "sourcePath": "/ru/all-tours",
+          "children": [
+            {
+              "type": "text",
+              "text": "Все туры"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "link",
+          "originalHref": "/rent-motorbike-dalat",
+          "href": "/rent-motorbike-dalat",
+          "kind": "internal",
+          "sourceStatus": 200,
+          "sourcePath": "/rent-motorbike-dalat",
+          "children": [
+            {
+              "type": "text",
+              "text": "Аренда скутеров Далат"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "link",
+          "originalHref": "ru/rent-scooter-nhatrang",
+          "href": "/ru/rent-scooter-nhatrang",
+          "kind": "internal",
+          "sourceStatus": 200,
+          "sourcePath": "/ru/rent-scooter-nhatrang",
+          "children": [
+            {
+              "type": "text",
+              "text": "Аренда скутеров Нячанг"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "link",
+          "originalHref": "/",
+          "href": "/",
+          "kind": "internal",
+          "sourceStatus": 200,
+          "sourcePath": "/",
+          "children": [
+            {
+              "type": "text",
+              "text": "Enduro tours in Vietnam"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "link",
+          "originalHref": "/dalat",
+          "href": "/dalat",
+          "kind": "internal",
+          "sourceStatus": 200,
+          "sourcePath": "/dalat",
+          "children": [
+            {
+              "type": "text",
+              "text": "Dalat"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "link",
+          "originalHref": "/nhatrang",
+          "href": "/nhatrang",
+          "kind": "internal",
+          "sourceStatus": 200,
+          "sourcePath": "/nhatrang",
+          "children": [
+            {
+              "type": "text",
+              "text": "Nha Trang"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "link",
+          "originalHref": "/danang",
+          "href": "/danang",
+          "kind": "internal",
+          "sourceStatus": 200,
+          "sourcePath": "/danang",
+          "children": [
+            {
+              "type": "text",
+              "text": "Danang"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "link",
+          "originalHref": "/muine",
+          "href": "/muine",
+          "kind": "internal",
+          "sourceStatus": 200,
+          "sourcePath": "/muine",
+          "children": [
+            {
+              "type": "text",
+              "text": "Muine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "link",
+          "originalHref": "/all-tours",
+          "href": "/all-tours",
+          "kind": "internal",
+          "sourceStatus": 200,
+          "sourcePath": "/all-tours",
+          "children": [
+            {
+              "type": "text",
+              "text": "All tours"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "link",
+          "originalHref": "/rent-motorbike-dalat",
+          "href": "/rent-motorbike-dalat",
+          "kind": "internal",
+          "sourceStatus": 200,
+          "sourcePath": "/rent-motorbike-dalat",
+          "children": [
+            {
+              "type": "text",
+              "text": "Scooter rental in Dalat"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "link",
+          "originalHref": "/rent-scooter-nhatrang",
+          "href": "/rent-scooter-nhatrang",
+          "kind": "internal",
+          "sourceStatus": 200,
+          "sourcePath": "/rent-scooter-nhatrang",
+          "children": [
+            {
+              "type": "text",
+              "text": "Scooter rental in Nha Trang"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "link",
+          "originalHref": "https://maps.app.goo.gl/hvewF4aRPsdtciud6",
+          "href": "https://maps.app.goo.gl/hvewF4aRPsdtciud6",
+          "kind": "external",
+          "sourceStatus": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Vietnam"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "children": [
+        {
+          "type": "text",
+          "text": "Работает на"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "link",
+          "originalHref": "https://creatium.app",
+          "href": "https://creatium.app",
+          "kind": "external",
+          "sourceStatus": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Creatium"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "originalHref": "#uslugi",
+      "href": "/ru#uslugi",
+      "kind": "internal",
+      "sourceStatus": 200,
+      "sourcePath": "/ru",
+      "text": "Услуги"
+    },
+    {
+      "originalHref": "https://t.me/mototourvietnam",
+      "href": "https://t.me/mototourvietnam",
+      "kind": "external",
+      "sourceStatus": null,
+      "text": "https://t.me/mototourvietnam"
+    },
+    {
+      "originalHref": "https://t.me/mototourvietnam",
+      "href": "https://t.me/mototourvietnam",
+      "kind": "external",
+      "sourceStatus": null,
+      "text": "Забронировать"
+    },
+    {
+      "originalHref": "https://enduro-vietnam.com/ru/dalat",
+      "href": "/ru/dalat",
+      "kind": "internal",
+      "sourceStatus": 200,
+      "sourcePath": "/ru/dalat",
+      "text": "ДалатУникальное высокогорье с мягким климатом и сосновыми борами. Здесь нет густого подлеска, поэтому можно свободно съезжать с трасс и прокладывать свой путь прямо через лес. Вас ждут затяжные подъемы, чистый горный воздух и скоростные прохваты по игольчатому ковру.Узнать подробнее"
+    },
+    {
+      "originalHref": "https://enduro-vietnam.com/ru/dalat",
+      "href": "/ru/dalat",
+      "kind": "internal",
+      "sourceStatus": 200,
+      "sourcePath": "/ru/dalat",
+      "text": "Узнать подробнее"
+    },
+    {
+      "originalHref": "https://enduro-vietnam.com/ru/nhatrang",
+      "href": "/ru/nhatrang",
+      "kind": "internal",
+      "sourceStatus": 200,
+      "sourcePath": "/ru/nhatrang",
+      "text": "НячангМаршруты сквозь настоящие тропики к скрытым водопадам. Вы пройдете по скалистым участкам и руслам горных рек, увидите дикую природу Вьетнама изнутри и подниметесь на обзорные точки, с которых открывается панорама на весь залив и прибрежные острова.Узнать подробнее"
+    },
+    {
+      "originalHref": "https://enduro-vietnam.com/ru/nhatrang",
+      "href": "/ru/nhatrang",
+      "kind": "internal",
+      "sourceStatus": 200,
+      "sourcePath": "/ru/nhatrang",
+      "text": "Узнать подробнее"
+    },
+    {
+      "originalHref": "https://enduro-vietnam.com/ru/muine",
+      "href": "/ru/muine",
+      "kind": "internal",
+      "sourceStatus": 200,
+      "sourcePath": "/ru/muine",
+      "text": "МуйнеЕдинственная локация в Юго-Восточной Азии с настоящими пустынными пейзажами. Огромные пространства белых и красных дюн, езда по кромке океана и скоростные участки. Уникальный опыт управления байком на глубоком песке в окружении невероятных видов.Узнать подробнее"
+    },
+    {
+      "originalHref": "https://enduro-vietnam.com/ru/muine",
+      "href": "/ru/muine",
+      "kind": "internal",
+      "sourceStatus": 200,
+      "sourcePath": "/ru/muine",
+      "text": "Узнать подробнее"
+    },
+    {
+      "originalHref": "https://t.me/mototourvietnam",
+      "href": "https://t.me/mototourvietnam",
+      "kind": "external",
+      "sourceStatus": null,
+      "text": "Забронировать мотоцикл"
+    },
+    {
+      "originalHref": "https://t.me/mototourvietnam",
+      "href": "https://t.me/mototourvietnam",
+      "kind": "external",
+      "sourceStatus": null,
+      "text": "Забронировать мотоцикл"
+    },
+    {
+      "originalHref": "https://t.me/mototourvietnam",
+      "href": "https://t.me/mototourvietnam",
+      "kind": "external",
+      "sourceStatus": null,
+      "text": "Забронировать мотоцикл"
+    },
+    {
+      "originalHref": "https://img2.creatium.app/plp/i.1.creatium.io/disk2/9b/8a/2c/c08c9947c8b142a4a9616d09467e014e59/img_4380.webp#%7B%22size%22:%5B2268,4032%5D,%22quality%22:8%7D",
+      "href": "https://img2.creatium.app/plp/i.1.creatium.io/disk2/9b/8a/2c/c08c9947c8b142a4a9616d09467e014e59/img_4380.webp#%7B%22size%22:%5B2268,4032%5D,%22quality%22:8%7D",
+      "kind": "external",
+      "sourceStatus": null,
+      "text": "https://img2.creatium.app/plp/i.1.creatium.io/disk2/9b/8a/2c/c08c9947c8b142a4a9616d09467e014e59/img_4380.webp#%7B%22size%22:%5B2268,4032%5D,%22quality%22:8%7D"
+    },
+    {
+      "originalHref": "https://img2.creatium.app/plp/i.1.creatium.io/disk2/fe/10/6e/831d8f6f92d2204fc4e9f9fb48a611b2a5/snimok_ekrana_2025_11_11_v_22_10_58.png#%7B%22size%22:%5B606,1078%5D,%22quality%22:8%7D",
+      "href": "https://img2.creatium.app/plp/i.1.creatium.io/disk2/fe/10/6e/831d8f6f92d2204fc4e9f9fb48a611b2a5/snimok_ekrana_2025_11_11_v_22_10_58.png#%7B%22size%22:%5B606,1078%5D,%22quality%22:8%7D",
+      "kind": "external",
+      "sourceStatus": null,
+      "text": "https://img2.creatium.app/plp/i.1.creatium.io/disk2/fe/10/6e/831d8f6f92d2204fc4e9f9fb48a611b2a5/snimok_ekrana_2025_11_11_v_22_10_58.png#%7B%22size%22:%5B606,1078%5D,%22quality%22:8%7D"
+    },
+    {
+      "originalHref": "https://img2.creatium.app/plp/i.1.creatium.io/disk2/6b/83/e2/058aba02e47da14bde4f01a0f6d91a9fcc/img_4208.webp#%7B%22size%22:%5B2268,4032%5D,%22quality%22:8%7D",
+      "href": "https://img2.creatium.app/plp/i.1.creatium.io/disk2/6b/83/e2/058aba02e47da14bde4f01a0f6d91a9fcc/img_4208.webp#%7B%22size%22:%5B2268,4032%5D,%22quality%22:8%7D",
+      "kind": "external",
+      "sourceStatus": null,
+      "text": "https://img2.creatium.app/plp/i.1.creatium.io/disk2/6b/83/e2/058aba02e47da14bde4f01a0f6d91a9fcc/img_4208.webp#%7B%22size%22:%5B2268,4032%5D,%22quality%22:8%7D"
+    },
+    {
+      "originalHref": "https://img2.creatium.app/plp/i.1.creatium.io/disk2/86/b0/57/857e2198d932fcda3db83e89803632e03e/1_2.webp#%7B%22size%22:%5B1129,2007%5D,%22quality%22:8%7D",
+      "href": "https://img2.creatium.app/plp/i.1.creatium.io/disk2/86/b0/57/857e2198d932fcda3db83e89803632e03e/1_2.webp#%7B%22size%22:%5B1129,2007%5D,%22quality%22:8%7D",
+      "kind": "external",
+      "sourceStatus": null,
+      "text": "https://img2.creatium.app/plp/i.1.creatium.io/disk2/86/b0/57/857e2198d932fcda3db83e89803632e03e/1_2.webp#%7B%22size%22:%5B1129,2007%5D,%22quality%22:8%7D"
+    },
+    {
+      "originalHref": "https://img2.creatium.app/plp/i.1.creatium.io/disk2/70/93/75/3ae36b4e3aca4386e2caa4cfa1f976e588/snimok_ekrana_2025_11_11_v_22_12_22.webp#%7B%22size%22:%5B606,1078%5D,%22quality%22:8%7D",
+      "href": "https://img2.creatium.app/plp/i.1.creatium.io/disk2/70/93/75/3ae36b4e3aca4386e2caa4cfa1f976e588/snimok_ekrana_2025_11_11_v_22_12_22.webp#%7B%22size%22:%5B606,1078%5D,%22quality%22:8%7D",
+      "kind": "external",
+      "sourceStatus": null,
+      "text": "https://img2.creatium.app/plp/i.1.creatium.io/disk2/70/93/75/3ae36b4e3aca4386e2caa4cfa1f976e588/snimok_ekrana_2025_11_11_v_22_12_22.webp#%7B%22size%22:%5B606,1078%5D,%22quality%22:8%7D"
+    },
+    {
+      "originalHref": "https://img2.creatium.app/plp/i.1.creatium.io/disk2/89/c4/0b/cb2c02c8c5a2934e03b930a999dce41515/img_5924.webp#%7B%22size%22:%5B2268,4032%5D,%22quality%22:8%7D",
+      "href": "https://img2.creatium.app/plp/i.1.creatium.io/disk2/89/c4/0b/cb2c02c8c5a2934e03b930a999dce41515/img_5924.webp#%7B%22size%22:%5B2268,4032%5D,%22quality%22:8%7D",
+      "kind": "external",
+      "sourceStatus": null,
+      "text": "https://img2.creatium.app/plp/i.1.creatium.io/disk2/89/c4/0b/cb2c02c8c5a2934e03b930a999dce41515/img_5924.webp#%7B%22size%22:%5B2268,4032%5D,%22quality%22:8%7D"
+    },
+    {
+      "originalHref": "https://img2.creatium.app/plp/i.1.creatium.io/disk2/5e/b9/39/a2c637595f867dd2c1b0e5bc04e8e8baa2/88e132ce_6a81_4b7a_b6d0_822d19f831f0.jpg#%7B%22size%22:%5B2160,3840%5D,%22quality%22:8%7D",
+      "href": "https://img2.creatium.app/plp/i.1.creatium.io/disk2/5e/b9/39/a2c637595f867dd2c1b0e5bc04e8e8baa2/88e132ce_6a81_4b7a_b6d0_822d19f831f0.jpg#%7B%22size%22:%5B2160,3840%5D,%22quality%22:8%7D",
+      "kind": "external",
+      "sourceStatus": null,
+      "text": "https://img2.creatium.app/plp/i.1.creatium.io/disk2/5e/b9/39/a2c637595f867dd2c1b0e5bc04e8e8baa2/88e132ce_6a81_4b7a_b6d0_822d19f831f0.jpg#%7B%22size%22:%5B2160,3840%5D,%22quality%22:8%7D"
+    },
+    {
+      "originalHref": "https://img2.creatium.app/plp/i.1.creatium.io/disk2/b3/70/84/590fac1f01010a61c2d48bfd976fc15e24/snimok_ekrana_2025_11_11_v_22_09_34.png#%7B%22size%22:%5B606,1078%5D,%22quality%22:8%7D",
+      "href": "https://img2.creatium.app/plp/i.1.creatium.io/disk2/b3/70/84/590fac1f01010a61c2d48bfd976fc15e24/snimok_ekrana_2025_11_11_v_22_09_34.png#%7B%22size%22:%5B606,1078%5D,%22quality%22:8%7D",
+      "kind": "external",
+      "sourceStatus": null,
+      "text": "https://img2.creatium.app/plp/i.1.creatium.io/disk2/b3/70/84/590fac1f01010a61c2d48bfd976fc15e24/snimok_ekrana_2025_11_11_v_22_09_34.png#%7B%22size%22:%5B606,1078%5D,%22quality%22:8%7D"
+    },
+    {
+      "originalHref": "https://img2.creatium.app/plp/i.1.creatium.io/disk2/a2/0b/b2/b68fa16aa7cf3519d45164fbec61972a40/img_6084.webp#%7B%22size%22:%5B2268,4032%5D,%22quality%22:8%7D",
+      "href": "https://img2.creatium.app/plp/i.1.creatium.io/disk2/a2/0b/b2/b68fa16aa7cf3519d45164fbec61972a40/img_6084.webp#%7B%22size%22:%5B2268,4032%5D,%22quality%22:8%7D",
+      "kind": "external",
+      "sourceStatus": null,
+      "text": "https://img2.creatium.app/plp/i.1.creatium.io/disk2/a2/0b/b2/b68fa16aa7cf3519d45164fbec61972a40/img_6084.webp#%7B%22size%22:%5B2268,4032%5D,%22quality%22:8%7D"
+    },
+    {
+      "originalHref": "https://t.me/mototourvietnam",
+      "href": "https://t.me/mototourvietnam",
+      "kind": "external",
+      "sourceStatus": null,
+      "text": "https://t.me/mototourvietnam"
+    },
+    {
+      "originalHref": "/ru",
+      "href": "/ru",
+      "kind": "internal",
+      "sourceStatus": 200,
+      "sourcePath": "/ru",
+      "text": "Главная страница"
+    },
+    {
+      "originalHref": "/ru/dalat",
+      "href": "/ru/dalat",
+      "kind": "internal",
+      "sourceStatus": 200,
+      "sourcePath": "/ru/dalat",
+      "text": "Эндуро туры в Далате"
+    },
+    {
+      "originalHref": "/ru/nhatrang",
+      "href": "/ru/nhatrang",
+      "kind": "internal",
+      "sourceStatus": 200,
+      "sourcePath": "/ru/nhatrang",
+      "text": "Эндуро туры в Нячанге"
+    },
+    {
+      "originalHref": "/ru/danang",
+      "href": "/ru/danang",
+      "kind": "internal",
+      "sourceStatus": 200,
+      "sourcePath": "/ru/danang",
+      "text": "Эндуро туры в Дананге"
+    },
+    {
+      "originalHref": "/ru/muine",
+      "href": "/ru/muine",
+      "kind": "internal",
+      "sourceStatus": 200,
+      "sourcePath": "/ru/muine",
+      "text": "Эндуро туры в Муйне"
+    },
+    {
+      "originalHref": "/ru/all-tours",
+      "href": "/ru/all-tours",
+      "kind": "internal",
+      "sourceStatus": 200,
+      "sourcePath": "/ru/all-tours",
+      "text": "Все туры"
+    },
+    {
+      "originalHref": "/rent-motorbike-dalat",
+      "href": "/rent-motorbike-dalat",
+      "kind": "internal",
+      "sourceStatus": 200,
+      "sourcePath": "/rent-motorbike-dalat",
+      "text": "Аренда скутеров Далат"
+    },
+    {
+      "originalHref": "ru/rent-scooter-nhatrang",
+      "href": "/ru/rent-scooter-nhatrang",
+      "kind": "internal",
+      "sourceStatus": 200,
+      "sourcePath": "/ru/rent-scooter-nhatrang",
+      "text": "Аренда скутеров Нячанг"
+    },
+    {
+      "originalHref": "/",
+      "href": "/",
+      "kind": "internal",
+      "sourceStatus": 200,
+      "sourcePath": "/",
+      "text": "Enduro tours in Vietnam"
+    },
+    {
+      "originalHref": "/dalat",
+      "href": "/dalat",
+      "kind": "internal",
+      "sourceStatus": 200,
+      "sourcePath": "/dalat",
+      "text": "Dalat"
+    },
+    {
+      "originalHref": "/nhatrang",
+      "href": "/nhatrang",
+      "kind": "internal",
+      "sourceStatus": 200,
+      "sourcePath": "/nhatrang",
+      "text": "Nha Trang"
+    },
+    {
+      "originalHref": "/danang",
+      "href": "/danang",
+      "kind": "internal",
+      "sourceStatus": 200,
+      "sourcePath": "/danang",
+      "text": "Danang"
+    },
+    {
+      "originalHref": "/muine",
+      "href": "/muine",
+      "kind": "internal",
+      "sourceStatus": 200,
+      "sourcePath": "/muine",
+      "text": "Muine"
+    },
+    {
+      "originalHref": "/all-tours",
+      "href": "/all-tours",
+      "kind": "internal",
+      "sourceStatus": 200,
+      "sourcePath": "/all-tours",
+      "text": "All tours"
+    },
+    {
+      "originalHref": "/rent-motorbike-dalat",
+      "href": "/rent-motorbike-dalat",
+      "kind": "internal",
+      "sourceStatus": 200,
+      "sourcePath": "/rent-motorbike-dalat",
+      "text": "Scooter rental in Dalat"
+    },
+    {
+      "originalHref": "/rent-scooter-nhatrang",
+      "href": "/rent-scooter-nhatrang",
+      "kind": "internal",
+      "sourceStatus": 200,
+      "sourcePath": "/rent-scooter-nhatrang",
+      "text": "Scooter rental in Nha Trang"
+    },
+    {
+      "originalHref": "https://maps.app.goo.gl/hvewF4aRPsdtciud6",
+      "href": "https://maps.app.goo.gl/hvewF4aRPsdtciud6",
+      "kind": "external",
+      "sourceStatus": null,
+      "text": "Vietnam"
+    },
+    {
+      "originalHref": "https://t.me/mototourvietnam",
+      "href": "https://t.me/mototourvietnam",
+      "kind": "external",
+      "sourceStatus": null,
+      "text": "https://t.me/mototourvietnam"
+    },
+    {
+      "originalHref": "https://www.instagram.com/enduro.vietnam",
+      "href": "https://www.instagram.com/enduro.vietnam",
+      "kind": "external",
+      "sourceStatus": null,
+      "text": "https://www.instagram.com/enduro.vietnam"
+    },
+    {
+      "originalHref": "https://wa.me/79994564498",
+      "href": "https://wa.me/79994564498",
+      "kind": "external",
+      "sourceStatus": null,
+      "text": "https://wa.me/79994564498"
+    },
+    {
+      "originalHref": "https://t.me/tg_globalf",
+      "href": "https://t.me/tg_globalf",
+      "kind": "external",
+      "sourceStatus": null,
+      "text": "https://t.me/tg_globalf"
+    },
+    {
+      "originalHref": "https://creatium.app",
+      "href": "https://creatium.app",
+      "kind": "external",
+      "sourceStatus": null,
+      "text": "Creatium"
+    }
+  ],
+  "images": [
+    {
+      "src": "/assets/6bdd40c52c3b30dd7471.png",
+      "alt": "",
+      "originalSrc": "https://img2.creatium.app/disk2/6b/0b/d8/c10946f19224345a76344a8611c9b27fea/logoendurov2.png#%7B%22size%22:%5B411,225%5D,%22quality%22:8%7D"
+    },
+    {
+      "src": "/assets/752768328828e4f959b0.webp",
+      "alt": "",
+      "originalSrc": "https://img2.creatium.app/disk2/89/6e/b3/09d8b166438f81765ee845131919e38206/serpantin_s_motocilistom.webp#%7B%22size%22:%5B1927,1278%5D,%22quality%22:8%7D"
+    },
+    {
+      "src": "/assets/16f462503553933d2638.webp",
+      "alt": "",
+      "originalSrc": "https://img2.creatium.app/disk2/00/56/d7/171d6109d56291e353b810038c1083a5ab/dalat_1.webp#%7B%22size%22:%5B917,1621%5D,%22quality%22:8%7D"
+    },
+    {
+      "src": "/assets/778a5cda026bc447f110.webp",
+      "alt": "",
+      "originalSrc": "https://img2.creatium.app/disk2/f9/3c/4f/6f17f409ebe21aba1af1fc123f55f59be7/nhatrang.webp#%7B%22size%22:%5B917,1621%5D,%22quality%22:8%7D"
+    },
+    {
+      "src": "/assets/20ae69184dab01a398a3.webp",
+      "alt": "",
+      "originalSrc": "https://img2.creatium.app/disk2/a7/a9/28/b2b6ca91aa118006129073f46c2e92c2b5/muine_2.webp#%7B%22size%22:%5B917,1622%5D,%22quality%22:8%7D"
+    },
+    {
+      "src": "/assets/5404023c832618576ccb.webp",
+      "alt": "",
+      "originalSrc": "https://img2.creatium.app/plp/i.1.creatium.io/disk2/1f/f8/0f/c3c6fc6d90272be675362c2a7ac15aeef2/enduro_dalat_vietnam.webp#%7B%22size%22:%5B1024,1024%5D,%22quality%22:8%7D"
+    },
+    {
+      "src": "/assets/0ee77334b1b5d7ff4abf.webp",
+      "alt": "",
+      "originalSrc": "https://img2.creatium.app/plp/i.1.creatium.io/disk2/cd/23/63/a10dd0ebea77c2a7d146dba812120f0f5a/honda_xr230.webp#%7B%22size%22:%5B1179,1179%5D,%22quality%22:8%7D"
+    },
+    {
+      "src": "/assets/bcc637cad93747e15deb.webp",
+      "alt": "",
+      "originalSrc": "https://img2.creatium.app/plp/i.1.creatium.io/disk2/84/2a/f2/2460082d5fb9c6daea3394604ec89b1065/honda_xr150_1.webp#%7B%22size%22:%5B1179,1179%5D,%22quality%22:8%7D"
+    },
+    {
+      "src": "/assets/04ab56a3ffb92597db35.webp",
+      "alt": "",
+      "originalSrc": "https://img2.creatium.app/plp/i.1.creatium.io/disk2/b6/0b/95/1b1c4a8da864392c01317f9c050c589b1a/yamaha_serow225.webp#%7B%22size%22:%5B1179,1179%5D,%22quality%22:8%7D"
+    },
+    {
+      "src": "/assets/0051a2771feb666ddcdc.webp",
+      "alt": "",
+      "originalSrc": "https://img2.creatium.app/disk2/27/4f/f9/c2a6a2f98b356882736a43e1c9b2815f94/img_7120_1.webp#%7B%22size%22:%5B2000,1125%5D,%22quality%22:8%7D"
+    },
+    {
+      "src": "/assets/ba2e241001fc9f385fbe.webp",
+      "alt": "",
+      "originalSrc": "https://img2.creatium.app/disk2/9e/10/2b/36c90984cb02be3358a26df65c1e3eb315/besplatnoe_obuchenie_dlya_novichkov.webp#%7B%22size%22:%5B%22885%22,%22859%22%5D,%22quality%22:8%7D"
+    },
+    {
+      "src": "/assets/37a86daa3551b9ad639e.webp",
+      "alt": "",
+      "originalSrc": "https://img2.creatium.app/disk2/30/ed/98/139faa32791297272aabeb5fb64cfea236/nujni_li_prava_vo_vetname.webp#%7B%22size%22:%5B%22885%22,%22880%22%5D,%22quality%22:8%7D"
+    },
+    {
+      "src": "/assets/b2c3a4f98dcf8c0f7f51.webp",
+      "alt": "",
+      "originalSrc": "https://img2.creatium.app/disk2/d4/9c/e7/db6244935a994e57c9a77b60e397f5c894/trassi_lyuboy_slojnosti_vokrug_dalata.webp#%7B%22size%22:%5B%22872%22,%22853%22%5D,%22quality%22:8%7D"
+    },
+    {
+      "src": "/assets/742ab72cb1050ace382c.webp",
+      "alt": "",
+      "originalSrc": "https://img2.creatium.app/disk2/fb/63/e1/cd4cc21f33f61a7236bed31610d7105e0a/kak_dobratsya_do_dalata.webp#%7B%22size%22:%5B%22872%22,%22858%22%5D,%22quality%22:8%7D"
+    },
+    {
+      "src": "/assets/d9b6f4a6f79032aa1d1f.webp",
+      "alt": "",
+      "originalSrc": "https://img2.creatium.app/plp/i.1.creatium.io/disk2/b3/b2/3f/0e94e182d68c0f530b945c8251e67b2cf3/photo_2025_12_10_11_56_04.webp#%7B%22size%22:%5B640,640%5D,%22quality%22:8%7D"
+    },
+    {
+      "src": "/assets/86e64a566e72efcbc828.webp",
+      "alt": "",
+      "originalSrc": "https://img2.creatium.app/plp/i.1.creatium.io/disk2/7c/7b/81/d583c262dc1f6330babe09af829a9b38c5/photo_2025_12_10_11_57_09.webp#%7B%22size%22:%5B640,640%5D,%22quality%22:8%7D"
+    },
+    {
+      "src": "/assets/6e0d3534396640acde5f.webp",
+      "alt": "",
+      "originalSrc": "https://img2.creatium.app/plp/i.1.creatium.io/disk2/9b/8a/2c/c08c9947c8b142a4a9616d09467e014e59/img_4380.webp#%7B%22size%22:%5B2268,4032%5D,%22quality%22:8%7D"
+    },
+    {
+      "src": "/assets/67528b4bd468a2d768c5.png",
+      "alt": "",
+      "originalSrc": "https://img2.creatium.app/plp/i.1.creatium.io/disk2/fe/10/6e/831d8f6f92d2204fc4e9f9fb48a611b2a5/snimok_ekrana_2025_11_11_v_22_10_58.png#%7B%22size%22:%5B606,1078%5D,%22quality%22:8%7D"
+    },
+    {
+      "src": "/assets/b4527b3470e54100ae83.webp",
+      "alt": "",
+      "originalSrc": "https://img2.creatium.app/plp/i.1.creatium.io/disk2/6b/83/e2/058aba02e47da14bde4f01a0f6d91a9fcc/img_4208.webp#%7B%22size%22:%5B2268,4032%5D,%22quality%22:8%7D"
+    },
+    {
+      "src": "/assets/8f7d52dc78bf859dcc31.webp",
+      "alt": "",
+      "originalSrc": "https://img2.creatium.app/plp/i.1.creatium.io/disk2/86/b0/57/857e2198d932fcda3db83e89803632e03e/1_2.webp#%7B%22size%22:%5B1129,2007%5D,%22quality%22:8%7D"
+    },
+    {
+      "src": "/assets/ad544ec76f333b78fc0c.webp",
+      "alt": "",
+      "originalSrc": "https://img2.creatium.app/plp/i.1.creatium.io/disk2/70/93/75/3ae36b4e3aca4386e2caa4cfa1f976e588/snimok_ekrana_2025_11_11_v_22_12_22.webp#%7B%22size%22:%5B606,1078%5D,%22quality%22:8%7D"
+    },
+    {
+      "src": "/assets/be285433370c15c7af02.webp",
+      "alt": "",
+      "originalSrc": "https://img2.creatium.app/plp/i.1.creatium.io/disk2/89/c4/0b/cb2c02c8c5a2934e03b930a999dce41515/img_5924.webp#%7B%22size%22:%5B2268,4032%5D,%22quality%22:8%7D"
+    },
+    {
+      "src": "/assets/4e8e231ffd21bbe7206b.jpg",
+      "alt": "",
+      "originalSrc": "https://img2.creatium.app/plp/i.1.creatium.io/disk2/5e/b9/39/a2c637595f867dd2c1b0e5bc04e8e8baa2/88e132ce_6a81_4b7a_b6d0_822d19f831f0.jpg#%7B%22size%22:%5B2160,3840%5D,%22quality%22:8%7D"
+    },
+    {
+      "src": "/assets/a6b823c6a44051243dd5.png",
+      "alt": "",
+      "originalSrc": "https://img2.creatium.app/plp/i.1.creatium.io/disk2/b3/70/84/590fac1f01010a61c2d48bfd976fc15e24/snimok_ekrana_2025_11_11_v_22_09_34.png#%7B%22size%22:%5B606,1078%5D,%22quality%22:8%7D"
+    },
+    {
+      "src": "/assets/3e35d20283372863cf32.webp",
+      "alt": "",
+      "originalSrc": "https://img2.creatium.app/plp/i.1.creatium.io/disk2/a2/0b/b2/b68fa16aa7cf3519d45164fbec61972a40/img_6084.webp#%7B%22size%22:%5B2268,4032%5D,%22quality%22:8%7D"
+    },
+    {
+      "src": "/assets/cc10098f7dc1ab9a24e2.webp",
+      "alt": "",
+      "originalSrc": "https://img2.creatium.app/plp/i.1.creatium.io/disk2/f7/c7/fa/c300e1b5fbe2d1fd77e332a177e25c13b8/enduro_vetnam_1.webp#%7B%22size%22:%5B784,1168%5D,%22quality%22:8%7D"
+    },
+    {
+      "src": "/assets/552129785e9f7220a9f0.webp",
+      "alt": "",
+      "originalSrc": "https://img2.creatium.app/plp/i.1.creatium.io/disk2/96/5d/6c/4d8a67ef7fa0b94ea46aee531cec746b65/gmc_1.webp#%7B%22size%22:%5B1240,1240%5D,%22quality%22:8%7D"
+    },
+    {
+      "src": "/assets/8283b920abfa07153f37.png",
+      "alt": "",
+      "originalSrc": "https://img2.creatium.app/plp/i.1.creatium.io/disk2/3a/ae/f3/cce465da664e56752e6b093b69989fd09d/icons8_adres_100.png#%7B%22size%22:%5B100,100%5D,%22quality%22:8%7D"
+    },
+    {
+      "src": "/assets/90c78507e5c111b73df4.png",
+      "alt": "",
+      "originalSrc": "https://img2.creatium.app/plp/i.1.creatium.io/disk2/d8/30/fb/99f10ae307d4102ca55ac250789452de20/group_94.png#%7B%22size%22:%5B197,197%5D,%22quality%22:8%7D"
+    }
+  ],
+  "anchors": [
+    "reviewBgpic1",
+    "reviewBgpic3",
+    "price",
+    "otzyvy",
+    "preimushhestva",
+    "powered-by",
+    "uslugi"
+  ],
+  "repairs": [
+    "Restored missing #uslugi anchor on the existing rental/services pricing heading"
+  ],
+  "originalText": [
+    "Мото туры Вьетнам: Аренда мотоциклов для офф-роуд приключений | Enduro-Vietnam",
+    "Услуги",
+    "аренда | мототуры",
+    "Сеть по всей стране:",
+    "Наши базы в ключевых точках Вьетнама — аренда и поддержка там, где вам удобно",
+    "5 лет опыта:",
+    "Провели сотни туров и знаем самые безопасные и драйвовые маршруты страны",
+    "МОТО ТУРЫ ВО ВЬЕТНАМЕ",
+    "Мототуры по Вьетнаму",
+    "Забронировать",
+    "АРЕНДА ЭНДУРО ДЛЯ ОФФ-РОУД ПРИКЛЮЧЕНИЙ",
+    "ГОРОДА, В КОТОРЫХ МЫ ПРОВОДИМ ТУРЫ",
+    "Подберите идеальный отдых",
+    "Далат",
+    "Уникальное высокогорье с мягким климатом и сосновыми борами. Здесь нет густого подлеска, поэтому можно свободно съезжать с трасс и прокладывать свой путь прямо через лес. Вас ждут затяжные подъемы, чистый горный воздух и скоростные прохваты по игольчатому ковру.",
+    "Узнать подробнее",
+    "Нячанг",
+    "Маршруты сквозь настоящие тропики к скрытым водопадам. Вы пройдете по скалистым участкам и руслам горных рек, увидите дикую природу Вьетнама изнутри и подниметесь на обзорные точки, с которых открывается панорама на весь залив и прибрежные острова.",
+    "Узнать подробнее",
+    "Муйне",
+    "Единственная локация в Юго-Восточной Азии с настоящими пустынными пейзажами. Огромные пространства белых и красных дюн, езда по кромке океана и скоростные участки. Уникальный опыт управления байком на глубоком песке в окружении невероятных видов.",
+    "Узнать подробнее",
+    "ПОЕЗДКА С РЕБЯТАМИ ИЗ КАЗАХСТАНА",
+    "Мы с ребятами из Казахстана рванули на байках к Суои Ван через сосны и холмы! Пикник у воды: кофе из местных плантаций и завораживающие виды. Ребята с мопедным опытом быстро освоили эндуро — сцепление, газ, трейлы. За пару часов в уверенных райдеров!",
+    "МОТО ПАРК",
+    "Ищете аренду мото или прокат мото для приключений? Организуем внедорожный тур на легендарных dirt-байках: Honda XR, Yamaha Serow. Доступно обучение на мотоцикле для новичков",
+    "🔥 Honda XR 230",
+    "Наш ТОП-байк. Увеличенная мощность и укороченная ручка газа для максимально резвого разгона и комфорта.",
+    "20 л.с. 🦾",
+    "Забронировать мотоцикл",
+    "🔰",
+    "Honda XR 150",
+    "Лучший выбор для новичков. Умеренная мощность гарантирует безопасное и лёгкое знакомство с миром эндуро.",
+    "12 л.с. 🦾",
+    "Забронировать мотоцикл",
+    "⛰️",
+    "Yamaha Serow 225",
+    "Легенда бездорожья, отличающаяся высочайшей проходимостью на любых, даже самых сложных маршрутах.",
+    "18 л.с. 🦾",
+    "Забронировать мотоцикл",
+    "ВИДЕО ИЗ НАШЕЙ ЖИЗНИ",
+    "У нас очень насыщенная жизнь и мы рады ей поделиться 😊",
+    "СТОИМОСТЬ АРЕНДЫ",
+    "Название услуги",
+    "1 день",
+    "3 дня",
+    "Прокат эндуро 150 куб.",
+    "25💲",
+    "70💲",
+    "Аренда эндуро 230 куб.",
+    "от 40💲",
+    "120💲",
+    "Тур эндуро",
+    "от 100💲",
+    "Аренда скутера",
+    "от 5💲",
+    "НАШИ ПРЕИМУЩЕСТВА",
+    "Бесплатное обучение для начинающих",
+    "В рамках тура мы научим вас всему: от основ работы со сцеплением и переключения скоростей до уверенного переезда препятствий на внедорожном байке.",
+    "Водительские права категории \"А\" не требуются",
+    "Желательно иметь права МВУ для безопасной езды.",
+    "Но давайте будем честны, мы во Вьетнаме, и здешняя полиция очень снисходительна к туристам.",
+    "Трассы любой сложности",
+    "Вьетнам — сплошной рай для эндуро: туманные горы, водопады, чайные плантации и скрытые тропы. Мы подберем маршрут под вас — от легких для новичков с панорамными видами до хардкорных для профи, с адреналиновыми спусками и вызовами!",
+    "Простая бронь",
+    "Мы сделали сервис максимально простым, чтобы вы могли наслаждаться мото трипом и не думать ни о каких проблемах. У нас одни из самых конкурентноспособных цен",
+    "Бесплатное обучение для начинающих",
+    "В рамках тура мы научим вас всему: от основ работы со сцеплением и переключения скоростей до уверенного переезда препятствий на внедорожном байке.",
+    "Водительские права категории \"А\" не требуются",
+    "Желательно иметь права МВУ для безопасной езды.",
+    "Но давайте будем честны, мы во Вьетнаме, и здешняя полиция очень снисходительна к туристам.",
+    "Трассы любой сложности",
+    "Вьетнам — сплошной рай для эндуро: туманные горы, водопады, чайные плантации и скрытые тропы. Мы подберем маршрут под вас — от легких для новичков с панорамными видами до хардкорных для профи, с адреналиновыми спусками и вызовами!",
+    "Простое бронирование",
+    "Мы сделали сервис максимально простым, чтобы вы могли наслаждаться мото трипом и не думать ни о каких проблемах. У нас одни из самых конкурентноспособных цен",
+    "ИНСТРУКТОРЫ",
+    "Профессионалы, которые дадут вам уверенность",
+    "Михайлов Андрей",
+    "Инструктор, с детства на колесах",
+    "Лихачёв Слава",
+    "Инструктор, с 14 лет на эндуро суете",
+    "Михайлов Алексей",
+    "Инструктор, с детства на колесах",
+    "Лихачёв Слава",
+    "Инструктор, с 14 лет на эндуро суете",
+    "ОТЗЫВЫ ГОСТЕЙ ВЬЕТНАМА",
+    "1",
+    "/",
+    "3",
+    "Михаил",
+    "Решили с отцом вдвоем отправиться на этот эндуро-тур. У него за плечами куча опыта в покатушках на мотоцикле, а у меня — почти ноль. Честно, я сильно переживал, что без навыков весь выезд пойдет насмарку. Но на деле все вышло иначе: Андрей всего за 1–2 часа \"посадил\" меня за руль, разобрал азы и тонкости вождения.",
+    "В оставшееся время мы оторвались по-настоящему — проехали через джунгли, каменистые тропы, бездорожье, холмы и горные склоны Центрального нагорья. Нам обоим зашло на все сто, и это приключение задало настроение всей нашей поездке по Вьетнаму! 😊 Особо отмечу тренерский талант Андрея — он мастерски работает с новичками и по-настоящему открыл для нас с отцом волшебный мир эндуро. Рекомендую всем, кто хочет адреналина в прохладных высотах Далата!",
+    "Показать еще",
+    "Скрыть",
+    "Андрей",
+    "Супруга Юлия подарила мне эту экскурсию на день рождения — она знает, как я обожаю мотоциклы. Сама-то у неё опыта всего пара часов на кроссовой трассе, так что все три дня после оплаты тура она переживала не на шутку. А я в эндуро тоже не профи. Но Бориса — Тренера (именно Тренера, ведь это больше тренировка с элементами приключения, чем просто поездка) — наш \"нулевой\" багаж ни капли не смутил.",
+    "Он потратил не меньше часа на учебной площадке, чтобы с нуля поставить на ноги человека, и, кстати, Юля даже самостоятельно поехала — правда, только по прямой ;) В итоге Борис принял крутое решение: взял Юлю вторым номером на свой байк. В сумме мы накатали около 60 км по пересечёнке — с камнями, канавами, крутыми подъёмами и спусками. Честно, порой казалось, что очередное препятствие вообще нереально одолеть физически, но видя, как легко Борис с этим справляется (ещё и с пассажиром!), я заряжался мотивацией и повторял следом. Конечно, технике и экипировке досталось по полной... Каждая секунда этого маршрута врежется в память навсегда, а непринуждённое общение с Борисом оставило сплошной позитив. А финальный \"добивающий\" штрих — подарок лично от него! Затронуло до слёз! Эта вылазка стоит куда дороже любой цены — воспоминания-то бесценны! Рекомендую всем парам, ищущим адреналин и единение с природой. 😊",
+    "Показать еще",
+    "Скрыть",
+    "Михаил",
+    "Решили с отцом вдвоем отправиться на этот эндуро-тур в Далат. У него за плечами куча опыта в покатушках на мотоцикле, а у меня — почти ноль. Честно, я сильно переживал, что без навыков весь выезд пойдет насмарку. Но на деле все вышло иначе: Андрей всего за 1–2 часа \"посадил\" меня за руль, разобрал азы и тонкости вождения.",
+    "В оставшееся время мы оторвались по-настоящему — проехали через джунгли, каменистые тропы, бездорожье, холмы и горные склоны Центрального нагорья. Нам обоим зашло на все сто, и это приключение задало настроение всей нашей поездке по Вьетнаму! 😊 Особо отмечу тренерский талант Андрея — он мастерски работает с новичками и по-настоящему открыл для нас с отцом волшебный мир эндуро. Рекомендую всем, кто хочет адреналина в прохладных высотах Далата!",
+    "Показать еще",
+    "Скрыть",
+    "ФОТО С ВЫЕЗДОВ",
+    "Часто задаваемые вопросы (FAQ)",
+    "Нужны ли международные права для катания на мотоцикле?",
+    "Хотя формально права требуются, Далат — туристический центр эндуро. Но вьетнамские власти в Далате не тормозят туристов на эндуро мотоциклах. Поэтому мы можем спокойно кататься, не беспокоясь об этом💫",
+    "Со скольких и до скольких часов вы работаете?",
+    "Мы начинаем катать с самого утра, примерно с 7:00, и работаем до наступления темноты, около 18:00. Вы можете выбрать прокат любой продолжительности, вплоть до целого дня.",
+    "Можно ли мне кататься на мото, если у меня нет опыта вождения?",
+    "Конечно! Мы тренируем всех, независимо от возраста и пола. Всего за один день тренировки вы освоите механику и сможете уверенно ездить самостоятельно. Мы гарантируем, что вы сможете поехать⚡️",
+    "Какая экипировка включена в стоимость?",
+    "В стоимость проката включены мотоцикл (эндуро) и защитный шлем. Рекомендуем приехать в удобной, закрытой одежде, которую не жалко испачкать. Обувь тоже возьмите удобную, на шнурках. Тапки точно не подойдут😁",
+    "Могу ли я взять в аренду эндуро мотоцикл без залога?",
+    "В залог за мотоцикл берется либо 200💲, либо ваш паспорт. Это гарантия на случай мелкого ремонта.",
+    "Кто оплачивает поломки или повреждения мотоцикла?",
+    "Все, что происходит по вине клиента (падения😱, повреждения), оплачивается клиентом по факту ремонта.",
+    "Вы сдаете в аренду только эндуро мотоциклы или также кроссовые мотоциклы?",
+    "Наш основной фокус — это, конечно, эндуро мотоциклы для офф-роуда. Кроссовые мотоциклы мы сами в аренду не сдаем, но можем связать вас с нашими вьетнамскими коллегами, которые их предлагают. Только имейте в виду, что ценник там, соответственно, выше. А еще у нас можно взять GoPro, дрон, скутеры, мопеды (включая PG-1). Любой каприз за ваши деньги! Хотите выездную кухню или шашлык? Спросите! 😉💸",
+    "Не нашли",
+    "ответ?",
+    "Напишите нам",
+    "Enduro-Vietnam",
+    "По вопросам сотрудничества пишите в телеграмм",
+    "© 2026. Все права защищены",
+    "Главная страница",
+    "Эндуро туры в Далате",
+    "Эндуро туры в Нячанге",
+    "Эндуро туры в Дананге",
+    "Эндуро туры в Муйне",
+    "Все туры",
+    "Аренда скутеров Далат",
+    "Аренда скутеров Нячанг",
+    "Enduro tours in Vietnam",
+    "Dalat",
+    "Nha Trang",
+    "Danang",
+    "Muine",
+    "All tours",
+    "Scooter rental in Dalat",
+    "Scooter rental in Nha Trang",
+    "Vietnam",
+    "Работает на",
+    "Creatium"
+  ]
+}

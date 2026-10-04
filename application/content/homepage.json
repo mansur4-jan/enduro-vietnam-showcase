@@ -1,0 +1,209 @@
+{
+  "hero": {
+    "eyebrow": "rent | motorcycle tours",
+    "intro": [
+      "Countrywide network: Our bases are located in key locations across Vietnam, providing rental and support services wherever you need them.",
+      "5 years of experience: We have conducted hundreds of tours and know the safest and most exciting routes in the country"
+    ],
+    "title": "VIETNAM MOTORCYCLE TOUR",
+    "subtitle": "GUIDED OFF-ROAD ENDURO TOURS OR DIRT-BIKE RENTAL",
+    "image": "/assets/752768328828e4f959b0.webp",
+    "poster": "/assets/2b4150e0ee7b8a05c7eb.png"
+  },
+  "logo": "/assets/73b8058bd6889c09cd2a.png",
+  "cities": [
+    {
+      "name": "Dalat",
+      "description": "Highlands with a mild climate and pine forests. There is no dense undergrowth, so you can freely leave the trails and make your way through the forest. Long climbs, clean mountain air, and high-speed rides on a \"carpet\" of needles await you. We also recommend hiking Langbiang Mountain and karting.",
+      "image": "/assets/16f462503553933d2638.webp",
+      "href": "/dalat"
+    },
+    {
+      "name": "Nha Trang",
+      "description": "Routes through real jungles to hidden waterfalls. You will walk through rocky areas and mountain riverbeds, see the wild nature of Vietnam from the inside, and climb to observation points with panoramic views of the entire bay and coastal islands. Nha Trang is also ideal for diving, SUP, and beach relaxation.",
+      "image": "/assets/778a5cda026bc447f110.webp",
+      "href": "/nhatrang"
+    },
+    {
+      "name": "Da Nang",
+      "description": "A stunning combination of mountains and ocean. Ride through the legendary Hai Van Pass, explore the caves of the Marble Mountains, and catch the sunrise on Son Tra Peninsula among wild monkeys. Da Nang is a top spot for surfing at My Khe Beach, paragliding, and active cycling along the coast.",
+      "image": "/assets/663f5b98b8f382d842ea.webp",
+      "href": "/danang"
+    },
+    {
+      "name": "Mui Ne",
+      "description": "Desert landscapes. Huge expanses of white and red dunes, riding along the ocean's edge, and high-speed sections. A unique experience of riding a bike on deep sand surrounded by incredible views like in the game GTA. You can also master kitesurfing, surfing, or driving quad bikes in this city.",
+      "image": "/assets/20ae69184dab01a398a3.webp",
+      "href": "/muine"
+    }
+  ],
+  "advantages": [
+    {
+      "title": "Free training for beginners",
+      "description": "During the tour, we will teach you everything from the basics of clutch operation and gear shifting to confidently overcoming obstacles on an off-road bike.",
+      "image": "/assets/ba2e241001fc9f385fbe.webp",
+      "mediaWidth": 177,
+      "mediaGap": 19
+    },
+    {
+      "title": "Category A driver's license is not required",
+      "description": "It's advisable to have an IDP for safe driving. But let's be honest, we're in Vietnam, and the police here are very lenient towards tourists.",
+      "image": "/assets/37a86daa3551b9ad639e.webp",
+      "mediaWidth": 177,
+      "mediaGap": 15
+    },
+    {
+      "title": "Trails of any complexity",
+      "description": "Vietnam is an enduro paradise: misty mountains, waterfalls, tea plantations, and hidden trails. We'll tailor a route to suit you—from easy beginner routes with panoramic views to hardcore pro routes with adrenaline-pumping descents and challenges!",
+      "image": "/assets/b2c3a4f98dcf8c0f7f51.webp",
+      "mediaWidth": 174.39,
+      "mediaGap": 21
+    },
+    {
+      "title": "Simple booking",
+      "description": "We've made our service as simple as possible so you can enjoy your motorcycle trip worry-free. We offer some of the most competitive prices.",
+      "image": "/assets/742ab72cb1050ace382c.webp",
+      "mediaWidth": 174.39,
+      "mediaGap": 19
+    }
+  ],
+  "advantagesBg": "/assets/0051a2771feb666ddcdc.webp",
+  "formImage": "/assets/056320e70ff468385f12.webp",
+  "socialImage": "/assets/ab4703522622223b2fe8.webp",
+  "socialCopy": "We post route guides, bike reviews, and pure Dalat vibes. Join us — it’s a fun ride!",
+  "popularIntro": "This selection of motorcycle tours in Vietnam is designed for intermediate riders. The routes combine technical country roads and natural obstacles, with a minimum of 25% off-road sections.",
+  "tourNames": [
+    "Dalat Day Tour",
+    "Extended route in Dalat",
+    "Two-day Dalat tour",
+    "Three-Day Tour of Dalat and Nha Trang",
+    "Three-Day Tour of Dalat and Mui Ne",
+    "Easy Rider - Enduro Route for Beginners",
+    "Nha Trang Day Tour",
+    "Extended Nha Trang Route",
+    "Great 4 Day Motorbike Touring South Vietnam"
+  ],
+  "tourSpecs": [
+    "📆 Duration:3 hours\n📍Directions:Around Dalat\n⛰️ Tour level: Easy",
+    "📆 Duration:6 hours\n📍Directions:Around Dalat\n⛰️ Tour level: Medium",
+    "📆 Duration:2 days\n📍Directions:Around Dalat\n⛰️ Tour level: Medium",
+    "📆 Duration:3 days\n📍Directions:Dalat - Nha Trang\n⛰️ Tour level: Easy",
+    "📆 Duration:3 days\n📍Directions:Dalat - Mui Ne\n⛰️ Tour level: Easy",
+    "📆 Duration:2.5 hours\n📍Directions:Around Dalat\n⛰️ Tour level: Easy",
+    "📆 Duration:2.5 hours\n📍Directions:Around Nha Trang\n⛰️ Tour level: Medium",
+    "📆 Duration:4 hours\n📍Directions:Around Nha Trang\n⛰️ Tour level: Medium",
+    "📆 Duration:4 days\n📍Directions:Sai Gon - Na Cat Tien National Park - Ta Dung lake - Mui Ne - Saigon\n⛰️ Tour level: Easy",
+    "📆 Duration:3 hours\n📍Directions:Around Dalat\n⛰️ Tour level:Easy",
+    "📆 Duration:6 hours\n📍Directions:Around Dalat\n⛰️ Tour level:Medium",
+    "📆 Duration:2 days\n📍Directions:Around Dalat\n⛰️ Tour level:Medium",
+    "📆 Duration:3 days\n📍Directions:Dalat - Nha Trang\n⛰️ Tour level:Easy",
+    "📆 Duration:3 days\n📍Directions:Dalat - Mui Ne\n⛰️ Tour level:Easy",
+    "📆 Duration:2.5 hours\n📍Directions:Around Dalat\n⛰️ Tour level:Easy",
+    "📆 Duration:2.5 hours\n📍Directions:Around Nha Trang\n⛰️ Tour level:Medium",
+    "📆 Duration:4 hours\n📍Directions:Around Nha Trang\n⛰️ Tour level:Medium",
+    "📆 Duration:4 days\n📍Directions:Sai Gon - Na Cat Tien National Park - Ta Dung lake - Mui Ne - Saigon\n⛰️ Tour level:Easy",
+    "📆 Duration:5 days\n📍Directions:Saigon - Dong Xoai - Binh Phuoc - Dao Lac - Buon Me Thuot - Lak lake - Da Lat - Nha Trang\n⛰️ Tour level:Easy",
+    "📆 Duration:6 days\n📍Directions:Ho Chi Minh City - Chau Doc - Cai Rang market - Ben Tre - Can Tho - Vung Tau - Mui Ne - Sai Gon\n⛰️ Tour level:Easy",
+    "📆 Duration:7 days\n📍Directions:Ho Chi Minh city - Long Hai Beach - Mui Ne beach - Bao Loc - Dak Mil - Lak Lake - Nha Trang - Da lat\n⛰️ Tour level:Easy",
+    "📆 Duration:10 days\n📍Directions:Ho Chi Minh city - Ben Tre - Can Tho - Chau Doc - Vung Tau - Mui Ne - Da Lat - Buon Ma Thuot - Kon Tum - Hoi An\n⛰️ Tour level:Medium",
+    "📆 Duration:7 days\n📍Directions:Sai Gon - My Tho - Cai Be - Vinh Long - Can Tho - Cai Rang - Sai Gon - Nam Cat Tien National Park - Lam Dong - Da Lat - Phan Thiet - Sai Gon\n⛰️ Tour level:Easy",
+    "📆 Duration:3 hours\n📍Directions:Around Dalat\n⛰️ Tour level:Easy",
+    "📆 Duration:6 hours\n📍Directions:Around Dalat\n⛰️ Tour level:Medium",
+    "📆 Duration:2 days\n📍Directions:Around Dalat\n⛰️ Tour level:Medium",
+    "📆 Duration:3 days\n📍Directions:Dalat - Nha Trang\n⛰️ Tour level:Easy",
+    "📆 Duration:3 days\n📍Directions:Dalat - Mui Ne\n⛰️ Tour level:Easy",
+    "📆 Duration:2.5 hours\n📍Directions:Around Dalat\n⛰️ Tour level:Easy",
+    "📆 Duration:2.5 hours\n📍Directions:Around Nha Trang\n⛰️ Tour level:Medium",
+    "📆 Duration:4 hours\n📍Directions:Around Nha Trang\n⛰️ Tour level:Medium",
+    "📆 Duration:4 days\n📍Directions:Sai Gon - Na Cat Tien National Park - Ta Dung lake - Mui Ne - Saigon\n⛰️ Tour level:Easy",
+    "📆 Duration:5 days\n📍Directions:Saigon - Dong Xoai - Binh Phuoc - Dao Lac - Buon Me Thuot - Lak lake - Da Lat - Nha Trang\n⛰️ Tour level:Easy",
+    "📆 Duration:6 days\n📍Directions:Ho Chi Minh City - Chau Doc - Cai Rang market - Ben Tre - Can Tho - Vung Tau - Mui Ne - Sai Gon\n⛰️ Tour level:Easy",
+    "📆 Duration:7 days\n📍Directions:Ho Chi Minh city - Long Hai Beach - Mui Ne beach - Bao Loc - Dak Mil - Lak Lake - Nha Trang - Da lat\n⛰️ Tour level:Easy",
+    "📆 Duration:10 days\n📍Directions:Ho Chi Minh city - Ben Tre - Can Tho - Chau Doc - Vung Tau - Mui Ne - Da Lat - Buon Ma Thuot - Kon Tum - Hoi An\n⛰️ Tour level:Medium",
+    "📆 Duration:7 days\n📍Directions:Sai Gon - My Tho - Cai Be - Vinh Long - Can Tho - Cai Rang - Sai Gon - Nam Cat Tien National Park - Lam Dong - Da Lat - Phan Thiet - Sai Gon\n⛰️ Tour level:Easy"
+  ],
+  "prices": [
+    "$120",
+    "$150",
+    "$300",
+    "$1000",
+    "$1000",
+    "$100",
+    "$120",
+    "$150",
+    "$960",
+    "$140",
+    "$140",
+    "$140",
+    "$200",
+    "$120"
+  ],
+  "reviewCopy": [
+    "Enduro Vietnam: Fully Geared Rider Ready for Da Lat Forest Trails",
+    "We decided to go on this enduro tour to Dalat together with my father. He has a lot of motorcycle riding experience, and I have almost zero. Honestly, I was very worried that without the skills, the whole trip would go down the drain. But in reality, everything turned out differently: in just 1-2 hours, Andrey \"put\" me behind the wheel, sorted out the basics and subtleties of driving.",
+    "In the remaining time, we really went for it — we rode through the jungle, rocky trails, off-road, hills, and mountain slopes of the Central Highlands. We both had a great time, and this adventure set the tone for our entire trip to Vietnam! 😊 I would especially like to mention Andrey's coaching skills — he is an expert in working with beginners and truly opened up the magical world of enduro to my father and me. I highly recommend it to anyone seeking adrenaline in the cool heights of Dalat!",
+    "My wife, Yulia, gave me this tour as a birthday present, knowing how much I love motorcycles. She had only a couple of hours of experience on a cross-country track, so she was really nervous for the first three days of the tour. I'm not a professional enduro rider either. However, Boris, the coach (yes, he's a coach, as this is more of a training session with adventure elements than just a trip), didn't seem to mind our lack of experience.",
+    "He spent at least an hour on the training ground to get a person back on their feet, and by the way, Yulia even drove on her own, albeit only in a straight line ;) In the end, Boris made a bold decision: he took Yulia as his second rider on his bike. Together, we covered about 60 km of rough terrain, including rocks, ditches, and steep inclines and descents in the vicinity of Dalat. To be honest, at times it seemed that the next obstacle was physically impossible to overcome, but seeing how easily Boris handled it (and with a passenger!), I was inspired and followed suit. Of course, the equipment and gear took a beating... Every second of this route will be etched in my memory forever, and my casual interaction with Boris left a lasting positive impression. The final \"finishing touch\" was a personal gift from him! It touched me to the core! This outing to the cool heights of Dalat is worth more than any price — the memories are priceless! I recommend it to all couples seeking adrenaline and a connection with nature. 😊"
+  ],
+  "instructors": [
+    {
+      "name": "Bondar Max",
+      "description": "An instructor who has been on wheels since childhood",
+      "image": "/assets/d9b6f4a6f79032aa1d1f.webp"
+    },
+    {
+      "name": "Petrochenko Sava",
+      "description": "Instructor, 14 years of experience in enduro",
+      "image": "/assets/86e64a566e72efcbc828.webp"
+    }
+  ],
+  "bikes": [
+    {
+      "name": "Honda XR 230",
+      "image": "/assets/cf7453d4fef16122f614.webp"
+    },
+    {
+      "name": "Honda CRF 150",
+      "image": "/assets/a88cf3917c0dce59eb53.png"
+    },
+    {
+      "name": "Suzuki DR 200",
+      "image": "/assets/f4a6a8d9f5299c4e8b73.webp"
+    },
+    {
+      "name": "Suzuki DRZ 400",
+      "image": "/assets/1fdad678326acc93431a.webp"
+    },
+    {
+      "name": "Honda XR 150",
+      "image": "/assets/cf7453d4fef16122f614.webp"
+    }
+  ],
+  "tourImages": [
+    "/assets/5b0f2f6c16288f325dc2.webp",
+    "/assets/be65a25577840b571455.webp",
+    "/assets/9b17d05a34206674bc85.webp",
+    "/assets/00e770e13f4f9008a489.webp",
+    "/assets/663a3eda477c4df87490.webp",
+    "/assets/b4682b0c8a8b6d52464c.webp",
+    "/assets/3c5c78a7b68f9ab246ca.webp",
+    "/assets/c9b46eccc7b8887ad9b0.webp",
+    "/assets/c743d47bccaaf67b9b00.webp"
+  ],
+  "tourLinks": [
+    "https://enduro-vietnam.com/all-tours/dalat-enduro-tour-one-day",
+    "https://enduro-vietnam.com/all-tours/dalat-enduro-tour-advanced",
+    "https://enduro-vietnam.com/all-tours/dalat-enduro-tour-two-day",
+    "https://enduro-vietnam.com/all-tours/three-day-tour-dalat-nhatrang",
+    "https://enduro-vietnam.com/all-tours/three-day-tour-dalat-muine",
+    "https://enduro-vietnam.com/all-tours/dalat-easy-rider-enduro-beginners",
+    "https://enduro-vietnam.com/all-tours/nhatrang-enduro-tour-one-day",
+    "https://enduro-vietnam.com/all-tours/nhatrang-enduro-tour-advanced",
+    "https://enduro-vietnam.com/all-tours/motorbike-tour-south-vietnam-4-days",
+    "https://enduro-vietnam.com/all-tours/5-day-motorbike-tour-from-saigon-ho-chi-minh-city",
+    "https://enduro-vietnam.com/all-tours/mekong-delta-and-coastline-vietnam-motorbike-tour-6-days",
+    "https://enduro-vietnam.com/all-tours/motorcycle-tour-on-coastline-and-highlands-vietnam-7-days",
+    "https://enduro-vietnam.com/all-tours/saigon-motorbike-tour-10-days",
+    "https://enduro-vietnam.com/all-tours/south-vietnam-motorbike-tour-7-days"
+  ]
+}

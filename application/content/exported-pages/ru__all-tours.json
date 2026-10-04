@@ -1,0 +1,4974 @@
+{
+  "route": "/ru/all-tours",
+  "title": "Все туры по Вьетнаму | Enduro-Vietnam",
+  "description": "Весь Вьетнам: от горных серпантинов до диких пляжей. Исследуй скрытые локации, которые не найти в путеводителях. Оставь привычные маршруты позади и почувствуй настоящую свободу. Начни свое приключение прямо сейчас!",
+  "canonical": "https://enduro-vietnam.com/ru/all-tours",
+  "language": "ru",
+  "sourceUrl": "https://enduro-vietnam.com/ru/all-tours",
+  "blocks": [
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Эндуро туры по городам"
+        },
+        {
+          "type": "em",
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Аренда скутеров и мопедов"
+        },
+        {
+          "type": "em",
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "link",
+          "originalHref": "/ru/all-tours",
+          "href": "/ru/all-tours",
+          "kind": "internal",
+          "sourceStatus": 200,
+          "sourcePath": "/ru/all-tours",
+          "children": [
+            {
+              "type": "text",
+              "text": "Все туры"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "\n  "
+        },
+        {
+          "type": "text",
+          "text": "\n  \n  \n  "
+        },
+        {
+          "type": "text",
+          "text": "\n    "
+        },
+        {
+          "type": "text",
+          "text": "\n  "
+        },
+        {
+          "type": "text",
+          "text": "\n  "
+        },
+        {
+          "type": "text",
+          "text": "\n  \n  "
+        },
+        {
+          "type": "text",
+          "text": "Связаться"
+        },
+        {
+          "type": "text",
+          "text": "\n  "
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "h1",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "ТУРЫ ПО ВЬЕТНАМУ"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Откройте весь Вьетнам: от захватывающих дух горных серпантинов в облаках до бесконечных прибрежных трасс. Пронеситесь по извилистым перевалам вечной весны, через золотые песчаные дюны к бирюзовым бухтам и скрытым пляжам побережья. Ваше грандиозное путешествие начинается здесь!"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "\n    "
+        },
+        {
+          "type": "link",
+          "originalHref": "/ru",
+          "href": "/ru",
+          "kind": "internal",
+          "sourceStatus": 200,
+          "sourcePath": "/ru",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n      "
+            },
+            {
+              "type": "text",
+              "text": "Эндуро-Туры во Вьетнаме"
+            },
+            {
+              "type": "text",
+              "text": "\n    "
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n    "
+        },
+        {
+          "type": "text",
+          "text": "\n  "
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "children": [
+        {
+          "type": "text",
+          "text": "›"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "\n    "
+        },
+        {
+          "type": "text",
+          "text": "Все туры"
+        },
+        {
+          "type": "text",
+          "text": "\n    "
+        },
+        {
+          "type": "text",
+          "text": "\n  "
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "От"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "$120"
+        }
+      ]
+    },
+    {
+      "type": "h3",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Однодневный тур по Далату"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "📆 Продолжительность:"
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": " 3 часа"
+            }
+          ]
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "text",
+          "text": "📍Направления: Вокруг Далата"
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "text",
+          "text": "⛰️ Уровень тура: "
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Туры среднего уровня"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "\n  "
+        },
+        {
+          "type": "text",
+          "text": "\n  \n  \n  "
+        },
+        {
+          "type": "text",
+          "text": "\n    "
+        },
+        {
+          "type": "text",
+          "text": "\n  "
+        },
+        {
+          "type": "text",
+          "text": "\n  "
+        },
+        {
+          "type": "text",
+          "text": "\n  \n  "
+        },
+        {
+          "type": "text",
+          "text": "Связаться"
+        },
+        {
+          "type": "text",
+          "text": "\n  "
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "link",
+          "originalHref": "https://enduro-vietnam.com/ru/all-tours/dalat-enduro-tour-one-day",
+          "href": "/ru/all-tours/dalat-enduro-tour-one-day",
+          "kind": "internal",
+          "sourceStatus": 200,
+          "sourcePath": "/ru/all-tours/dalat-enduro-tour-one-day",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n  "
+            },
+            {
+              "type": "text",
+              "text": "\n  \n  \n  "
+            },
+            {
+              "type": "text",
+              "text": "\n    "
+            },
+            {
+              "type": "text",
+              "text": "\n  "
+            },
+            {
+              "type": "text",
+              "text": "\n  "
+            },
+            {
+              "type": "text",
+              "text": "\n  \n  "
+            },
+            {
+              "type": "text",
+              "text": "Подробнее"
+            },
+            {
+              "type": "text",
+              "text": "\n  "
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "От"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "$150"
+        }
+      ]
+    },
+    {
+      "type": "h3",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Расширенный маршрут по Далату"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "📆 Продолжительность:"
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": " 6 часов"
+            }
+          ]
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "text",
+          "text": "📍Направления: Вокруг Далата"
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "text",
+          "text": "⛰️ Уровень тура: "
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Туры среднего уровня"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "\n  "
+        },
+        {
+          "type": "text",
+          "text": "\n  \n  \n  "
+        },
+        {
+          "type": "text",
+          "text": "\n    "
+        },
+        {
+          "type": "text",
+          "text": "\n  "
+        },
+        {
+          "type": "text",
+          "text": "\n  "
+        },
+        {
+          "type": "text",
+          "text": "\n  \n  "
+        },
+        {
+          "type": "text",
+          "text": "Связаться"
+        },
+        {
+          "type": "text",
+          "text": "\n  "
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "link",
+          "originalHref": "https://enduro-vietnam.com/ru/all-tours/dalat-enduro-tour-advanced",
+          "href": "/ru/all-tours/dalat-enduro-tour-advanced",
+          "kind": "internal",
+          "sourceStatus": 200,
+          "sourcePath": "/ru/all-tours/dalat-enduro-tour-advanced",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n  "
+            },
+            {
+              "type": "text",
+              "text": "\n  \n  \n  "
+            },
+            {
+              "type": "text",
+              "text": "\n    "
+            },
+            {
+              "type": "text",
+              "text": "\n  "
+            },
+            {
+              "type": "text",
+              "text": "\n  "
+            },
+            {
+              "type": "text",
+              "text": "\n  \n  "
+            },
+            {
+              "type": "text",
+              "text": "Подробнее"
+            },
+            {
+              "type": "text",
+              "text": "\n  "
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "От"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "$300"
+        }
+      ]
+    },
+    {
+      "type": "h3",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Двухдневный тур по Далату"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "📆 Продолжительность:"
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": " 2 дня"
+            }
+          ]
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "text",
+          "text": "📍Направления: Вокруг Далата"
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "text",
+          "text": "⛰️ Уровень тура: "
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Туры среднего уровня"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "\n  "
+        },
+        {
+          "type": "text",
+          "text": "\n  \n  \n  "
+        },
+        {
+          "type": "text",
+          "text": "\n    "
+        },
+        {
+          "type": "text",
+          "text": "\n  "
+        },
+        {
+          "type": "text",
+          "text": "\n  "
+        },
+        {
+          "type": "text",
+          "text": "\n  \n  "
+        },
+        {
+          "type": "text",
+          "text": "Связаться"
+        },
+        {
+          "type": "text",
+          "text": "\n  "
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "link",
+          "originalHref": "https://enduro-vietnam.com/ru/all-tours/dalat-enduro-tour-two-day",
+          "href": "/ru/all-tours/dalat-enduro-tour-two-day",
+          "kind": "internal",
+          "sourceStatus": 200,
+          "sourcePath": "/ru/all-tours/dalat-enduro-tour-two-day",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n  "
+            },
+            {
+              "type": "text",
+              "text": "\n  \n  \n  "
+            },
+            {
+              "type": "text",
+              "text": "\n    "
+            },
+            {
+              "type": "text",
+              "text": "\n  "
+            },
+            {
+              "type": "text",
+              "text": "\n  "
+            },
+            {
+              "type": "text",
+              "text": "\n  \n  "
+            },
+            {
+              "type": "text",
+              "text": "Подробнее"
+            },
+            {
+              "type": "text",
+              "text": "\n  "
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "От"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "$1000"
+        }
+      ]
+    },
+    {
+      "type": "h3",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Трехдневный тур: Далат и Нячанг"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "📆 Продолжительность:"
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": " 3 дня"
+            }
+          ]
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "text",
+          "text": "📍Направления: Далат — Нячанг"
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "text",
+          "text": "⛰️ Уровень тура: "
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Туры среднего уровня"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "\n  "
+        },
+        {
+          "type": "text",
+          "text": "\n  \n  \n  "
+        },
+        {
+          "type": "text",
+          "text": "\n    "
+        },
+        {
+          "type": "text",
+          "text": "\n  "
+        },
+        {
+          "type": "text",
+          "text": "\n  "
+        },
+        {
+          "type": "text",
+          "text": "\n  \n  "
+        },
+        {
+          "type": "text",
+          "text": "Связаться"
+        },
+        {
+          "type": "text",
+          "text": "\n  "
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "link",
+          "originalHref": "https://enduro-vietnam.com/ru/all-tours/three-day-tour-dalat-nhatrang",
+          "href": "/ru/all-tours/three-day-tour-dalat-nhatrang",
+          "kind": "internal",
+          "sourceStatus": 200,
+          "sourcePath": "/ru/all-tours/three-day-tour-dalat-nhatrang",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n  "
+            },
+            {
+              "type": "text",
+              "text": "\n  \n  \n  "
+            },
+            {
+              "type": "text",
+              "text": "\n    "
+            },
+            {
+              "type": "text",
+              "text": "\n  "
+            },
+            {
+              "type": "text",
+              "text": "\n  "
+            },
+            {
+              "type": "text",
+              "text": "\n  \n  "
+            },
+            {
+              "type": "text",
+              "text": "Подробнее"
+            },
+            {
+              "type": "text",
+              "text": "\n  "
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "От"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "$1000"
+        }
+      ]
+    },
+    {
+      "type": "h3",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Трехдневный тур: Далат и Муйне"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "📆 Продолжительность:"
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": " 3 дня"
+            }
+          ]
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "text",
+          "text": "📍Направления: Далат — Муйне"
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "text",
+          "text": "⛰️ Уровень тура: "
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Туры среднего уровня"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "\n  "
+        },
+        {
+          "type": "text",
+          "text": "\n  \n  \n  "
+        },
+        {
+          "type": "text",
+          "text": "\n    "
+        },
+        {
+          "type": "text",
+          "text": "\n  "
+        },
+        {
+          "type": "text",
+          "text": "\n  "
+        },
+        {
+          "type": "text",
+          "text": "\n  \n  "
+        },
+        {
+          "type": "text",
+          "text": "Связаться"
+        },
+        {
+          "type": "text",
+          "text": "\n  "
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "link",
+          "originalHref": "https://enduro-vietnam.com/ru/all-tours/three-day-tour-dalat-muine",
+          "href": "/ru/all-tours/three-day-tour-dalat-muine",
+          "kind": "internal",
+          "sourceStatus": 200,
+          "sourcePath": "/ru/all-tours/three-day-tour-dalat-muine",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n  "
+            },
+            {
+              "type": "text",
+              "text": "\n  \n  \n  "
+            },
+            {
+              "type": "text",
+              "text": "\n    "
+            },
+            {
+              "type": "text",
+              "text": "\n  "
+            },
+            {
+              "type": "text",
+              "text": "\n  "
+            },
+            {
+              "type": "text",
+              "text": "\n  \n  "
+            },
+            {
+              "type": "text",
+              "text": "Подробнее"
+            },
+            {
+              "type": "text",
+              "text": "\n  "
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "От"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "$100"
+        }
+      ]
+    },
+    {
+      "type": "h3",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Easy Rider — эндуро-маршрут для новичков"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "📆 Продолжительность:"
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": " 2,5 часа"
+            }
+          ]
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "text",
+          "text": "📍Направления: Вокруг Далата"
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "text",
+          "text": "⛰️ Уровень тура: "
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Туры среднего уровня"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "\n  "
+        },
+        {
+          "type": "text",
+          "text": "\n  \n  \n  "
+        },
+        {
+          "type": "text",
+          "text": "\n    "
+        },
+        {
+          "type": "text",
+          "text": "\n  "
+        },
+        {
+          "type": "text",
+          "text": "\n  "
+        },
+        {
+          "type": "text",
+          "text": "\n  \n  "
+        },
+        {
+          "type": "text",
+          "text": "Связаться"
+        },
+        {
+          "type": "text",
+          "text": "\n  "
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "link",
+          "originalHref": "https://enduro-vietnam.com/ru/all-tours/dalat-easy-rider-enduro-beginners",
+          "href": "/ru/all-tours/dalat-easy-rider-enduro-beginners",
+          "kind": "internal",
+          "sourceStatus": 200,
+          "sourcePath": "/ru/all-tours/dalat-easy-rider-enduro-beginners",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n  "
+            },
+            {
+              "type": "text",
+              "text": "\n  \n  \n  "
+            },
+            {
+              "type": "text",
+              "text": "\n    "
+            },
+            {
+              "type": "text",
+              "text": "\n  "
+            },
+            {
+              "type": "text",
+              "text": "\n  "
+            },
+            {
+              "type": "text",
+              "text": "\n  \n  "
+            },
+            {
+              "type": "text",
+              "text": "Подробнее"
+            },
+            {
+              "type": "text",
+              "text": "\n  "
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "От"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "$120"
+        }
+      ]
+    },
+    {
+      "type": "h3",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Однодневный тур по Нячангу"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "📆 Продолжительность:"
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": " 2,5 часа"
+            }
+          ]
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "text",
+          "text": "📍Направления: Вокруг Нячанга"
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "text",
+          "text": "⛰️ Уровень тура: "
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Туры среднего уровня"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "\n  "
+        },
+        {
+          "type": "text",
+          "text": "\n  \n  \n  "
+        },
+        {
+          "type": "text",
+          "text": "\n    "
+        },
+        {
+          "type": "text",
+          "text": "\n  "
+        },
+        {
+          "type": "text",
+          "text": "\n  "
+        },
+        {
+          "type": "text",
+          "text": "\n  \n  "
+        },
+        {
+          "type": "text",
+          "text": "Связаться"
+        },
+        {
+          "type": "text",
+          "text": "\n  "
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "link",
+          "originalHref": "https://enduro-vietnam.com/ru/all-tours/nhatrang-enduro-tour-one-day",
+          "href": "/ru/all-tours/nhatrang-enduro-tour-one-day",
+          "kind": "internal",
+          "sourceStatus": 200,
+          "sourcePath": "/ru/all-tours/nhatrang-enduro-tour-one-day",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n  "
+            },
+            {
+              "type": "text",
+              "text": "\n  \n  \n  "
+            },
+            {
+              "type": "text",
+              "text": "\n    "
+            },
+            {
+              "type": "text",
+              "text": "\n  "
+            },
+            {
+              "type": "text",
+              "text": "\n  "
+            },
+            {
+              "type": "text",
+              "text": "\n  \n  "
+            },
+            {
+              "type": "text",
+              "text": "Подробнее"
+            },
+            {
+              "type": "text",
+              "text": "\n  "
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "От"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "$150"
+        }
+      ]
+    },
+    {
+      "type": "h3",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Расширенный маршрут по Нячангу"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "📆 Продолжительность:"
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": " 4 часа"
+            }
+          ]
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "text",
+          "text": "📍Направления: Вокруг Нячанга"
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "text",
+          "text": "⛰️ Уровень тура: "
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Туры среднего уровня"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "\n  "
+        },
+        {
+          "type": "text",
+          "text": "\n  \n  \n  "
+        },
+        {
+          "type": "text",
+          "text": "\n    "
+        },
+        {
+          "type": "text",
+          "text": "\n  "
+        },
+        {
+          "type": "text",
+          "text": "\n  "
+        },
+        {
+          "type": "text",
+          "text": "\n  \n  "
+        },
+        {
+          "type": "text",
+          "text": "Связаться"
+        },
+        {
+          "type": "text",
+          "text": "\n  "
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "link",
+          "originalHref": "https://enduro-vietnam.com/ru/all-tours/nhatrang-enduro-tour-advanced",
+          "href": "/ru/all-tours/nhatrang-enduro-tour-advanced",
+          "kind": "internal",
+          "sourceStatus": 200,
+          "sourcePath": "/ru/all-tours/nhatrang-enduro-tour-advanced",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n  "
+            },
+            {
+              "type": "text",
+              "text": "\n  \n  \n  "
+            },
+            {
+              "type": "text",
+              "text": "\n    "
+            },
+            {
+              "type": "text",
+              "text": "\n  "
+            },
+            {
+              "type": "text",
+              "text": "\n  "
+            },
+            {
+              "type": "text",
+              "text": "\n  \n  "
+            },
+            {
+              "type": "text",
+              "text": "Подробнее"
+            },
+            {
+              "type": "text",
+              "text": "\n  "
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "От"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "$960"
+        }
+      ]
+    },
+    {
+      "type": "h3",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Большой 4-дневный мототур по Южному Вьетнаму"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "📆 Продолжительность:"
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": " 4 дня"
+            }
+          ]
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "text",
+          "text": "📍Направления: Сайгон — нацпарк Каттьен — озеро Тадунг — Муйне — Сайгон"
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "text",
+          "text": "⛰️ Уровень тура: "
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Туры среднего уровня"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "\n  "
+        },
+        {
+          "type": "text",
+          "text": "\n  \n  \n  "
+        },
+        {
+          "type": "text",
+          "text": "\n    "
+        },
+        {
+          "type": "text",
+          "text": "\n  "
+        },
+        {
+          "type": "text",
+          "text": "\n  "
+        },
+        {
+          "type": "text",
+          "text": "\n  \n  "
+        },
+        {
+          "type": "text",
+          "text": "Связаться"
+        },
+        {
+          "type": "text",
+          "text": "\n  "
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "link",
+          "originalHref": "https://enduro-vietnam.com/ru/all-tours/motorbike-tour-south-vietnam-4-days",
+          "href": "/ru/all-tours/motorbike-tour-south-vietnam-4-days",
+          "kind": "internal",
+          "sourceStatus": 200,
+          "sourcePath": "/ru/all-tours/motorbike-tour-south-vietnam-4-days",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n  "
+            },
+            {
+              "type": "text",
+              "text": "\n  \n  \n  "
+            },
+            {
+              "type": "text",
+              "text": "\n    "
+            },
+            {
+              "type": "text",
+              "text": "\n  "
+            },
+            {
+              "type": "text",
+              "text": "\n  "
+            },
+            {
+              "type": "text",
+              "text": "\n  \n  "
+            },
+            {
+              "type": "text",
+              "text": "Подробнее"
+            },
+            {
+              "type": "text",
+              "text": "\n  "
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "От"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "$1000"
+        }
+      ]
+    },
+    {
+      "type": "h3",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Большой мототур: Сайгон – Нячанг – 5 дней"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "📆 Продолжительность:"
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": " 5 дней"
+            }
+          ]
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "text",
+          "text": "📍Направления: Сайгон — Донгсоай — Биньфыок — Даклак — Буонметхуот — озеро Лак — Далат — Нячанг"
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "text",
+          "text": "⛰️ Уровень тура: "
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Туры среднего уровня"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "\n  "
+        },
+        {
+          "type": "text",
+          "text": "\n  \n  \n  "
+        },
+        {
+          "type": "text",
+          "text": "\n    "
+        },
+        {
+          "type": "text",
+          "text": "\n  "
+        },
+        {
+          "type": "text",
+          "text": "\n  "
+        },
+        {
+          "type": "text",
+          "text": "\n  \n  "
+        },
+        {
+          "type": "text",
+          "text": "Связаться"
+        },
+        {
+          "type": "text",
+          "text": "\n  "
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "link",
+          "originalHref": "https://enduro-vietnam.com/ru/all-tours/5-day-motorbike-tour-from-saigon-ho-chi-minh-city",
+          "href": "/ru/all-tours/5-day-motorbike-tour-from-saigon-ho-chi-minh-city",
+          "kind": "internal",
+          "sourceStatus": 200,
+          "sourcePath": "/ru/all-tours/5-day-motorbike-tour-from-saigon-ho-chi-minh-city",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n  "
+            },
+            {
+              "type": "text",
+              "text": "\n  \n  \n  "
+            },
+            {
+              "type": "text",
+              "text": "\n    "
+            },
+            {
+              "type": "text",
+              "text": "\n  "
+            },
+            {
+              "type": "text",
+              "text": "\n  "
+            },
+            {
+              "type": "text",
+              "text": "\n  \n  "
+            },
+            {
+              "type": "text",
+              "text": "Подробнее"
+            },
+            {
+              "type": "text",
+              "text": "\n  "
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "От"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "$1240"
+        }
+      ]
+    },
+    {
+      "type": "h3",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Мототур по дельте Меконга и побережью Вьетнама – 6 дней"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "📆 Продолжительность:"
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": " 6 дней"
+            }
+          ]
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "text",
+          "text": "📍Направления: Хошимин — Тяудок — рынок Кайранг — Бенче — Кантхо — Вунгтау — Муйне — Сайгон"
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "text",
+          "text": "⛰️ Уровень тура: "
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Туры среднего уровня"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "\n  "
+        },
+        {
+          "type": "text",
+          "text": "\n  \n  \n  "
+        },
+        {
+          "type": "text",
+          "text": "\n    "
+        },
+        {
+          "type": "text",
+          "text": "\n  "
+        },
+        {
+          "type": "text",
+          "text": "\n  "
+        },
+        {
+          "type": "text",
+          "text": "\n  \n  "
+        },
+        {
+          "type": "text",
+          "text": "Связаться"
+        },
+        {
+          "type": "text",
+          "text": "\n  "
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "link",
+          "originalHref": "https://enduro-vietnam.com/ru/all-tours/mekong-delta-and-coastline-vietnam-motorbike-tour-6-days",
+          "href": "/ru/all-tours/mekong-delta-and-coastline-vietnam-motorbike-tour-6-days",
+          "kind": "internal",
+          "sourceStatus": 200,
+          "sourcePath": "/ru/all-tours/mekong-delta-and-coastline-vietnam-motorbike-tour-6-days",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n  "
+            },
+            {
+              "type": "text",
+              "text": "\n  \n  \n  "
+            },
+            {
+              "type": "text",
+              "text": "\n    "
+            },
+            {
+              "type": "text",
+              "text": "\n  "
+            },
+            {
+              "type": "text",
+              "text": "\n  "
+            },
+            {
+              "type": "text",
+              "text": "\n  \n  "
+            },
+            {
+              "type": "text",
+              "text": "Подробнее"
+            },
+            {
+              "type": "text",
+              "text": "\n  "
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "От"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "$1380"
+        }
+      ]
+    },
+    {
+      "type": "h3",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Мототур по побережью и центральному нагорью Вьетнама – 7 дней"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "📆 Продолжительность:"
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": " 7 дней"
+            }
+          ]
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "text",
+          "text": "📍Направления: Хошимин — пляж Лонгхай — пляж Муйне — Баолок — Дакмил — озеро Лак — Нячанг — Далат"
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "text",
+          "text": "⛰️ Уровень тура: "
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Туры среднего уровня"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "\n  "
+        },
+        {
+          "type": "text",
+          "text": "\n  \n  \n  "
+        },
+        {
+          "type": "text",
+          "text": "\n    "
+        },
+        {
+          "type": "text",
+          "text": "\n  "
+        },
+        {
+          "type": "text",
+          "text": "\n  "
+        },
+        {
+          "type": "text",
+          "text": "\n  \n  "
+        },
+        {
+          "type": "text",
+          "text": "Связаться"
+        },
+        {
+          "type": "text",
+          "text": "\n  "
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "link",
+          "originalHref": "https://enduro-vietnam.com/ru/all-tours/motorcycle-tour-on-coastline-and-highlands-vietnam-7-days",
+          "href": "/ru/all-tours/motorcycle-tour-on-coastline-and-highlands-vietnam-7-days",
+          "kind": "internal",
+          "sourceStatus": 200,
+          "sourcePath": "/ru/all-tours/motorcycle-tour-on-coastline-and-highlands-vietnam-7-days",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n  "
+            },
+            {
+              "type": "text",
+              "text": "\n  \n  \n  "
+            },
+            {
+              "type": "text",
+              "text": "\n    "
+            },
+            {
+              "type": "text",
+              "text": "\n  "
+            },
+            {
+              "type": "text",
+              "text": "\n  "
+            },
+            {
+              "type": "text",
+              "text": "\n  \n  "
+            },
+            {
+              "type": "text",
+              "text": "Подробнее"
+            },
+            {
+              "type": "text",
+              "text": "\n  "
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "От"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "$2000"
+        }
+      ]
+    },
+    {
+      "type": "h3",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Мототур из Сайгона: дельта Меконга – центральное нагорье – 10 дней"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "📆 Продолжительность:"
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": " 10 дней"
+            }
+          ]
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "text",
+          "text": "📍Направления: Хошимин — Бенче — Кантхо — Тяудок — Вунгтау — Муйне — Далат — Буонметхуот — Контум — Хойан"
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "text",
+          "text": "⛰️ Уровень тура: "
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Туры среднего уровня"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "\n  "
+        },
+        {
+          "type": "text",
+          "text": "\n  \n  \n  "
+        },
+        {
+          "type": "text",
+          "text": "\n    "
+        },
+        {
+          "type": "text",
+          "text": "\n  "
+        },
+        {
+          "type": "text",
+          "text": "\n  "
+        },
+        {
+          "type": "text",
+          "text": "\n  \n  "
+        },
+        {
+          "type": "text",
+          "text": "Связаться"
+        },
+        {
+          "type": "text",
+          "text": "\n  "
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "link",
+          "originalHref": "https://enduro-vietnam.com/ru/all-tours/saigon-motorbike-tour-10-days",
+          "href": "/ru/all-tours/saigon-motorbike-tour-10-days",
+          "kind": "internal",
+          "sourceStatus": 200,
+          "sourcePath": "/ru/all-tours/saigon-motorbike-tour-10-days",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n  "
+            },
+            {
+              "type": "text",
+              "text": "\n  \n  \n  "
+            },
+            {
+              "type": "text",
+              "text": "\n    "
+            },
+            {
+              "type": "text",
+              "text": "\n  "
+            },
+            {
+              "type": "text",
+              "text": "\n  "
+            },
+            {
+              "type": "text",
+              "text": "\n  \n  "
+            },
+            {
+              "type": "text",
+              "text": "Подробнее"
+            },
+            {
+              "type": "text",
+              "text": "\n  "
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "От"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "$1780"
+        }
+      ]
+    },
+    {
+      "type": "h3",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Мототур по Южному Вьетнаму – 7 дней"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "📆 Продолжительность:"
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": " 7 дней"
+            }
+          ]
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "text",
+          "text": "📍Направления: Сайгон — Митхо — Кайбе — Виньлонг — Кантхо — Кайранг — Сайгон — нацпарк Каттьен — Ламдонг — Далат — Фантьет — Сайгон"
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "text",
+          "text": "⛰️ Уровень тура: "
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Туры среднего уровня"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "\n  "
+        },
+        {
+          "type": "text",
+          "text": "\n  \n  \n  "
+        },
+        {
+          "type": "text",
+          "text": "\n    "
+        },
+        {
+          "type": "text",
+          "text": "\n  "
+        },
+        {
+          "type": "text",
+          "text": "\n  "
+        },
+        {
+          "type": "text",
+          "text": "\n  \n  "
+        },
+        {
+          "type": "text",
+          "text": "Связаться"
+        },
+        {
+          "type": "text",
+          "text": "\n  "
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "link",
+          "originalHref": "https://enduro-vietnam.com/ru/all-tours/south-vietnam-motorbike-tour-7-days",
+          "href": "/ru/all-tours/south-vietnam-motorbike-tour-7-days",
+          "kind": "internal",
+          "sourceStatus": 200,
+          "sourcePath": "/ru/all-tours/south-vietnam-motorbike-tour-7-days",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n  "
+            },
+            {
+              "type": "text",
+              "text": "\n  \n  \n  "
+            },
+            {
+              "type": "text",
+              "text": "\n    "
+            },
+            {
+              "type": "text",
+              "text": "\n  "
+            },
+            {
+              "type": "text",
+              "text": "\n  "
+            },
+            {
+              "type": "text",
+              "text": "\n  \n  "
+            },
+            {
+              "type": "text",
+              "text": "Подробнее"
+            },
+            {
+              "type": "text",
+              "text": "\n  "
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "От"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "$120"
+        }
+      ]
+    },
+    {
+      "type": "h3",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Однодневный тур по Данангу"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "📆 Продолжительность:"
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": " 3 часа"
+            }
+          ]
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "text",
+          "text": "📍Направления: Вокруг Дананга (полуостров Шонча)"
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "text",
+          "text": "⛰️ Уровень тура: "
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Туры среднего уровня"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "\n  "
+        },
+        {
+          "type": "text",
+          "text": "\n  \n  \n  "
+        },
+        {
+          "type": "text",
+          "text": "\n    "
+        },
+        {
+          "type": "text",
+          "text": "\n  "
+        },
+        {
+          "type": "text",
+          "text": "\n  "
+        },
+        {
+          "type": "text",
+          "text": "\n  \n  "
+        },
+        {
+          "type": "text",
+          "text": "Связаться"
+        },
+        {
+          "type": "text",
+          "text": "\n  "
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "link",
+          "originalHref": "https://enduro-vietnam.com/ru/all-tours/danang-enduro-tour-one-day",
+          "href": "/ru/all-tours/danang-enduro-tour-one-day",
+          "kind": "internal",
+          "sourceStatus": 200,
+          "sourcePath": "/ru/all-tours/danang-enduro-tour-one-day",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n  "
+            },
+            {
+              "type": "text",
+              "text": "\n  \n  \n  "
+            },
+            {
+              "type": "text",
+              "text": "\n    "
+            },
+            {
+              "type": "text",
+              "text": "\n  "
+            },
+            {
+              "type": "text",
+              "text": "\n  "
+            },
+            {
+              "type": "text",
+              "text": "\n  \n  "
+            },
+            {
+              "type": "text",
+              "text": "Подробнее"
+            },
+            {
+              "type": "text",
+              "text": "\n  "
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "От"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "$150"
+        }
+      ]
+    },
+    {
+      "type": "h3",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Расширенный маршрут по Данангу"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "📆 Продолжительность:"
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": " 6 часов"
+            }
+          ]
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "text",
+          "text": "📍Направления: Перевал Хайван и окрестности Дананга"
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "text",
+          "text": "⛰️ Уровень тура: "
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Туры среднего уровня"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "\n  "
+        },
+        {
+          "type": "text",
+          "text": "\n  \n  \n  "
+        },
+        {
+          "type": "text",
+          "text": "\n    "
+        },
+        {
+          "type": "text",
+          "text": "\n  "
+        },
+        {
+          "type": "text",
+          "text": "\n  "
+        },
+        {
+          "type": "text",
+          "text": "\n  \n  "
+        },
+        {
+          "type": "text",
+          "text": "Связаться"
+        },
+        {
+          "type": "text",
+          "text": "\n  "
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "link",
+          "originalHref": "https://enduro-vietnam.com/ru/all-tours/danang-enduro-tour-advanced",
+          "href": "/ru/all-tours/danang-enduro-tour-advanced",
+          "kind": "internal",
+          "sourceStatus": 200,
+          "sourcePath": "/ru/all-tours/danang-enduro-tour-advanced",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n  "
+            },
+            {
+              "type": "text",
+              "text": "\n  \n  \n  "
+            },
+            {
+              "type": "text",
+              "text": "\n    "
+            },
+            {
+              "type": "text",
+              "text": "\n  "
+            },
+            {
+              "type": "text",
+              "text": "\n  "
+            },
+            {
+              "type": "text",
+              "text": "\n  \n  "
+            },
+            {
+              "type": "text",
+              "text": "Подробнее"
+            },
+            {
+              "type": "text",
+              "text": "\n  "
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "От"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "$1900"
+        }
+      ]
+    },
+    {
+      "type": "h3",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Настоящий Вьетнам на мотоциклах – 12 дней"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "📆 Продолжительность:"
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": " 12 дней"
+            }
+          ]
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "text",
+          "text": "📍Направления: Северный Вьетнам"
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "text",
+          "text": "⛰️ Уровень тура: "
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Туры среднего уровня"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "\n  "
+        },
+        {
+          "type": "text",
+          "text": "\n  \n  \n  "
+        },
+        {
+          "type": "text",
+          "text": "\n    "
+        },
+        {
+          "type": "text",
+          "text": "\n  "
+        },
+        {
+          "type": "text",
+          "text": "\n  "
+        },
+        {
+          "type": "text",
+          "text": "\n  \n  "
+        },
+        {
+          "type": "text",
+          "text": "Связаться"
+        },
+        {
+          "type": "text",
+          "text": "\n  "
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "link",
+          "originalHref": "https://enduro-vietnam.com/ru/all-tours/vietnam-motorcycle-tours-12-days",
+          "href": "/ru/all-tours/vietnam-motorcycle-tours-12-days",
+          "kind": "internal",
+          "sourceStatus": 200,
+          "sourcePath": "/ru/all-tours/vietnam-motorcycle-tours-12-days",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n  "
+            },
+            {
+              "type": "text",
+              "text": "\n  \n  \n  "
+            },
+            {
+              "type": "text",
+              "text": "\n    "
+            },
+            {
+              "type": "text",
+              "text": "\n  "
+            },
+            {
+              "type": "text",
+              "text": "\n  "
+            },
+            {
+              "type": "text",
+              "text": "\n  \n  "
+            },
+            {
+              "type": "text",
+              "text": "Подробнее"
+            },
+            {
+              "type": "text",
+              "text": "\n  "
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "id": null,
+      "children": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Enduro Vietnam — Твой пропуск в настоящий Вьетнам на двух колесах"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Забудьте о стандартных туристических маршрутах."
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Enduro Vietnam"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": "организует мотоциклетные путешествия по самому сердцу Южного и Центрального Вьетнама. Мы объединяем свободу дикой природы, адреналин и скрытые локации, куда не доберется обычный турист."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Мы работаем в формате «гибкого приключения»: сложность маршрута и темп подбираются индивидуально под каждую группу."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Наш парк техники:"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": "* Для серьезного бездорожья и гор:"
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Honda CRF, Honda XR, Yamaha WR, Yamaha Serow"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "."
+        },
+        {
+          "type": "text",
+          "text": "Для комфортных туров и асфальтовых серпантинов:"
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "KTM Adventure, BMW"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": "и другие дорожные байки."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "География:"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": "Весь сочный юг и центр — от песчаных дюн Муйне до высокогорных лесов Далата и легендарных перевалов Дананга."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Профессиональное сопровождение:"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": "Опытные гиды (русскоязычные или англоговорящие на ваш выбор), которые знают, где заканчивается асфальт и начинается настоящий драйв."
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Страницы направлений"
+        }
+      ]
+    },
+    {
+      "type": "h3",
+      "id": null,
+      "children": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Далат: Эндуро-столица Вьетнама"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Далат — это база №1 для тех, кто хочет испытать технику на прочность. Прохладный горный воздух и уникальный ландшафт создают идеальные условия для катания."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Маршруты:"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": "Мы выезжаем далеко за пределы города — в хвойные леса, на кофейные плантации и к скрытым водопадам."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Локации:"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": "Гора Лангбианг, озеро Туен Лам, чайные холмы Кау Дат и «Ворота в небеса» Бали Грин Хиллз."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Драйв:"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": "Для эндуро-групп — штурм перевалов Та Дунг и диких лесных троп. Для дорожных байков — идеальные серпантины с видом на долины."
+        }
+      ]
+    },
+    {
+      "type": "h3",
+      "id": null,
+      "children": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Дананг: Легендарный перевал Хайван"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Здесь сосредоточены самые красивые асфальтовые дороги страны."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Главный вызов:"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": "Перевал Хайван (Hai Van Pass). 21 километр чистейшего восторга, крутых поворотов и панорамных видов на океан."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Что исследуем:"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": "Мраморные горы, полуостров Сон Тра (гора Обезьян) и атмосферные дороги, ведущие к древнему Хойану."
+        }
+      ]
+    },
+    {
+      "type": "h3",
+      "id": null,
+      "children": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Муйне: Пески и океанский бриз"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Уникальная локация, где можно почувствовать себя участником ралли «Дакар»."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Эндуро-акцент:"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": "Огромные Белые и Красные дюны, где можно проверить свои навыки управления байком на песке."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Локации:"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": "Живописная «Дорога к морю» для топового контента, Ручей Фей и заброшенные маяки на побережье."
+        }
+      ]
+    },
+    {
+      "type": "h3",
+      "id": null,
+      "children": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Нячанг: Панорамные серпантины и бухты"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Нячанг — это не только пляжи, но и захватывающие дух прибрежные трассы."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Маршрут:"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": "Поездки вдоль залива Камрань по одной из самых красивых прибрежных дорог мира."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Локации:"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": "Башни Понагар, панорамные площадки на горных перевалах и аутентичные рыбацкие поселения вдали от турзоны."
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Дальние туры (Экспедиции между городами)"
+        }
+      ]
+    },
+    {
+      "type": "h3",
+      "id": null,
+      "children": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Трансферные туры: Из гор к океану"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Для тех, кому мало одного города,"
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Enduro Vietnam"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": "создает эпические маршруты, объединяющие несколько регионов."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Популярные связки:"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": "Далат — Муйне (резкий спуск из прохладных гор в жаркую пустыню) или Нячанг — Далат (затяжные подъемы по серпантинам через облака)."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Гибкость:"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": "Мы можем проложить маршрут как по скоростным трассам на туристических байках, так и «огородами» через джунгли и деревни малых народностей на эндуро."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Сервис:"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": "Индивидуальный расчет стоимости, подбор техники и сопровождение на всем пути."
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Коротко о важном (FAQ)"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Какой байк выбрать?"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": "Если планируете съезжать с дорог в грязь, песок или джунгли — ваш выбор"
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Honda CRF/XR"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": "или"
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Yamaha WR"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". Если ваш приоритет — комфорт на асфальте и мощь, мы предложим"
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "KTM"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": "или"
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "BMW"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Какая сложность?"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": "Мы проводим как лайт-прогулки для новичков, так и хард-эндуро туры для профи. Уровень сложности обсуждается заранее."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Кто ведет тур?"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": "В зависимости от ваших предпочтений, тур может сопровождать русскоязычный или англоговорящий гид."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Цена:"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": "Стоимость зависит от выбранной техники, длительности маршрута и количества человек. Все детали уточняются индивидуально."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Что добавим дальше?"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": "Можем составить подробный план одного из топовых маршрутов (например, 3-дневный трип «Далат — Муйне — Нячанг») или проработать страницу «Наш гараж» с описанием характеристик байков."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "⬇Подробнее"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "⬆Скрыть"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Enduro-Vietnam"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "По вопросам сотрудничества пишите в телеграмм"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "© 2026. Все права защищены"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "link",
+          "originalHref": "/ru",
+          "href": "/ru",
+          "kind": "internal",
+          "sourceStatus": 200,
+          "sourcePath": "/ru",
+          "children": [
+            {
+              "type": "text",
+              "text": "Главная страница"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "link",
+          "originalHref": "/ru/dalat",
+          "href": "/ru/dalat",
+          "kind": "internal",
+          "sourceStatus": 200,
+          "sourcePath": "/ru/dalat",
+          "children": [
+            {
+              "type": "text",
+              "text": "Эндуро туры в Далате"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "link",
+          "originalHref": "/ru/nhatrang",
+          "href": "/ru/nhatrang",
+          "kind": "internal",
+          "sourceStatus": 200,
+          "sourcePath": "/ru/nhatrang",
+          "children": [
+            {
+              "type": "text",
+              "text": "Эндуро туры в Нячанге"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "link",
+          "originalHref": "/ru/danang",
+          "href": "/ru/danang",
+          "kind": "internal",
+          "sourceStatus": 200,
+          "sourcePath": "/ru/danang",
+          "children": [
+            {
+              "type": "text",
+              "text": "Эндуро туры в Дананге"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "link",
+          "originalHref": "/ru/muine",
+          "href": "/ru/muine",
+          "kind": "internal",
+          "sourceStatus": 200,
+          "sourcePath": "/ru/muine",
+          "children": [
+            {
+              "type": "text",
+              "text": "Эндуро туры в Муйне"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "link",
+          "originalHref": "/ru/all-tours",
+          "href": "/ru/all-tours",
+          "kind": "internal",
+          "sourceStatus": 200,
+          "sourcePath": "/ru/all-tours",
+          "children": [
+            {
+              "type": "text",
+              "text": "Все туры"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "link",
+          "originalHref": "/rent-motorbike-dalat",
+          "href": "/rent-motorbike-dalat",
+          "kind": "internal",
+          "sourceStatus": 200,
+          "sourcePath": "/rent-motorbike-dalat",
+          "children": [
+            {
+              "type": "text",
+              "text": "Аренда скутеров Далат"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "link",
+          "originalHref": "ru/rent-scooter-nhatrang",
+          "href": "/ru/rent-scooter-nhatrang",
+          "kind": "internal",
+          "sourceStatus": 404,
+          "sourcePath": "/ru/ru/rent-scooter-nhatrang",
+          "children": [
+            {
+              "type": "text",
+              "text": "Аренда скутеров Нячанг"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "link",
+          "originalHref": "/",
+          "href": "/",
+          "kind": "internal",
+          "sourceStatus": 200,
+          "sourcePath": "/",
+          "children": [
+            {
+              "type": "text",
+              "text": "Enduro tours in Vietnam"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "link",
+          "originalHref": "/dalat",
+          "href": "/dalat",
+          "kind": "internal",
+          "sourceStatus": 200,
+          "sourcePath": "/dalat",
+          "children": [
+            {
+              "type": "text",
+              "text": "Dalat"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "link",
+          "originalHref": "/nhatrang",
+          "href": "/nhatrang",
+          "kind": "internal",
+          "sourceStatus": 200,
+          "sourcePath": "/nhatrang",
+          "children": [
+            {
+              "type": "text",
+              "text": "Nha Trang"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "link",
+          "originalHref": "/danang",
+          "href": "/danang",
+          "kind": "internal",
+          "sourceStatus": 200,
+          "sourcePath": "/danang",
+          "children": [
+            {
+              "type": "text",
+              "text": "Danang"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "link",
+          "originalHref": "/muine",
+          "href": "/muine",
+          "kind": "internal",
+          "sourceStatus": 200,
+          "sourcePath": "/muine",
+          "children": [
+            {
+              "type": "text",
+              "text": "Muine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "link",
+          "originalHref": "/all-tours",
+          "href": "/all-tours",
+          "kind": "internal",
+          "sourceStatus": 200,
+          "sourcePath": "/all-tours",
+          "children": [
+            {
+              "type": "text",
+              "text": "All tours"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "link",
+          "originalHref": "/rent-motorbike-dalat",
+          "href": "/rent-motorbike-dalat",
+          "kind": "internal",
+          "sourceStatus": 200,
+          "sourcePath": "/rent-motorbike-dalat",
+          "children": [
+            {
+              "type": "text",
+              "text": "Scooter rental in Dalat"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "link",
+          "originalHref": "/rent-scooter-nhatrang",
+          "href": "/rent-scooter-nhatrang",
+          "kind": "internal",
+          "sourceStatus": 200,
+          "sourcePath": "/rent-scooter-nhatrang",
+          "children": [
+            {
+              "type": "text",
+              "text": "Scooter rental in Nha Trang"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "link",
+          "originalHref": "https://maps.app.goo.gl/hvewF4aRPsdtciud6",
+          "href": "https://maps.app.goo.gl/hvewF4aRPsdtciud6",
+          "kind": "external",
+          "sourceStatus": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Vietnam"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "children": [
+        {
+          "type": "text",
+          "text": "Работает на"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "link",
+          "originalHref": "https://creatium.app",
+          "href": "https://creatium.app",
+          "kind": "external",
+          "sourceStatus": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Creatium"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "originalHref": "/ru",
+      "href": "/ru",
+      "kind": "internal",
+      "sourceStatus": 200,
+      "sourcePath": "/ru",
+      "text": "/ru"
+    },
+    {
+      "originalHref": "/ru/all-tours",
+      "href": "/ru/all-tours",
+      "kind": "internal",
+      "sourceStatus": 200,
+      "sourcePath": "/ru/all-tours",
+      "text": "Все туры"
+    },
+    {
+      "originalHref": "https://t.me/mototourvietnam",
+      "href": "https://t.me/mototourvietnam",
+      "kind": "external",
+      "sourceStatus": null,
+      "text": "https://t.me/mototourvietnam"
+    },
+    {
+      "originalHref": "https://www.instagram.com/enduro.vietnam",
+      "href": "https://www.instagram.com/enduro.vietnam",
+      "kind": "external",
+      "sourceStatus": null,
+      "text": "https://www.instagram.com/enduro.vietnam"
+    },
+    {
+      "originalHref": "https://wa.me/79994564498",
+      "href": "https://wa.me/79994564498",
+      "kind": "external",
+      "sourceStatus": null,
+      "text": "https://wa.me/79994564498"
+    },
+    {
+      "originalHref": "/ru",
+      "href": "/ru",
+      "kind": "internal",
+      "sourceStatus": 200,
+      "sourcePath": "/ru",
+      "text": "Эндуро-Туры во Вьетнаме"
+    },
+    {
+      "originalHref": "https://enduro-vietnam.com/ru/all-tours/dalat-enduro-tour-one-day",
+      "href": "/ru/all-tours/dalat-enduro-tour-one-day",
+      "kind": "internal",
+      "sourceStatus": 200,
+      "sourcePath": "/ru/all-tours/dalat-enduro-tour-one-day",
+      "text": "Подробнее"
+    },
+    {
+      "originalHref": "https://enduro-vietnam.com/ru/all-tours/dalat-enduro-tour-advanced",
+      "href": "/ru/all-tours/dalat-enduro-tour-advanced",
+      "kind": "internal",
+      "sourceStatus": 200,
+      "sourcePath": "/ru/all-tours/dalat-enduro-tour-advanced",
+      "text": "Подробнее"
+    },
+    {
+      "originalHref": "https://enduro-vietnam.com/ru/all-tours/dalat-enduro-tour-two-day",
+      "href": "/ru/all-tours/dalat-enduro-tour-two-day",
+      "kind": "internal",
+      "sourceStatus": 200,
+      "sourcePath": "/ru/all-tours/dalat-enduro-tour-two-day",
+      "text": "Подробнее"
+    },
+    {
+      "originalHref": "https://enduro-vietnam.com/ru/all-tours/three-day-tour-dalat-nhatrang",
+      "href": "/ru/all-tours/three-day-tour-dalat-nhatrang",
+      "kind": "internal",
+      "sourceStatus": 200,
+      "sourcePath": "/ru/all-tours/three-day-tour-dalat-nhatrang",
+      "text": "Подробнее"
+    },
+    {
+      "originalHref": "https://enduro-vietnam.com/ru/all-tours/three-day-tour-dalat-muine",
+      "href": "/ru/all-tours/three-day-tour-dalat-muine",
+      "kind": "internal",
+      "sourceStatus": 200,
+      "sourcePath": "/ru/all-tours/three-day-tour-dalat-muine",
+      "text": "Подробнее"
+    },
+    {
+      "originalHref": "https://enduro-vietnam.com/ru/all-tours/dalat-easy-rider-enduro-beginners",
+      "href": "/ru/all-tours/dalat-easy-rider-enduro-beginners",
+      "kind": "internal",
+      "sourceStatus": 200,
+      "sourcePath": "/ru/all-tours/dalat-easy-rider-enduro-beginners",
+      "text": "Подробнее"
+    },
+    {
+      "originalHref": "https://enduro-vietnam.com/ru/all-tours/nhatrang-enduro-tour-one-day",
+      "href": "/ru/all-tours/nhatrang-enduro-tour-one-day",
+      "kind": "internal",
+      "sourceStatus": 200,
+      "sourcePath": "/ru/all-tours/nhatrang-enduro-tour-one-day",
+      "text": "Подробнее"
+    },
+    {
+      "originalHref": "https://enduro-vietnam.com/ru/all-tours/nhatrang-enduro-tour-advanced",
+      "href": "/ru/all-tours/nhatrang-enduro-tour-advanced",
+      "kind": "internal",
+      "sourceStatus": 200,
+      "sourcePath": "/ru/all-tours/nhatrang-enduro-tour-advanced",
+      "text": "Подробнее"
+    },
+    {
+      "originalHref": "https://enduro-vietnam.com/ru/all-tours/motorbike-tour-south-vietnam-4-days",
+      "href": "/ru/all-tours/motorbike-tour-south-vietnam-4-days",
+      "kind": "internal",
+      "sourceStatus": 200,
+      "sourcePath": "/ru/all-tours/motorbike-tour-south-vietnam-4-days",
+      "text": "Подробнее"
+    },
+    {
+      "originalHref": "https://enduro-vietnam.com/ru/all-tours/5-day-motorbike-tour-from-saigon-ho-chi-minh-city",
+      "href": "/ru/all-tours/5-day-motorbike-tour-from-saigon-ho-chi-minh-city",
+      "kind": "internal",
+      "sourceStatus": 200,
+      "sourcePath": "/ru/all-tours/5-day-motorbike-tour-from-saigon-ho-chi-minh-city",
+      "text": "Подробнее"
+    },
+    {
+      "originalHref": "https://enduro-vietnam.com/ru/all-tours/mekong-delta-and-coastline-vietnam-motorbike-tour-6-days",
+      "href": "/ru/all-tours/mekong-delta-and-coastline-vietnam-motorbike-tour-6-days",
+      "kind": "internal",
+      "sourceStatus": 200,
+      "sourcePath": "/ru/all-tours/mekong-delta-and-coastline-vietnam-motorbike-tour-6-days",
+      "text": "Подробнее"
+    },
+    {
+      "originalHref": "https://enduro-vietnam.com/ru/all-tours/motorcycle-tour-on-coastline-and-highlands-vietnam-7-days",
+      "href": "/ru/all-tours/motorcycle-tour-on-coastline-and-highlands-vietnam-7-days",
+      "kind": "internal",
+      "sourceStatus": 200,
+      "sourcePath": "/ru/all-tours/motorcycle-tour-on-coastline-and-highlands-vietnam-7-days",
+      "text": "Подробнее"
+    },
+    {
+      "originalHref": "https://enduro-vietnam.com/ru/all-tours/saigon-motorbike-tour-10-days",
+      "href": "/ru/all-tours/saigon-motorbike-tour-10-days",
+      "kind": "internal",
+      "sourceStatus": 200,
+      "sourcePath": "/ru/all-tours/saigon-motorbike-tour-10-days",
+      "text": "Подробнее"
+    },
+    {
+      "originalHref": "https://enduro-vietnam.com/ru/all-tours/south-vietnam-motorbike-tour-7-days",
+      "href": "/ru/all-tours/south-vietnam-motorbike-tour-7-days",
+      "kind": "internal",
+      "sourceStatus": 200,
+      "sourcePath": "/ru/all-tours/south-vietnam-motorbike-tour-7-days",
+      "text": "Подробнее"
+    },
+    {
+      "originalHref": "https://enduro-vietnam.com/ru/all-tours/danang-enduro-tour-one-day",
+      "href": "/ru/all-tours/danang-enduro-tour-one-day",
+      "kind": "internal",
+      "sourceStatus": 200,
+      "sourcePath": "/ru/all-tours/danang-enduro-tour-one-day",
+      "text": "Подробнее"
+    },
+    {
+      "originalHref": "https://enduro-vietnam.com/ru/all-tours/danang-enduro-tour-advanced",
+      "href": "/ru/all-tours/danang-enduro-tour-advanced",
+      "kind": "internal",
+      "sourceStatus": 200,
+      "sourcePath": "/ru/all-tours/danang-enduro-tour-advanced",
+      "text": "Подробнее"
+    },
+    {
+      "originalHref": "https://enduro-vietnam.com/ru/all-tours/vietnam-motorcycle-tours-12-days",
+      "href": "/ru/all-tours/vietnam-motorcycle-tours-12-days",
+      "kind": "internal",
+      "sourceStatus": 200,
+      "sourcePath": "/ru/all-tours/vietnam-motorcycle-tours-12-days",
+      "text": "Подробнее"
+    },
+    {
+      "originalHref": "/ru",
+      "href": "/ru",
+      "kind": "internal",
+      "sourceStatus": 200,
+      "sourcePath": "/ru",
+      "text": "Главная страница"
+    },
+    {
+      "originalHref": "/ru/dalat",
+      "href": "/ru/dalat",
+      "kind": "internal",
+      "sourceStatus": 200,
+      "sourcePath": "/ru/dalat",
+      "text": "Эндуро туры в Далате"
+    },
+    {
+      "originalHref": "/ru/nhatrang",
+      "href": "/ru/nhatrang",
+      "kind": "internal",
+      "sourceStatus": 200,
+      "sourcePath": "/ru/nhatrang",
+      "text": "Эндуро туры в Нячанге"
+    },
+    {
+      "originalHref": "/ru/danang",
+      "href": "/ru/danang",
+      "kind": "internal",
+      "sourceStatus": 200,
+      "sourcePath": "/ru/danang",
+      "text": "Эндуро туры в Дананге"
+    },
+    {
+      "originalHref": "/ru/muine",
+      "href": "/ru/muine",
+      "kind": "internal",
+      "sourceStatus": 200,
+      "sourcePath": "/ru/muine",
+      "text": "Эндуро туры в Муйне"
+    },
+    {
+      "originalHref": "/ru/all-tours",
+      "href": "/ru/all-tours",
+      "kind": "internal",
+      "sourceStatus": 200,
+      "sourcePath": "/ru/all-tours",
+      "text": "Все туры"
+    },
+    {
+      "originalHref": "/rent-motorbike-dalat",
+      "href": "/rent-motorbike-dalat",
+      "kind": "internal",
+      "sourceStatus": 200,
+      "sourcePath": "/rent-motorbike-dalat",
+      "text": "Аренда скутеров Далат"
+    },
+    {
+      "originalHref": "ru/rent-scooter-nhatrang",
+      "href": "/ru/rent-scooter-nhatrang",
+      "kind": "internal",
+      "sourceStatus": 404,
+      "sourcePath": "/ru/ru/rent-scooter-nhatrang",
+      "text": "Аренда скутеров Нячанг"
+    },
+    {
+      "originalHref": "/",
+      "href": "/",
+      "kind": "internal",
+      "sourceStatus": 200,
+      "sourcePath": "/",
+      "text": "Enduro tours in Vietnam"
+    },
+    {
+      "originalHref": "/dalat",
+      "href": "/dalat",
+      "kind": "internal",
+      "sourceStatus": 200,
+      "sourcePath": "/dalat",
+      "text": "Dalat"
+    },
+    {
+      "originalHref": "/nhatrang",
+      "href": "/nhatrang",
+      "kind": "internal",
+      "sourceStatus": 200,
+      "sourcePath": "/nhatrang",
+      "text": "Nha Trang"
+    },
+    {
+      "originalHref": "/danang",
+      "href": "/danang",
+      "kind": "internal",
+      "sourceStatus": 200,
+      "sourcePath": "/danang",
+      "text": "Danang"
+    },
+    {
+      "originalHref": "/muine",
+      "href": "/muine",
+      "kind": "internal",
+      "sourceStatus": 200,
+      "sourcePath": "/muine",
+      "text": "Muine"
+    },
+    {
+      "originalHref": "/all-tours",
+      "href": "/all-tours",
+      "kind": "internal",
+      "sourceStatus": 200,
+      "sourcePath": "/all-tours",
+      "text": "All tours"
+    },
+    {
+      "originalHref": "/rent-motorbike-dalat",
+      "href": "/rent-motorbike-dalat",
+      "kind": "internal",
+      "sourceStatus": 200,
+      "sourcePath": "/rent-motorbike-dalat",
+      "text": "Scooter rental in Dalat"
+    },
+    {
+      "originalHref": "/rent-scooter-nhatrang",
+      "href": "/rent-scooter-nhatrang",
+      "kind": "internal",
+      "sourceStatus": 200,
+      "sourcePath": "/rent-scooter-nhatrang",
+      "text": "Scooter rental in Nha Trang"
+    },
+    {
+      "originalHref": "https://maps.app.goo.gl/hvewF4aRPsdtciud6",
+      "href": "https://maps.app.goo.gl/hvewF4aRPsdtciud6",
+      "kind": "external",
+      "sourceStatus": null,
+      "text": "Vietnam"
+    },
+    {
+      "originalHref": "https://t.me/mototourvietnam",
+      "href": "https://t.me/mototourvietnam",
+      "kind": "external",
+      "sourceStatus": null,
+      "text": "https://t.me/mototourvietnam"
+    },
+    {
+      "originalHref": "https://www.instagram.com/enduro.vietnam",
+      "href": "https://www.instagram.com/enduro.vietnam",
+      "kind": "external",
+      "sourceStatus": null,
+      "text": "https://www.instagram.com/enduro.vietnam"
+    },
+    {
+      "originalHref": "https://wa.me/79994564498",
+      "href": "https://wa.me/79994564498",
+      "kind": "external",
+      "sourceStatus": null,
+      "text": "https://wa.me/79994564498"
+    },
+    {
+      "originalHref": "https://t.me/mototourvietnam",
+      "href": "https://t.me/mototourvietnam",
+      "kind": "external",
+      "sourceStatus": null,
+      "text": "https://t.me/mototourvietnam"
+    },
+    {
+      "originalHref": "https://creatium.app",
+      "href": "https://creatium.app",
+      "kind": "external",
+      "sourceStatus": null,
+      "text": "Creatium"
+    }
+  ],
+  "images": [
+    {
+      "src": "/assets/6bdd40c52c3b30dd7471.png",
+      "alt": "",
+      "originalSrc": "https://img2.creatium.app/disk2/6b/0b/d8/c10946f19224345a76344a8611c9b27fea/logoendurov2.png#%7B%22size%22:%5B%22411%22,%22225%22%5D,%22quality%22:8%7D"
+    },
+    {
+      "src": "/assets/eab6500af28292fd8a86.webp",
+      "alt": "",
+      "originalSrc": "https://img2.creatium.app/disk2/93/2a/37/0b9c79fcdedc78b7fc08afb8d804a9716a/pereriv_na_obed_enduro.webp#%7B%22size%22:%5B1661,981%5D,%22quality%22:8%7D"
+    },
+    {
+      "src": "/assets/5b0f2f6c16288f325dc2.webp",
+      "alt": "",
+      "originalSrc": "https://img2.creatium.app/disk2/68/54/7e/093c77eb7a0ad2338d3889c03f88040200/zavershenie_tura.webp#%7B%22size%22:%5B1792,1058%5D,%22quality%22:8%7D"
+    },
+    {
+      "src": "/assets/1284a34ae202598ed52e.webp",
+      "alt": "",
+      "originalSrc": "https://img2.creatium.app/disk2/67/db/c1/64b1925ff70d800a3d8e46728f54c78d40/enduro_ostanovka.webp#%7B%22size%22:%5B1792,1058%5D,%22quality%22:8%7D"
+    },
+    {
+      "src": "/assets/29ae98db4c72168d2384.webp",
+      "alt": "",
+      "originalSrc": "https://img2.creatium.app/disk2/fb/81/5a/7a5ad58395c4d674e40095a2f62247bd2f/ostanovka_enduristov.webp#%7B%22size%22:%5B1792,1058%5D,%22quality%22:8%7D"
+    },
+    {
+      "src": "/assets/3c5c78a7b68f9ab246ca.webp",
+      "alt": "",
+      "originalSrc": "https://img2.creatium.app/disk2/f2/b1/38/3abf20c46eb67a4e6fdcc5f900b00c0552/doroga_nyachang_dalat.webp#%7B%22size%22:%5B960,567%5D,%22quality%22:8%7D"
+    },
+    {
+      "src": "/assets/c2c84b8aef611a4e0f13.png",
+      "alt": "",
+      "originalSrc": "https://img2.creatium.app/disk2/68/f1/d4/1e1c760b3020f2847c8aec10dc4e46c01d/img_0568.png#%7B%22size%22:%5B950,567%5D,%22quality%22:8%7D"
+    },
+    {
+      "src": "/assets/f5af2b452a40cec29cc5.webp",
+      "alt": "",
+      "originalSrc": "https://img2.creatium.app/disk2/69/e8/c8/07d1bce7a2566cca01df416ebfbbe3f851/kupaemsya_v_nyachange.webp#%7B%22size%22:%5B960,567%5D,%22quality%22:8%7D"
+    },
+    {
+      "src": "/assets/c743d47bccaaf67b9b00.webp",
+      "alt": "",
+      "originalSrc": "https://img2.creatium.app/disk2/95/90/9b/8ef23e4b17cf7a9181cc49afe9b168ae87/river_crossing_by_bamboo_raft_1.webp#%7B%22size%22:%5B643,360%5D,%22quality%22:8%7D"
+    },
+    {
+      "src": "/assets/ea9137b20eac68281111.webp",
+      "alt": "",
+      "originalSrc": "https://img2.creatium.app/disk2/7e/6b/0c/7138878a93eec139c85ceabb2d70228c1a/ride_ho_chi_minh_trail.webp#%7B%22size%22:%5B1600,1066%5D,%22quality%22:8%7D"
+    },
+    {
+      "src": "/assets/cf90e32c64cf5b45802e.webp",
+      "alt": "",
+      "originalSrc": "https://img2.creatium.app/disk2/5e/51/6c/93daabe42fe034dd21a03b0b69e20e46e1/thac_ba_lake.webp#%7B%22size%22:%5B1600,901%5D,%22quality%22:8%7D"
+    },
+    {
+      "src": "/assets/abdbf36cf31fc2060f07.webp",
+      "alt": "",
+      "originalSrc": "https://img2.creatium.app/disk2/24/fb/90/25c967f88c81188457f9f7cd49d7a2137a/lai_chau_motorbike.webp#%7B%22size%22:%5B717,360%5D,%22quality%22:8%7D"
+    },
+    {
+      "src": "/assets/69d41bde2bcd59a79c05.webp",
+      "alt": "",
+      "originalSrc": "https://img2.creatium.app/disk2/f9/9a/26/42dea2dc67d5556079d61808b24a731647/ha_giang_2023.webp#%7B%22size%22:%5B645,420%5D,%22quality%22:8%7D"
+    },
+    {
+      "src": "/assets/8ebdf0662bc85f1663d0.webp",
+      "alt": "",
+      "originalSrc": "https://img2.creatium.app/disk2/60/b3/f2/ee25be0c0f15334e0152c331aaac8ab5f8/ajkz2670.webp#%7B%22size%22:%5B1600,940%5D,%22quality%22:8%7D"
+    },
+    {
+      "src": "/assets/2eda87386994782b9bbb.webp",
+      "alt": "",
+      "originalSrc": "https://img2.creatium.app/disk2/28/fb/a3/e5d489c37f31fdd4adc1baa4a1416a79ff/danang_enduro_tour_4.webp#%7B%22size%22:%5B1920,1134%5D,%22quality%22:8%7D"
+    },
+    {
+      "src": "/assets/6e73233617d394a91eaa.webp",
+      "alt": "",
+      "originalSrc": "https://img2.creatium.app/disk2/29/80/81/dddf1f46b86788ae42b0eab6882359ae0c/danang_moto_tour.webp#%7B%22size%22:%5B1920,1134%5D,%22quality%22:8%7D"
+    },
+    {
+      "src": "/assets/c426d5b0d9b5d8becbac.webp",
+      "alt": "",
+      "originalSrc": "https://img2.creatium.app/disk2/da/92/97/819377cfb58784ac88676ee4bc63ff07e1/vietnam_motorcycle_ride.webp#%7B%22size%22:%5B1600,969%5D,%22quality%22:8%7D"
+    },
+    {
+      "src": "/assets/8283b920abfa07153f37.png",
+      "alt": "",
+      "originalSrc": "https://img2.creatium.app/plp/i.1.creatium.io/disk2/3a/ae/f3/cce465da664e56752e6b093b69989fd09d/icons8_adres_100.png#%7B%22size%22:%5B100,100%5D,%22quality%22:8%7D"
+    },
+    {
+      "src": "/assets/90c78507e5c111b73df4.png",
+      "alt": "",
+      "originalSrc": "https://img2.creatium.app/plp/i.1.creatium.io/disk2/d8/30/fb/99f10ae307d4102ca55ac250789452de20/group_94.png#%7B%22size%22:%5B197,197%5D,%22quality%22:8%7D"
+    }
+  ],
+  "anchors": [
+    "#price",
+    "powered-by"
+  ],
+  "repairs": [],
+  "originalText": [
+    "Все туры по Вьетнаму | Enduro-Vietnam",
+    "Эндуро туры по городам",
+    "Аренда скутеров и мопедов",
+    "Все туры",
+    "Связаться",
+    "ТУРЫ ПО ВЬЕТНАМУ",
+    "Откройте весь Вьетнам: от захватывающих дух горных серпантинов в облаках до бесконечных прибрежных трасс. Пронеситесь по извилистым перевалам вечной весны, через золотые песчаные дюны к бирюзовым бухтам и скрытым пляжам побережья. Ваше грандиозное путешествие начинается здесь!",
+    "Эндуро-Туры во Вьетнаме",
+    "›",
+    "Все туры",
+    "От",
+    "$120",
+    "Однодневный тур по Далату",
+    "📆 Продолжительность:",
+    "3 часа",
+    "📍Направления: Вокруг Далата",
+    "⛰️ Уровень тура:",
+    "Туры среднего уровня",
+    "Связаться",
+    "Подробнее",
+    "От",
+    "$150",
+    "Расширенный маршрут по Далату",
+    "📆 Продолжительность:",
+    "6 часов",
+    "📍Направления: Вокруг Далата",
+    "⛰️ Уровень тура:",
+    "Туры среднего уровня",
+    "Связаться",
+    "Подробнее",
+    "От",
+    "$300",
+    "Двухдневный тур по Далату",
+    "📆 Продолжительность:",
+    "2 дня",
+    "📍Направления: Вокруг Далата",
+    "⛰️ Уровень тура:",
+    "Туры среднего уровня",
+    "Связаться",
+    "Подробнее",
+    "От",
+    "$1000",
+    "Трехдневный тур: Далат и Нячанг",
+    "📆 Продолжительность:",
+    "3 дня",
+    "📍Направления: Далат — Нячанг",
+    "⛰️ Уровень тура:",
+    "Туры среднего уровня",
+    "Связаться",
+    "Подробнее",
+    "От",
+    "$1000",
+    "Трехдневный тур: Далат и Муйне",
+    "📆 Продолжительность:",
+    "3 дня",
+    "📍Направления: Далат — Муйне",
+    "⛰️ Уровень тура:",
+    "Туры среднего уровня",
+    "Связаться",
+    "Подробнее",
+    "От",
+    "$100",
+    "Easy Rider — эндуро-маршрут для новичков",
+    "📆 Продолжительность:",
+    "2,5 часа",
+    "📍Направления: Вокруг Далата",
+    "⛰️ Уровень тура:",
+    "Туры среднего уровня",
+    "Связаться",
+    "Подробнее",
+    "От",
+    "$120",
+    "Однодневный тур по Нячангу",
+    "📆 Продолжительность:",
+    "2,5 часа",
+    "📍Направления: Вокруг Нячанга",
+    "⛰️ Уровень тура:",
+    "Туры среднего уровня",
+    "Связаться",
+    "Подробнее",
+    "От",
+    "$150",
+    "Расширенный маршрут по Нячангу",
+    "📆 Продолжительность:",
+    "4 часа",
+    "📍Направления: Вокруг Нячанга",
+    "⛰️ Уровень тура:",
+    "Туры среднего уровня",
+    "Связаться",
+    "Подробнее",
+    "От",
+    "$960",
+    "Большой 4-дневный мототур по Южному Вьетнаму",
+    "📆 Продолжительность:",
+    "4 дня",
+    "📍Направления: Сайгон — нацпарк Каттьен — озеро Тадунг — Муйне — Сайгон",
+    "⛰️ Уровень тура:",
+    "Туры среднего уровня",
+    "Связаться",
+    "Подробнее",
+    "От",
+    "$1000",
+    "Большой мототур: Сайгон – Нячанг – 5 дней",
+    "📆 Продолжительность:",
+    "5 дней",
+    "📍Направления: Сайгон — Донгсоай — Биньфыок — Даклак — Буонметхуот — озеро Лак — Далат — Нячанг",
+    "⛰️ Уровень тура:",
+    "Туры среднего уровня",
+    "Связаться",
+    "Подробнее",
+    "От",
+    "$1240",
+    "Мототур по дельте Меконга и побережью Вьетнама – 6 дней",
+    "📆 Продолжительность:",
+    "6 дней",
+    "📍Направления: Хошимин — Тяудок — рынок Кайранг — Бенче — Кантхо — Вунгтау — Муйне — Сайгон",
+    "⛰️ Уровень тура:",
+    "Туры среднего уровня",
+    "Связаться",
+    "Подробнее",
+    "От",
+    "$1380",
+    "Мототур по побережью и центральному нагорью Вьетнама – 7 дней",
+    "📆 Продолжительность:",
+    "7 дней",
+    "📍Направления: Хошимин — пляж Лонгхай — пляж Муйне — Баолок — Дакмил — озеро Лак — Нячанг — Далат",
+    "⛰️ Уровень тура:",
+    "Туры среднего уровня",
+    "Связаться",
+    "Подробнее",
+    "От",
+    "$2000",
+    "Мототур из Сайгона: дельта Меконга – центральное нагорье – 10 дней",
+    "📆 Продолжительность:",
+    "10 дней",
+    "📍Направления: Хошимин — Бенче — Кантхо — Тяудок — Вунгтау — Муйне — Далат — Буонметхуот — Контум — Хойан",
+    "⛰️ Уровень тура:",
+    "Туры среднего уровня",
+    "Связаться",
+    "Подробнее",
+    "От",
+    "$1780",
+    "Мототур по Южному Вьетнаму – 7 дней",
+    "📆 Продолжительность:",
+    "7 дней",
+    "📍Направления: Сайгон — Митхо — Кайбе — Виньлонг — Кантхо — Кайранг — Сайгон — нацпарк Каттьен — Ламдонг — Далат — Фантьет — Сайгон",
+    "⛰️ Уровень тура:",
+    "Туры среднего уровня",
+    "Связаться",
+    "Подробнее",
+    "От",
+    "$120",
+    "Однодневный тур по Данангу",
+    "📆 Продолжительность:",
+    "3 часа",
+    "📍Направления: Вокруг Дананга (полуостров Шонча)",
+    "⛰️ Уровень тура:",
+    "Туры среднего уровня",
+    "Связаться",
+    "Подробнее",
+    "От",
+    "$150",
+    "Расширенный маршрут по Данангу",
+    "📆 Продолжительность:",
+    "6 часов",
+    "📍Направления: Перевал Хайван и окрестности Дананга",
+    "⛰️ Уровень тура:",
+    "Туры среднего уровня",
+    "Связаться",
+    "Подробнее",
+    "От",
+    "$1900",
+    "Настоящий Вьетнам на мотоциклах – 12 дней",
+    "📆 Продолжительность:",
+    "12 дней",
+    "📍Направления: Северный Вьетнам",
+    "⛰️ Уровень тура:",
+    "Туры среднего уровня",
+    "Связаться",
+    "Подробнее",
+    "Enduro Vietnam — Твой пропуск в настоящий Вьетнам на двух колесах",
+    "Забудьте о стандартных туристических маршрутах.",
+    "Enduro Vietnam",
+    "организует мотоциклетные путешествия по самому сердцу Южного и Центрального Вьетнама. Мы объединяем свободу дикой природы, адреналин и скрытые локации, куда не доберется обычный турист.",
+    "Мы работаем в формате «гибкого приключения»: сложность маршрута и темп подбираются индивидуально под каждую группу.",
+    "Наш парк техники:",
+    "* Для серьезного бездорожья и гор:",
+    "Honda CRF, Honda XR, Yamaha WR, Yamaha Serow",
+    ".",
+    "Для комфортных туров и асфальтовых серпантинов:",
+    "KTM Adventure, BMW",
+    "и другие дорожные байки.",
+    "География:",
+    "Весь сочный юг и центр — от песчаных дюн Муйне до высокогорных лесов Далата и легендарных перевалов Дананга.",
+    "Профессиональное сопровождение:",
+    "Опытные гиды (русскоязычные или англоговорящие на ваш выбор), которые знают, где заканчивается асфальт и начинается настоящий драйв.",
+    "Страницы направлений",
+    "Далат: Эндуро-столица Вьетнама",
+    "Далат — это база №1 для тех, кто хочет испытать технику на прочность. Прохладный горный воздух и уникальный ландшафт создают идеальные условия для катания.",
+    "Маршруты:",
+    "Мы выезжаем далеко за пределы города — в хвойные леса, на кофейные плантации и к скрытым водопадам.",
+    "Локации:",
+    "Гора Лангбианг, озеро Туен Лам, чайные холмы Кау Дат и «Ворота в небеса» Бали Грин Хиллз.",
+    "Драйв:",
+    "Для эндуро-групп — штурм перевалов Та Дунг и диких лесных троп. Для дорожных байков — идеальные серпантины с видом на долины.",
+    "Дананг: Легендарный перевал Хайван",
+    "Здесь сосредоточены самые красивые асфальтовые дороги страны.",
+    "Главный вызов:",
+    "Перевал Хайван (Hai Van Pass). 21 километр чистейшего восторга, крутых поворотов и панорамных видов на океан.",
+    "Что исследуем:",
+    "Мраморные горы, полуостров Сон Тра (гора Обезьян) и атмосферные дороги, ведущие к древнему Хойану.",
+    "Муйне: Пески и океанский бриз",
+    "Уникальная локация, где можно почувствовать себя участником ралли «Дакар».",
+    "Эндуро-акцент:",
+    "Огромные Белые и Красные дюны, где можно проверить свои навыки управления байком на песке.",
+    "Локации:",
+    "Живописная «Дорога к морю» для топового контента, Ручей Фей и заброшенные маяки на побережье.",
+    "Нячанг: Панорамные серпантины и бухты",
+    "Нячанг — это не только пляжи, но и захватывающие дух прибрежные трассы.",
+    "Маршрут:",
+    "Поездки вдоль залива Камрань по одной из самых красивых прибрежных дорог мира.",
+    "Локации:",
+    "Башни Понагар, панорамные площадки на горных перевалах и аутентичные рыбацкие поселения вдали от турзоны.",
+    "Дальние туры (Экспедиции между городами)",
+    "Трансферные туры: Из гор к океану",
+    "Для тех, кому мало одного города,",
+    "Enduro Vietnam",
+    "создает эпические маршруты, объединяющие несколько регионов.",
+    "Популярные связки:",
+    "Далат — Муйне (резкий спуск из прохладных гор в жаркую пустыню) или Нячанг — Далат (затяжные подъемы по серпантинам через облака).",
+    "Гибкость:",
+    "Мы можем проложить маршрут как по скоростным трассам на туристических байках, так и «огородами» через джунгли и деревни малых народностей на эндуро.",
+    "Сервис:",
+    "Индивидуальный расчет стоимости, подбор техники и сопровождение на всем пути.",
+    "Коротко о важном (FAQ)",
+    "Какой байк выбрать?",
+    "Если планируете съезжать с дорог в грязь, песок или джунгли — ваш выбор",
+    "Honda CRF/XR",
+    "или",
+    "Yamaha WR",
+    ". Если ваш приоритет — комфорт на асфальте и мощь, мы предложим",
+    "KTM",
+    "или",
+    "BMW",
+    ".",
+    "Какая сложность?",
+    "Мы проводим как лайт-прогулки для новичков, так и хард-эндуро туры для профи. Уровень сложности обсуждается заранее.",
+    "Кто ведет тур?",
+    "В зависимости от ваших предпочтений, тур может сопровождать русскоязычный или англоговорящий гид.",
+    "Цена:",
+    "Стоимость зависит от выбранной техники, длительности маршрута и количества человек. Все детали уточняются индивидуально.",
+    "Что добавим дальше?",
+    "Можем составить подробный план одного из топовых маршрутов (например, 3-дневный трип «Далат — Муйне — Нячанг») или проработать страницу «Наш гараж» с описанием характеристик байков.",
+    "⬇Подробнее",
+    "⬆Скрыть",
+    "Enduro-Vietnam",
+    "По вопросам сотрудничества пишите в телеграмм",
+    "© 2026. Все права защищены",
+    "Главная страница",
+    "Эндуро туры в Далате",
+    "Эндуро туры в Нячанге",
+    "Эндуро туры в Дананге",
+    "Эндуро туры в Муйне",
+    "Все туры",
+    "Аренда скутеров Далат",
+    "Аренда скутеров Нячанг",
+    "Enduro tours in Vietnam",
+    "Dalat",
+    "Nha Trang",
+    "Danang",
+    "Muine",
+    "All tours",
+    "Scooter rental in Dalat",
+    "Scooter rental in Nha Trang",
+    "Vietnam",
+    "Работает на",
+    "Creatium"
+  ]
+}

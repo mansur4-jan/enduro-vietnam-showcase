@@ -1,0 +1,358 @@
+{
+  "source": "https://enduro-vietnam.com/",
+  "routes": {
+    "/": {
+      "target": "/",
+      "sourceStatus": 200,
+      "implemented": true
+    },
+    "/all-tours": {
+      "target": "/all-tours",
+      "sourceStatus": 200,
+      "implemented": true
+    },
+    "/ru": {
+      "target": "/ru",
+      "sourceStatus": 200,
+      "implemented": true
+    },
+    "/ru/all-tours": {
+      "target": "/ru/all-tours",
+      "sourceStatus": 200,
+      "implemented": true
+    },
+    "/all-tours/5-day-motorbike-tour-from-saigon-ho-chi-minh-city": {
+      "target": "/all-tours/5-day-motorbike-tour-from-saigon-ho-chi-minh-city",
+      "sourceStatus": 200,
+      "implemented": true
+    },
+    "/all-tours/dalat-easy-rider-enduro-beginners": {
+      "target": "/all-tours/dalat-easy-rider-enduro-beginners",
+      "sourceStatus": 200,
+      "implemented": true
+    },
+    "/all-tours/dalat-enduro-tour-advanced": {
+      "target": "/all-tours/dalat-enduro-tour-advanced",
+      "sourceStatus": 200,
+      "implemented": true
+    },
+    "/all-tours/dalat-enduro-tour-one-day": {
+      "target": "/all-tours/dalat-enduro-tour-one-day",
+      "sourceStatus": 200,
+      "implemented": true
+    },
+    "/all-tours/dalat-enduro-tour-two-day": {
+      "target": "/all-tours/dalat-enduro-tour-two-day",
+      "sourceStatus": 200,
+      "implemented": true
+    },
+    "/all-tours/danang-enduro-tour-advanced": {
+      "target": "/all-tours/danang-enduro-tour-advanced",
+      "sourceStatus": 200,
+      "implemented": true
+    },
+    "/all-tours/danang-enduro-tour-one-day": {
+      "target": "/all-tours/danang-enduro-tour-one-day",
+      "sourceStatus": 200,
+      "implemented": true
+    },
+    "/all-tours/mekong-delta-and-coastline-vietnam-motorbike-tour-6-days": {
+      "target": "/all-tours/mekong-delta-and-coastline-vietnam-motorbike-tour-6-days",
+      "sourceStatus": 200,
+      "implemented": true
+    },
+    "/all-tours/motorbike-tour-south-vietnam-4-days": {
+      "target": "/all-tours/motorbike-tour-south-vietnam-4-days",
+      "sourceStatus": 200,
+      "implemented": true
+    },
+    "/all-tours/motorcycle-tour-on-coastline-and-highlands-vietnam-7-days": {
+      "target": "/all-tours/motorcycle-tour-on-coastline-and-highlands-vietnam-7-days",
+      "sourceStatus": 200,
+      "implemented": true
+    },
+    "/all-tours/nhatrang-enduro-tour-advanced": {
+      "target": "/all-tours/nhatrang-enduro-tour-advanced",
+      "sourceStatus": 200,
+      "implemented": true
+    },
+    "/all-tours/nhatrang-enduro-tour-one-day": {
+      "target": "/all-tours/nhatrang-enduro-tour-one-day",
+      "sourceStatus": 200,
+      "implemented": true
+    },
+    "/all-tours/saigon-motorbike-tour-10-days": {
+      "target": "/all-tours/saigon-motorbike-tour-10-days",
+      "sourceStatus": 200,
+      "implemented": true
+    },
+    "/all-tours/south-vietnam-motorbike-tour-7-days": {
+      "target": "/all-tours/south-vietnam-motorbike-tour-7-days",
+      "sourceStatus": 200,
+      "implemented": true
+    },
+    "/all-tours/three-day-tour-dalat-muine": {
+      "target": "/all-tours/three-day-tour-dalat-muine",
+      "sourceStatus": 200,
+      "implemented": true
+    },
+    "/all-tours/three-day-tour-dalat-nhatrang": {
+      "target": "/all-tours/three-day-tour-dalat-nhatrang",
+      "sourceStatus": 200,
+      "implemented": true
+    },
+    "/dalat": {
+      "target": "/dalat",
+      "sourceStatus": 200,
+      "implemented": true
+    },
+    "/danang": {
+      "target": "/danang",
+      "sourceStatus": 200,
+      "implemented": true
+    },
+    "/muine": {
+      "target": "/muine",
+      "sourceStatus": 200,
+      "implemented": true
+    },
+    "/nhatrang": {
+      "target": "/nhatrang",
+      "sourceStatus": 200,
+      "implemented": true
+    },
+    "/privacy": {
+      "target": "/privacy",
+      "sourceStatus": 200,
+      "implemented": true
+    },
+    "/rent-motorbike-dalat": {
+      "target": "/rent-motorbike-dalat",
+      "sourceStatus": 200,
+      "implemented": true
+    },
+    "/rent-scooter-nhatrang": {
+      "target": "/rent-scooter-nhatrang",
+      "sourceStatus": 200,
+      "implemented": true
+    },
+    "/ru/all-tours/5-day-motorbike-tour-from-saigon-ho-chi-minh-city": {
+      "target": "/ru/all-tours/5-day-motorbike-tour-from-saigon-ho-chi-minh-city",
+      "sourceStatus": 200,
+      "implemented": true
+    },
+    "/ru/all-tours/dalat-easy-rider-enduro-beginners": {
+      "target": "/ru/all-tours/dalat-easy-rider-enduro-beginners",
+      "sourceStatus": 200,
+      "implemented": true
+    },
+    "/ru/all-tours/dalat-enduro-tour-advanced": {
+      "target": "/ru/all-tours/dalat-enduro-tour-advanced",
+      "sourceStatus": 200,
+      "implemented": true
+    },
+    "/ru/all-tours/dalat-enduro-tour-one-day": {
+      "target": "/ru/all-tours/dalat-enduro-tour-one-day",
+      "sourceStatus": 200,
+      "implemented": true
+    },
+    "/ru/all-tours/dalat-enduro-tour-two-day": {
+      "target": "/ru/all-tours/dalat-enduro-tour-two-day",
+      "sourceStatus": 200,
+      "implemented": true
+    },
+    "/ru/all-tours/danang-enduro-tour-advanced": {
+      "target": "/ru/all-tours/danang-enduro-tour-advanced",
+      "sourceStatus": 200,
+      "implemented": true
+    },
+    "/ru/all-tours/danang-enduro-tour-one-day": {
+      "target": "/ru/all-tours/danang-enduro-tour-one-day",
+      "sourceStatus": 200,
+      "implemented": true
+    },
+    "/ru/all-tours/mekong-delta-and-coastline-vietnam-motorbike-tour-6-days": {
+      "target": "/ru/all-tours/mekong-delta-and-coastline-vietnam-motorbike-tour-6-days",
+      "sourceStatus": 200,
+      "implemented": true
+    },
+    "/ru/all-tours/motorbike-tour-south-vietnam-4-days": {
+      "target": "/ru/all-tours/motorbike-tour-south-vietnam-4-days",
+      "sourceStatus": 200,
+      "implemented": true
+    },
+    "/ru/all-tours/motorcycle-tour-on-coastline-and-highlands-vietnam-7-days": {
+      "target": "/ru/all-tours/motorcycle-tour-on-coastline-and-highlands-vietnam-7-days",
+      "sourceStatus": 200,
+      "implemented": true
+    },
+    "/ru/all-tours/nhatrang-enduro-tour-advanced": {
+      "target": "/ru/all-tours/nhatrang-enduro-tour-advanced",
+      "sourceStatus": 200,
+      "implemented": true
+    },
+    "/ru/all-tours/nhatrang-enduro-tour-one-day": {
+      "target": "/ru/all-tours/nhatrang-enduro-tour-one-day",
+      "sourceStatus": 200,
+      "implemented": true
+    },
+    "/ru/all-tours/saigon-motorbike-tour-10-days": {
+      "target": "/ru/all-tours/saigon-motorbike-tour-10-days",
+      "sourceStatus": 200,
+      "implemented": true
+    },
+    "/ru/all-tours/south-vietnam-motorbike-tour-7-days": {
+      "target": "/ru/all-tours/south-vietnam-motorbike-tour-7-days",
+      "sourceStatus": 200,
+      "implemented": true
+    },
+    "/ru/all-tours/three-day-tour-dalat-muine": {
+      "target": "/ru/all-tours/three-day-tour-dalat-muine",
+      "sourceStatus": 200,
+      "implemented": true
+    },
+    "/ru/all-tours/three-day-tour-dalat-nhatrang": {
+      "target": "/ru/all-tours/three-day-tour-dalat-nhatrang",
+      "sourceStatus": 200,
+      "implemented": true
+    },
+    "/ru/all-tours/vietnam-motorcycle-tours-12-days": {
+      "target": "/ru/all-tours/vietnam-motorcycle-tours-12-days",
+      "sourceStatus": 200,
+      "implemented": true
+    },
+    "/ru/dalat": {
+      "target": "/ru/dalat",
+      "sourceStatus": 200,
+      "implemented": true
+    },
+    "/ru/danang": {
+      "target": "/ru/danang",
+      "sourceStatus": 200,
+      "implemented": true
+    },
+    "/ru/muine": {
+      "target": "/ru/muine",
+      "sourceStatus": 200,
+      "implemented": true
+    },
+    "/ru/nhatrang": {
+      "target": "/ru/nhatrang",
+      "sourceStatus": 200,
+      "implemented": true
+    },
+    "/ru/rent-motorbike-dalat": {
+      "target": "/ru/rent-motorbike-dalat",
+      "sourceStatus": 200,
+      "implemented": true
+    },
+    "/ru/rent-scooter-nhatrang": {
+      "target": "/ru/rent-scooter-nhatrang",
+      "sourceStatus": 200,
+      "implemented": true
+    },
+    "/nhatrang-enduro-tour-advanced": {
+      "target": "/nhatrang-enduro-tour-advanced",
+      "sourceStatus": 200,
+      "implemented": true
+    },
+    "/nhatrang-enduro-tour-one-day": {
+      "target": "/nhatrang-enduro-tour-one-day",
+      "sourceStatus": 200,
+      "implemented": true
+    },
+    "/three-day-tour-dalat-nhatrang": {
+      "target": "/three-day-tour-dalat-nhatrang",
+      "sourceStatus": 200,
+      "implemented": true
+    },
+    "/all-tours/tours": {
+      "target": null,
+      "sourceStatus": 404,
+      "implemented": false
+    },
+    "/city": {
+      "target": null,
+      "sourceStatus": 404,
+      "implemented": false
+    },
+    "/rent": {
+      "target": null,
+      "sourceStatus": 404,
+      "implemented": false
+    },
+    "/ru/all-tours/tours": {
+      "target": null,
+      "sourceStatus": 404,
+      "implemented": false
+    },
+    "/ru/city": {
+      "target": null,
+      "sourceStatus": 404,
+      "implemented": false
+    },
+    "/ru/rent": {
+      "target": null,
+      "sourceStatus": 404,
+      "implemented": false
+    },
+    "/aboutourclinic": {
+      "target": null,
+      "sourceStatus": 404,
+      "implemented": false
+    },
+    "/ru/ru/rent-scooter-nhatrang": {
+      "target": "/ru/rent-scooter-nhatrang",
+      "sourceStatus": 404,
+      "implemented": true
+    },
+    "/all-tours/ru/rent-motorbike-dalat": {
+      "target": "/ru/rent-motorbike-dalat",
+      "sourceStatus": 404,
+      "implemented": true
+    },
+    "/all-tours/ru/rent-scooter-nhatrang": {
+      "target": "/ru/rent-scooter-nhatrang",
+      "sourceStatus": 404,
+      "implemented": true
+    },
+    "/ru/all-tours/ru/rent-scooter-nhatrang": {
+      "target": "/ru/rent-scooter-nhatrang",
+      "sourceStatus": 404,
+      "implemented": true
+    },
+    "/ru/tours/dalat-easy-rider-enduro-beginners": {
+      "target": "/ru/all-tours/dalat-easy-rider-enduro-beginners",
+      "sourceStatus": 404,
+      "implemented": true
+    },
+    "/ru/tours/dalat-enduro-tour-advanced": {
+      "target": "/ru/all-tours/dalat-enduro-tour-advanced",
+      "sourceStatus": 404,
+      "implemented": true
+    },
+    "/ru/tours/dalat-enduro-tour-one-day": {
+      "target": "/ru/all-tours/dalat-enduro-tour-one-day",
+      "sourceStatus": 404,
+      "implemented": true
+    },
+    "/ru/tours/dalat-enduro-tour-two-day": {
+      "target": "/ru/all-tours/dalat-enduro-tour-two-day",
+      "sourceStatus": 404,
+      "implemented": true
+    },
+    "/ru/tours/three-day-tour-dalat-muine": {
+      "target": "/ru/all-tours/three-day-tour-dalat-muine",
+      "sourceStatus": 404,
+      "implemented": true
+    },
+    "/ru/tours/three-day-tour-dalat-nhatrang": {
+      "target": "/ru/all-tours/three-day-tour-dalat-nhatrang",
+      "sourceStatus": 404,
+      "implemented": true
+    }
+  },
+  "unresolved": {},
+  "countAvailable": 53,
+  "countSource404": 17
+}

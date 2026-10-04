@@ -1,0 +1,332 @@
+{
+  "source": ".shipstudio/responsive-checks.json",
+  "checkedAt": "2026-10-04T02:28:25.206Z",
+  "role": "current rebuilt catalog; source design-system.json remains historical",
+  "measurements": [
+    {
+      "path": "/",
+      "width": 360,
+      "computed": {
+        "background": "rgb(247, 247, 243)",
+        "ink": "rgb(32, 38, 32)",
+        "bodyFont": "Inter, Arial, sans-serif",
+        "h1Size": "32px",
+        "h1LineHeight": "33.92px",
+        "contentWidth": 360,
+        "accent": "#c7f265"
+      }
+    },
+    {
+      "path": "/",
+      "width": 390,
+      "computed": {
+        "background": "rgb(247, 247, 243)",
+        "ink": "rgb(32, 38, 32)",
+        "bodyFont": "Inter, Arial, sans-serif",
+        "h1Size": "32px",
+        "h1LineHeight": "33.92px",
+        "contentWidth": 390,
+        "accent": "#c7f265"
+      }
+    },
+    {
+      "path": "/",
+      "width": 768,
+      "computed": {
+        "background": "rgb(247, 247, 243)",
+        "ink": "rgb(32, 38, 32)",
+        "bodyFont": "Inter, Arial, sans-serif",
+        "h1Size": "36.864px",
+        "h1LineHeight": "39.0758px",
+        "contentWidth": 768,
+        "accent": "#c7f265"
+      }
+    },
+    {
+      "path": "/",
+      "width": 1024,
+      "computed": {
+        "background": "rgb(247, 247, 243)",
+        "ink": "rgb(32, 38, 32)",
+        "bodyFont": "Inter, Arial, sans-serif",
+        "h1Size": "49.152px",
+        "h1LineHeight": "52.1011px",
+        "contentWidth": 1024,
+        "accent": "#c7f265"
+      }
+    },
+    {
+      "path": "/",
+      "width": 1440,
+      "computed": {
+        "background": "rgb(247, 247, 243)",
+        "ink": "rgb(32, 38, 32)",
+        "bodyFont": "Inter, Arial, sans-serif",
+        "h1Size": "64px",
+        "h1LineHeight": "67.84px",
+        "contentWidth": 1440,
+        "accent": "#c7f265"
+      }
+    },
+    {
+      "path": "/ru/all-tours",
+      "width": 360,
+      "computed": {
+        "background": "rgb(247, 247, 243)",
+        "ink": "rgb(32, 38, 32)",
+        "bodyFont": "Inter, Arial, sans-serif",
+        "h1Size": "32px",
+        "h1LineHeight": "33.92px",
+        "contentWidth": 360,
+        "accent": "#c7f265"
+      }
+    },
+    {
+      "path": "/ru/all-tours",
+      "width": 390,
+      "computed": {
+        "background": "rgb(247, 247, 243)",
+        "ink": "rgb(32, 38, 32)",
+        "bodyFont": "Inter, Arial, sans-serif",
+        "h1Size": "32px",
+        "h1LineHeight": "33.92px",
+        "contentWidth": 390,
+        "accent": "#c7f265"
+      }
+    },
+    {
+      "path": "/ru/all-tours",
+      "width": 768,
+      "computed": {
+        "background": "rgb(247, 247, 243)",
+        "ink": "rgb(32, 38, 32)",
+        "bodyFont": "Inter, Arial, sans-serif",
+        "h1Size": "36.864px",
+        "h1LineHeight": "39.0758px",
+        "contentWidth": 768,
+        "accent": "#c7f265"
+      }
+    },
+    {
+      "path": "/ru/all-tours",
+      "width": 1024,
+      "computed": {
+        "background": "rgb(247, 247, 243)",
+        "ink": "rgb(32, 38, 32)",
+        "bodyFont": "Inter, Arial, sans-serif",
+        "h1Size": "49.152px",
+        "h1LineHeight": "52.1011px",
+        "contentWidth": 1024,
+        "accent": "#c7f265"
+      }
+    },
+    {
+      "path": "/ru/all-tours",
+      "width": 1440,
+      "computed": {
+        "background": "rgb(247, 247, 243)",
+        "ink": "rgb(32, 38, 32)",
+        "bodyFont": "Inter, Arial, sans-serif",
+        "h1Size": "64px",
+        "h1LineHeight": "67.84px",
+        "contentWidth": 1200,
+        "accent": "#c7f265"
+      }
+    },
+    {
+      "path": "/ru/all-tours/dalat-enduro-tour-one-day",
+      "width": 360,
+      "computed": {
+        "background": "rgb(247, 247, 243)",
+        "ink": "rgb(32, 38, 32)",
+        "bodyFont": "Inter, Arial, sans-serif",
+        "h1Size": "32px",
+        "h1LineHeight": "33.92px",
+        "contentWidth": 360,
+        "accent": "#c7f265"
+      }
+    },
+    {
+      "path": "/ru/all-tours/dalat-enduro-tour-one-day",
+      "width": 390,
+      "computed": {
+        "background": "rgb(247, 247, 243)",
+        "ink": "rgb(32, 38, 32)",
+        "bodyFont": "Inter, Arial, sans-serif",
+        "h1Size": "32px",
+        "h1LineHeight": "33.92px",
+        "contentWidth": 390,
+        "accent": "#c7f265"
+      }
+    },
+    {
+      "path": "/ru/all-tours/dalat-enduro-tour-one-day",
+      "width": 768,
+      "computed": {
+        "background": "rgb(247, 247, 243)",
+        "ink": "rgb(32, 38, 32)",
+        "bodyFont": "Inter, Arial, sans-serif",
+        "h1Size": "32px",
+        "h1LineHeight": "33.92px",
+        "contentWidth": 768,
+        "accent": "#c7f265"
+      }
+    },
+    {
+      "path": "/ru/all-tours/dalat-enduro-tour-one-day",
+      "width": 1024,
+      "computed": {
+        "background": "rgb(247, 247, 243)",
+        "ink": "rgb(32, 38, 32)",
+        "bodyFont": "Inter, Arial, sans-serif",
+        "h1Size": "40.96px",
+        "h1LineHeight": "43.4176px",
+        "contentWidth": 1024,
+        "accent": "#c7f265"
+      }
+    },
+    {
+      "path": "/ru/all-tours/dalat-enduro-tour-one-day",
+      "width": 1440,
+      "computed": {
+        "background": "rgb(247, 247, 243)",
+        "ink": "rgb(32, 38, 32)",
+        "bodyFont": "Inter, Arial, sans-serif",
+        "h1Size": "50px",
+        "h1LineHeight": "53px",
+        "contentWidth": 1200,
+        "accent": "#c7f265"
+      }
+    },
+    {
+      "path": "/ru/rentals/nhatrang-victory-city",
+      "width": 360,
+      "computed": {
+        "background": "rgb(247, 247, 243)",
+        "ink": "rgb(32, 38, 32)",
+        "bodyFont": "Inter, Arial, sans-serif",
+        "h1Size": "32px",
+        "h1LineHeight": "33.92px",
+        "contentWidth": 360,
+        "accent": "#c7f265"
+      }
+    },
+    {
+      "path": "/ru/rentals/nhatrang-victory-city",
+      "width": 390,
+      "computed": {
+        "background": "rgb(247, 247, 243)",
+        "ink": "rgb(32, 38, 32)",
+        "bodyFont": "Inter, Arial, sans-serif",
+        "h1Size": "32px",
+        "h1LineHeight": "33.92px",
+        "contentWidth": 390,
+        "accent": "#c7f265"
+      }
+    },
+    {
+      "path": "/ru/rentals/nhatrang-victory-city",
+      "width": 768,
+      "computed": {
+        "background": "rgb(247, 247, 243)",
+        "ink": "rgb(32, 38, 32)",
+        "bodyFont": "Inter, Arial, sans-serif",
+        "h1Size": "32px",
+        "h1LineHeight": "33.92px",
+        "contentWidth": 768,
+        "accent": "#c7f265"
+      }
+    },
+    {
+      "path": "/ru/rentals/nhatrang-victory-city",
+      "width": 1024,
+      "computed": {
+        "background": "rgb(247, 247, 243)",
+        "ink": "rgb(32, 38, 32)",
+        "bodyFont": "Inter, Arial, sans-serif",
+        "h1Size": "40.96px",
+        "h1LineHeight": "43.4176px",
+        "contentWidth": 1024,
+        "accent": "#c7f265"
+      }
+    },
+    {
+      "path": "/ru/rentals/nhatrang-victory-city",
+      "width": 1440,
+      "computed": {
+        "background": "rgb(247, 247, 243)",
+        "ink": "rgb(32, 38, 32)",
+        "bodyFont": "Inter, Arial, sans-serif",
+        "h1Size": "50px",
+        "h1LineHeight": "53px",
+        "contentWidth": 1200,
+        "accent": "#c7f265"
+      }
+    },
+    {
+      "path": "/rentals/cars",
+      "width": 360,
+      "computed": {
+        "background": "rgb(247, 247, 243)",
+        "ink": "rgb(32, 38, 32)",
+        "bodyFont": "Inter, Arial, sans-serif",
+        "h1Size": "32px",
+        "h1LineHeight": "33.92px",
+        "contentWidth": 360,
+        "accent": "#c7f265"
+      }
+    },
+    {
+      "path": "/rentals/cars",
+      "width": 390,
+      "computed": {
+        "background": "rgb(247, 247, 243)",
+        "ink": "rgb(32, 38, 32)",
+        "bodyFont": "Inter, Arial, sans-serif",
+        "h1Size": "32px",
+        "h1LineHeight": "33.92px",
+        "contentWidth": 390,
+        "accent": "#c7f265"
+      }
+    },
+    {
+      "path": "/rentals/cars",
+      "width": 768,
+      "computed": {
+        "background": "rgb(247, 247, 243)",
+        "ink": "rgb(32, 38, 32)",
+        "bodyFont": "Inter, Arial, sans-serif",
+        "h1Size": "36.864px",
+        "h1LineHeight": "39.0758px",
+        "contentWidth": 768,
+        "accent": "#c7f265"
+      }
+    },
+    {
+      "path": "/rentals/cars",
+      "width": 1024,
+      "computed": {
+        "background": "rgb(247, 247, 243)",
+        "ink": "rgb(32, 38, 32)",
+        "bodyFont": "Inter, Arial, sans-serif",
+        "h1Size": "49.152px",
+        "h1LineHeight": "52.1011px",
+        "contentWidth": 1024,
+        "accent": "#c7f265"
+      }
+    },
+    {
+      "path": "/rentals/cars",
+      "width": 1440,
+      "computed": {
+        "background": "rgb(247, 247, 243)",
+        "ink": "rgb(32, 38, 32)",
+        "bodyFont": "Inter, Arial, sans-serif",
+        "h1Size": "64px",
+        "h1LineHeight": "67.84px",
+        "contentWidth": 1200,
+        "accent": "#c7f265"
+      }
+    }
+  ]
+}

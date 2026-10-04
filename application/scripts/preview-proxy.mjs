@@ -1,0 +1,2 @@
+import http from 'node:http';
+http.createServer((req,res)=>{const upstream=http.request({hostname:'127.0.0.1',port:3261,path:req.url,method:req.method,headers:req.headers},reply=>{res.writeHead(reply.statusCode,reply.headers);reply.pipe(res)});upstream.on('error',()=>{res.writeHead(502);res.end('Development preview unavailable')});req.pipe(upstream)}).listen(3000,'127.0.0.1',()=>console.log('Preview on http://localhost:3000 → existing Next.js development server on 3261'));

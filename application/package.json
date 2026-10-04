@@ -1,0 +1,45 @@
+{
+  "name": "static-marketing-site-starter",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "node scripts/run-dev.mjs",
+    "build": "next build",
+    "start": "next start --hostname 127.0.0.1",
+    "lint": "eslint",
+    "typecheck": "tsc --noEmit",
+    "check:s01": "python3 scripts/check-s01.py",
+    "db": "node server/database-service.mjs",
+    "db:import": "node scripts/import-catalog.mjs --apply",
+    "db:dry-run": "node scripts/import-catalog.mjs",
+    "owner:bootstrap": "node scripts/bootstrap-owner.mjs",
+    "worker": "node server/outbox-worker.mjs",
+    "check:database": "node scripts/check-database.mjs",
+    "check:application": "node scripts/check-application.mjs",
+    "check:routes": "node scripts/check-public-routes.mjs"
+  },
+  "dependencies": {
+    "@electric-sql/pglite": "^0.5.8",
+    "agentation": "^3.0.1",
+    "csv-parse": "^7.0.3",
+    "next": "^16.3.8",
+    "otpauth": "^9.5.2",
+    "pg": "^8.23.1",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "sharp": "^0.35.5",
+    "zod": "^4.6.5"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/pg": "^8.23.1",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "^16.3.8",
+    "tailwindcss": "^4",
+    "tsx": "^4.23.15",
+    "typescript": "^5"
+  }
+}

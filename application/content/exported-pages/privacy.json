@@ -1,0 +1,930 @@
+{
+  "route": "/privacy",
+  "title": "Политика конфиденциальности — enduro-vietnam.com",
+  "description": "",
+  "canonical": "https://enduro-vietnam.com/privacy",
+  "language": "en",
+  "sourceUrl": "https://enduro-vietnam.com/privacy",
+  "blocks": [
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Enduro tours"
+        },
+        {
+          "type": "em",
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Motorbike rental"
+        },
+        {
+          "type": "em",
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "link",
+          "originalHref": "/all-tours",
+          "href": "/all-tours",
+          "kind": "internal",
+          "sourceStatus": 200,
+          "sourcePath": "/all-tours",
+          "children": [
+            {
+              "type": "text",
+              "text": "All tours"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "\n  "
+        },
+        {
+          "type": "text",
+          "text": "\n  \n  \n  "
+        },
+        {
+          "type": "text",
+          "text": "\n    "
+        },
+        {
+          "type": "text",
+          "text": "\n  "
+        },
+        {
+          "type": "text",
+          "text": "\n  "
+        },
+        {
+          "type": "text",
+          "text": "\n  \n  "
+        },
+        {
+          "type": "text",
+          "text": "Book dates"
+        },
+        {
+          "type": "text",
+          "text": "\n  "
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "h1",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Privacy Policy"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Website:"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": "enduro-vietnam.com"
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Last updated:"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": "September 13, 2026"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "This Privacy Policy (\"Policy\") describes what information the website enduro-vietnam.com (\"Site,\" \"we,\" \"us\") collects from visitors and customers (\"you,\" \"user\"), how we use, store, and share it, and what rights you have regarding your personal data."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "By using the Site, submitting the request form on the Site, or contacting us via Instagram or Meta's lead generation features (including Instagram Direct/chat), you agree to the terms of this Policy."
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "1. Who We Are"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Enduro-Vietnam organizes guided enduro tours and motorcycle rental services across Vietnam (Dalat, Nha Trang, Da Nang, Mui Ne, and other destinations)."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "You can contact us regarding data processing here:"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Instagram: "
+        },
+        {
+          "type": "link",
+          "originalHref": "https://www.instagram.com/enduro.vietnam",
+          "href": "https://www.instagram.com/enduro.vietnam",
+          "kind": "external",
+          "sourceStatus": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "https://www.instagram.com/enduro.vietnam"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "2. What Data We Collect"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "When you fill out the request form on the Site, or when you message us through Meta's lead generation ads (Facebook/Instagram) or Instagram Direct, we may collect:"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Name;"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Phone number;"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Your preferred contact method;"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "The content of your messages, including the tour you're interested in, dates, number of participants, riding experience, and any other details you voluntarily share;"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Technical information (e.g., which ad or source you came from), provided to us by the Meta platform as part of its lead generation features."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "We do not request or collect special categories of data (health, religion, political views, etc.), except when you voluntarily share information relevant to your safety during a tour (for example, medical conditions affecting your ability to ride)."
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "3. Purpose of Processing"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "We use the collected data solely to:"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Contact you and respond to your inquiry;"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Advise you on tours, motorcycle rental, pricing, and availability;"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Arrange and organize your tour or rental booking;"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Ensure safety during the tour (taking into account riding experience, physical limitations, etc.);"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Improve the quality of our services and customer support;"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Comply with applicable legal requirements."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "We do not use your data for any purpose other than those listed above without your separate consent."
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "4. Legal Basis for Processing"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "We process your data based on the consent you provide when submitting the request form on the Site (by checking the \"I agree to processing of personal data\" box) or when you initiate contact with us via Meta's lead generation ads or Instagram."
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "5. Sharing Data With Third Parties"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "We do not sell your personal data and do not share it with third parties for marketing purposes."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Data may be processed using the following services:"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Meta (Facebook, Instagram)"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": "— when you use Meta's lead generation features, forms, and chats, in accordance with Meta's Lead Ads Terms of Service;"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Instagram"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": "— for direct communication with you at your initiative;"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Our staff and tour instructors — only to the extent necessary to organize the tour and ensure safety."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "We do not combine your data with data obtained from other advertisers, and we do not use it for purposes other than those disclosed at the time of collection."
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "6. Data Storage and Security"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "We take reasonable technical and organizational measures to protect your data from unauthorized access, loss, or disclosure. Data is stored only as long as necessary for the purposes described in Section 3, or until you withdraw your consent."
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "7. Your Rights"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "You have the right to:"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Request information about what data we hold about you;"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Request correction of inaccurate data;"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Withdraw your consent to data processing and request deletion of your data;"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Opt out of receiving further messages from us."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "To exercise these rights, please contact us via the channel listed in Section 1."
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "8. Age Restrictions"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Our services and advertising are not intended for individuals under 18 years of age. We do not knowingly collect data from minors."
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "9. Changes to This Policy"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "We may update this Policy from time to time. The current version is always available on this page, with the last updated date shown at the top of the document."
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "10. Contact Us"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "For any questions regarding the processing of personal data, please contact us:"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Instagram: "
+        },
+        {
+          "type": "link",
+          "originalHref": "https://www.instagram.com/enduro.vietnam",
+          "href": "https://www.instagram.com/enduro.vietnam",
+          "kind": "external",
+          "sourceStatus": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "https://www.instagram.com/enduro.vietnam"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Компания"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "link",
+          "originalHref": "/privacy",
+          "href": "/privacy",
+          "kind": "internal",
+          "sourceStatus": 200,
+          "sourcePath": "/privacy",
+          "children": [
+            {
+              "type": "text",
+              "text": "Политика в отношении обработки данных"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "children": [
+        {
+          "type": "text",
+          "text": "Работает на"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "id": null,
+      "children": [
+        {
+          "type": "link",
+          "originalHref": "https://creatium.app",
+          "href": "https://creatium.app",
+          "kind": "external",
+          "sourceStatus": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Creatium"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "originalHref": "/",
+      "href": "/",
+      "kind": "internal",
+      "sourceStatus": 200,
+      "sourcePath": "/",
+      "text": "/"
+    },
+    {
+      "originalHref": "/all-tours",
+      "href": "/all-tours",
+      "kind": "internal",
+      "sourceStatus": 200,
+      "sourcePath": "/all-tours",
+      "text": "All tours"
+    },
+    {
+      "originalHref": "https://t.me/mototourvietnam",
+      "href": "https://t.me/mototourvietnam",
+      "kind": "external",
+      "sourceStatus": null,
+      "text": "https://t.me/mototourvietnam"
+    },
+    {
+      "originalHref": "https://www.instagram.com/enduro.vietnam",
+      "href": "https://www.instagram.com/enduro.vietnam",
+      "kind": "external",
+      "sourceStatus": null,
+      "text": "https://www.instagram.com/enduro.vietnam"
+    },
+    {
+      "originalHref": "https://wa.me/79994564498",
+      "href": "https://wa.me/79994564498",
+      "kind": "external",
+      "sourceStatus": null,
+      "text": "https://wa.me/79994564498"
+    },
+    {
+      "originalHref": "/",
+      "href": "/",
+      "kind": "internal",
+      "sourceStatus": 200,
+      "sourcePath": "/",
+      "text": "/"
+    },
+    {
+      "originalHref": "https://www.instagram.com/enduro.vietnam",
+      "href": "https://www.instagram.com/enduro.vietnam",
+      "kind": "external",
+      "sourceStatus": null,
+      "text": "https://www.instagram.com/enduro.vietnam"
+    },
+    {
+      "originalHref": "https://www.instagram.com/enduro.vietnam",
+      "href": "https://www.instagram.com/enduro.vietnam",
+      "kind": "external",
+      "sourceStatus": null,
+      "text": "https://www.instagram.com/enduro.vietnam"
+    },
+    {
+      "originalHref": "/privacy",
+      "href": "/privacy",
+      "kind": "internal",
+      "sourceStatus": 200,
+      "sourcePath": "/privacy",
+      "text": "Политика в отношении обработки данных"
+    },
+    {
+      "originalHref": "http://twitter.com/groupname",
+      "href": "http://twitter.com/groupname",
+      "kind": "external",
+      "sourceStatus": null,
+      "text": "http://twitter.com/groupname"
+    },
+    {
+      "originalHref": "http://vk.com/groupname",
+      "href": "http://vk.com/groupname",
+      "kind": "external",
+      "sourceStatus": null,
+      "text": "http://vk.com/groupname"
+    },
+    {
+      "originalHref": "http://facebook.com/groupname",
+      "href": "http://facebook.com/groupname",
+      "kind": "external",
+      "sourceStatus": null,
+      "text": "http://facebook.com/groupname"
+    },
+    {
+      "originalHref": "https://creatium.app",
+      "href": "https://creatium.app",
+      "kind": "external",
+      "sourceStatus": null,
+      "text": "Creatium"
+    }
+  ],
+  "images": [
+    {
+      "src": "/assets/6bdd40c52c3b30dd7471.png",
+      "alt": "",
+      "originalSrc": "https://img2.creatium.app/disk2/6b/0b/d8/c10946f19224345a76344a8611c9b27fea/logoendurov2.png#%7B%22size%22:%5B%22411%22,%22225%22%5D,%22quality%22:8%7D"
+    },
+    {
+      "src": "/assets/a44d9b9178ffbb58dcfd.webp",
+      "alt": "",
+      "originalSrc": "https://img2.creatium.app/disk2/00/cb/4f/5bec28d413cb4d0fbb1924318c10880511/hamburger_mob.webp#%7B%22size%22:%5B423,356%5D,%22quality%22:8%7D"
+    },
+    {
+      "src": "/assets/4e53ed55fa680d8bea93.png",
+      "alt": "",
+      "originalSrc": "https://img1.creatium.ru/d4/6d/3a/54c417ad41304d3421adb50e4882064a44/%D0%B0%D0%B2%D0%B0%D1%82%D0%B0%D1%80%20youtube.png#%7B%22size%22:%5B800,800%5D,%22quality%22:8%7D"
+    }
+  ],
+  "anchors": [
+    "powered-by"
+  ],
+  "repairs": [],
+  "originalText": [
+    "Политика конфиденциальности — enduro-vietnam.com",
+    "Enduro tours",
+    "Motorbike rental",
+    "All tours",
+    "Book dates",
+    "Privacy Policy",
+    "Website:",
+    "enduro-vietnam.com",
+    "Last updated:",
+    "September 13, 2026",
+    "This Privacy Policy (\"Policy\") describes what information the website enduro-vietnam.com (\"Site,\" \"we,\" \"us\") collects from visitors and customers (\"you,\" \"user\"), how we use, store, and share it, and what rights you have regarding your personal data.",
+    "By using the Site, submitting the request form on the Site, or contacting us via Instagram or Meta's lead generation features (including Instagram Direct/chat), you agree to the terms of this Policy.",
+    "1. Who We Are",
+    "Enduro-Vietnam organizes guided enduro tours and motorcycle rental services across Vietnam (Dalat, Nha Trang, Da Nang, Mui Ne, and other destinations).",
+    "You can contact us regarding data processing here:",
+    "Instagram:",
+    "https://www.instagram.com/enduro.vietnam",
+    "2. What Data We Collect",
+    "When you fill out the request form on the Site, or when you message us through Meta's lead generation ads (Facebook/Instagram) or Instagram Direct, we may collect:",
+    "Name;",
+    "Phone number;",
+    "Your preferred contact method;",
+    "The content of your messages, including the tour you're interested in, dates, number of participants, riding experience, and any other details you voluntarily share;",
+    "Technical information (e.g., which ad or source you came from), provided to us by the Meta platform as part of its lead generation features.",
+    "We do not request or collect special categories of data (health, religion, political views, etc.), except when you voluntarily share information relevant to your safety during a tour (for example, medical conditions affecting your ability to ride).",
+    "3. Purpose of Processing",
+    "We use the collected data solely to:",
+    "Contact you and respond to your inquiry;",
+    "Advise you on tours, motorcycle rental, pricing, and availability;",
+    "Arrange and organize your tour or rental booking;",
+    "Ensure safety during the tour (taking into account riding experience, physical limitations, etc.);",
+    "Improve the quality of our services and customer support;",
+    "Comply with applicable legal requirements.",
+    "We do not use your data for any purpose other than those listed above without your separate consent.",
+    "4. Legal Basis for Processing",
+    "We process your data based on the consent you provide when submitting the request form on the Site (by checking the \"I agree to processing of personal data\" box) or when you initiate contact with us via Meta's lead generation ads or Instagram.",
+    "5. Sharing Data With Third Parties",
+    "We do not sell your personal data and do not share it with third parties for marketing purposes.",
+    "Data may be processed using the following services:",
+    "Meta (Facebook, Instagram)",
+    "— when you use Meta's lead generation features, forms, and chats, in accordance with Meta's Lead Ads Terms of Service;",
+    "Instagram",
+    "— for direct communication with you at your initiative;",
+    "Our staff and tour instructors — only to the extent necessary to organize the tour and ensure safety.",
+    "We do not combine your data with data obtained from other advertisers, and we do not use it for purposes other than those disclosed at the time of collection.",
+    "6. Data Storage and Security",
+    "We take reasonable technical and organizational measures to protect your data from unauthorized access, loss, or disclosure. Data is stored only as long as necessary for the purposes described in Section 3, or until you withdraw your consent.",
+    "7. Your Rights",
+    "You have the right to:",
+    "Request information about what data we hold about you;",
+    "Request correction of inaccurate data;",
+    "Withdraw your consent to data processing and request deletion of your data;",
+    "Opt out of receiving further messages from us.",
+    "To exercise these rights, please contact us via the channel listed in Section 1.",
+    "8. Age Restrictions",
+    "Our services and advertising are not intended for individuals under 18 years of age. We do not knowingly collect data from minors.",
+    "9. Changes to This Policy",
+    "We may update this Policy from time to time. The current version is always available on this page, with the last updated date shown at the top of the document.",
+    "10. Contact Us",
+    "For any questions regarding the processing of personal data, please contact us:",
+    "Instagram:",
+    "https://www.instagram.com/enduro.vietnam",
+    "Компания",
+    "Политика в отношении обработки данных",
+    "Работает на",
+    "Creatium"
+  ]
+}

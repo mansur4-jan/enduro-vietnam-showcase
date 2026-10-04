@@ -1,0 +1,2 @@
+'use client';
+export default function ErrorPage({reset}:{reset:()=>void}){return <main style={{maxWidth:700,margin:'80px auto',padding:24}}><h1>Не удалось загрузить страницу / Unable to load this page</h1><p>Попробуйте ещё раз. Заявка считается принятой только после показа её номера.</p><p>Please try again. A request is received only when its reference number is shown.</p><button onClick={reset}>Повторить / Try again</button></main>;}

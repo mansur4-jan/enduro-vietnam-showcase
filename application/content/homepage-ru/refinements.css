@@ -1,0 +1,36 @@
+/* User-requested corrections apply to the RU homepage only. */
+.ru-aggregator .header.scrolled .logo{background:transparent;box-shadow:none;backdrop-filter:none;border-color:transparent}
+.ru-aggregator .hero{overflow:visible;z-index:2}
+.ru-aggregator .hero-media{overflow:hidden}
+.ru-aggregator .finder{z-index:20}
+.ru-aggregator .field.open{z-index:30}
+.ru-aggregator .autocomplete{z-index:31}
+.ru-aggregator .city-chip{height:42px;min-height:42px;line-height:1.2;padding:6px 10px;white-space:nowrap}
+.ru-aggregator .mobile-contact{align-items:center}
+.ru-aggregator .price-table td:first-child a{color:var(--pine);text-decoration:underline;text-underline-offset:3px}
+.ru-aggregator .price-table .planned-format td{color:var(--muted)}
+.ru-aggregator .price-table .planned-format td:last-child{color:var(--orange)}
+@media(min-width:1000px){
+ .ru-aggregator .rental-hub{padding:32px 0}
+ .ru-aggregator .rental-hub .section-head{grid-template-columns:1.15fr .7fr;gap:32px;margin-bottom:20px}
+ .ru-aggregator .rental-hub h2{font-size:clamp(28px,2.7vw,40px);max-width:800px}
+ .ru-aggregator .rental-hub .lead{font-size:13px;line-height:1.6}
+ .ru-aggregator .rental-info-grid{grid-template-columns:.92fr 1.08fr;height:430px}
+ .ru-aggregator .rental-hero-card{min-height:0;height:100%}
+ .ru-aggregator .rental-hero-copy h3{font-size:clamp(25px,2.2vw,34px);margin-bottom:14px}
+ .ru-aggregator .rental-info-panel{min-height:0;padding:18px}
+ .ru-aggregator .rental-fact-grid{margin-top:12px;gap:8px}
+ .ru-aggregator .rental-fact{padding:12px}
+ .ru-aggregator .rental-examples a{padding:10px 0}
+ .ru-aggregator .rental-actions{padding-top:12px}
+}
+@media(min-width:1000px) and (max-height:750px){
+ .ru-aggregator .rental-hub{padding:24px 0}
+ .ru-aggregator .rental-hub .section-head{margin-bottom:16px}
+ .ru-aggregator .rental-hub h2{font-size:30px}
+ .ru-aggregator .rental-info-grid{height:380px}
+ .ru-aggregator .rental-fact p{display:none}
+ .ru-aggregator .rental-fact{padding:10px}
+ .ru-aggregator .rental-info-panel{padding:16px}
+ .ru-aggregator .rental-hero-copy h3{font-size:28px}
+}
