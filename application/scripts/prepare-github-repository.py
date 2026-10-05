@@ -28,6 +28,8 @@ npm ci
 npm run dev
 ```
 
+Единая тема всех страниц — `application/content/shared/theme.css`; публичные проверочные отчёты находятся в `verification/`.
+
 Приватная БД и ключи не входят в репозиторий. Для наполнения новой локальной БД:
 
 ```sh
@@ -68,9 +70,16 @@ jobs:
         id: deployment
 '''
 (out/'.github/workflows').mkdir(parents=True,exist_ok=True);(out/'.github/workflows/pages.yml').write_text(workflow)
+(out/'verification').mkdir(exist_ok=True)
+for name in ['unified-design-checks','unified-system-pages-checks','unified-tour-type-checks','github-showcase-export','github-showcase-checks','github-showcase-live-checks','public-route-checks','link-integrity-checks','seo-checks','ru-home-checks','rental-page-checks']:
+ p=root/'.shipstudio'/(name+'.json')
+ if p.exists():
+  data=json.loads(p.read_text())
+  if not data.get('errors'):shutil.copy2(p,out/'verification'/p.name)
 patterns=[r'gh[opusr]_[A-Za-z0-9]{30,}',r'github_pat_[A-Za-z0-9_]{40,}',r'-----BEGIN (?:RSA |EC |OPENSSH )?PRIVATE KEY-----',r'AKIA[A-Z0-9]{16}',r'postgres(?:ql)?://[^\s:/]+:[^\s@]+@']
 issues=[]
 for p in out.rglob('*'):
+ if '.git' in p.parts:continue
  if not p.is_file() or p.suffix.lower() in ['.avif','.webp','.jpg','.jpeg','.png','.gif','.woff','.woff2','.ico','.ttf','.eot','.otf','.zip']:continue
  try:s=p.read_text()
  except UnicodeDecodeError:continue

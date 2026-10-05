@@ -26,3 +26,5 @@
 RU-эндуро-туры используют общий clean-blocks v4 шаблон: `docs/ENDURO_TOURS.md`. Данные и заявки связаны с опубликованными предложениями; существующие URL сохранены.
 
 Аренда RU: городские каталоги и карточки техники используют rental-template v1 с визуальной темой главной. Опубликованные тарифы/залог и 52 позиции сохранены; фильтры и pagination используют прежний серверный каталог. Подробности: docs/RENTAL_PAGES.md.
+
+Все публичные семейства и administrative controls согласованы по общей теме `content/shared/theme.css`; Header/Footer каталогов и служебных страниц — `PublicChrome`. Дизайн основан на предоставленных концептах, локальные данные и URLs сохранены. Приёмка: docs/UNIFIED_DESIGN.md. Публичная демонстрация и отдельный репозиторий: https://mansur4-jan.github.io/enduro-vietnam-showcase/ru/ и https://github.com/mansur4-jan/enduro-vietnam-showcase (docs/GITHUB_SHOWCASE.md).

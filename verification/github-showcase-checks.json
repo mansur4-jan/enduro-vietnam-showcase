@@ -1,0 +1,445 @@
+{
+  "checkedAt": "2026-10-05T03:20:18.953Z",
+  "checks": [
+    {
+      "name": "Static layout/images /ru 360",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "broken": [],
+        "h1s": 1
+      }
+    },
+    {
+      "name": "Static homepage menu 360",
+      "passed": true
+    },
+    {
+      "name": "Static layout/images /ru 1440",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "broken": [],
+        "h1s": 1
+      }
+    },
+    {
+      "name": "Static homepage menu 1440",
+      "passed": true
+    },
+    {
+      "name": "Static layout/images /ru/destinations/dalat 360",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "broken": [],
+        "h1s": 1
+      }
+    },
+    {
+      "name": "Static layout/images /ru/destinations/dalat 1440",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "broken": [],
+        "h1s": 1
+      }
+    },
+    {
+      "name": "Static layout/images /ru/all-tours/dalat-enduro-tour-one-day 360",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "broken": [],
+        "h1s": 1
+      }
+    },
+    {
+      "name": "Static layout/images /ru/all-tours/dalat-enduro-tour-one-day 1440",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "broken": [],
+        "h1s": 1
+      }
+    },
+    {
+      "name": "Static layout/images /ru/all-tours/dalat-enduro-tour-advanced 360",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "broken": [],
+        "h1s": 1
+      }
+    },
+    {
+      "name": "Static layout/images /ru/all-tours/dalat-enduro-tour-advanced 1440",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "broken": [],
+        "h1s": 1
+      }
+    },
+    {
+      "name": "Static layout/images /ru/all-tours/danang-enduro-tour-advanced 360",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "broken": [],
+        "h1s": 1
+      }
+    },
+    {
+      "name": "Static layout/images /ru/all-tours/danang-enduro-tour-advanced 1440",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "broken": [],
+        "h1s": 1
+      }
+    },
+    {
+      "name": "Static layout/images /ru/all-tours/nhatrang-enduro-tour-advanced 360",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "broken": [],
+        "h1s": 1
+      }
+    },
+    {
+      "name": "Static layout/images /ru/all-tours/nhatrang-enduro-tour-advanced 1440",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "broken": [],
+        "h1s": 1
+      }
+    },
+    {
+      "name": "Static layout/images /ru/rent-motorbike-dalat 360",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "broken": [],
+        "h1s": 1
+      }
+    },
+    {
+      "name": "Static rental menu 360",
+      "passed": true
+    },
+    {
+      "name": "Static menu closes 360",
+      "passed": true
+    },
+    {
+      "name": "Static layout/images /ru/rent-motorbike-dalat 1440",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "broken": [],
+        "h1s": 1
+      }
+    },
+    {
+      "name": "Static rental menu 1440",
+      "passed": true
+    },
+    {
+      "name": "Static menu closes 1440",
+      "passed": true
+    },
+    {
+      "name": "Static layout/images /ru/rent-scooter-nhatrang 360",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "broken": [],
+        "h1s": 1
+      }
+    },
+    {
+      "name": "Static layout/images /ru/rent-scooter-nhatrang 1440",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "broken": [],
+        "h1s": 1
+      }
+    },
+    {
+      "name": "Static layout/images /ru/rentals/dalat-yamaha-nvx155 360",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "broken": [],
+        "h1s": 1
+      }
+    },
+    {
+      "name": "Static layout/images /ru/rentals/dalat-yamaha-nvx155 1440",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "broken": [],
+        "h1s": 1
+      }
+    },
+    {
+      "name": "Static layout/images /ru/all-tours 360",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "broken": [],
+        "h1s": 1
+      }
+    },
+    {
+      "name": "Static shared menu /ru/all-tours 360",
+      "passed": true
+    },
+    {
+      "name": "Static layout/images /ru/all-tours 1440",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "broken": [],
+        "h1s": 1
+      }
+    },
+    {
+      "name": "Static shared menu /ru/all-tours 1440",
+      "passed": true
+    },
+    {
+      "name": "Static filters/pagination /ru/rentals/motorbikes/?q=YADEA",
+      "passed": true,
+      "detail": [
+        "rental-nhatrang-fleet-11",
+        "rental-nhatrang-yadea-oris",
+        "rental-nhatrang-yadea-vekoo",
+        "rental-nhatrang-yadea-xbull"
+      ]
+    },
+    {
+      "name": "Static filters/pagination /ru/rent-scooter-nhatrang/?page=5",
+      "passed": true,
+      "detail": [
+        "rental-nhatrang-fleet-43",
+        "rental-nhatrang-fleet-5",
+        "rental-nhatrang-victory-city",
+        "rental-nhatrang-vinsky-crea50",
+        "rental-nhatrang-yadea-oris",
+        "rental-nhatrang-yadea-vekoo",
+        "rental-nhatrang-yadea-xbull"
+      ]
+    },
+    {
+      "name": "Static filters/pagination /ru/rent-motorbike-dalat/?q=does-not-exist",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "English rental card shows selected weekly rate",
+      "passed": true
+    },
+    {
+      "name": "No browser exceptions",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "All static internal targets/resources",
+      "passed": true,
+      "detail": {
+        "checked": 8362,
+        "missing": []
+      }
+    }
+  ],
+  "pages": [
+    {
+      "route": "/ru",
+      "width": 360,
+      "health": {
+        "overflow": false,
+        "broken": [],
+        "h1s": 1
+      }
+    },
+    {
+      "route": "/ru",
+      "width": 1440,
+      "health": {
+        "overflow": false,
+        "broken": [],
+        "h1s": 1
+      }
+    },
+    {
+      "route": "/ru/destinations/dalat",
+      "width": 360,
+      "health": {
+        "overflow": false,
+        "broken": [],
+        "h1s": 1
+      }
+    },
+    {
+      "route": "/ru/destinations/dalat",
+      "width": 1440,
+      "health": {
+        "overflow": false,
+        "broken": [],
+        "h1s": 1
+      }
+    },
+    {
+      "route": "/ru/all-tours/dalat-enduro-tour-one-day",
+      "width": 360,
+      "health": {
+        "overflow": false,
+        "broken": [],
+        "h1s": 1
+      }
+    },
+    {
+      "route": "/ru/all-tours/dalat-enduro-tour-one-day",
+      "width": 1440,
+      "health": {
+        "overflow": false,
+        "broken": [],
+        "h1s": 1
+      }
+    },
+    {
+      "route": "/ru/all-tours/dalat-enduro-tour-advanced",
+      "width": 360,
+      "health": {
+        "overflow": false,
+        "broken": [],
+        "h1s": 1
+      }
+    },
+    {
+      "route": "/ru/all-tours/dalat-enduro-tour-advanced",
+      "width": 1440,
+      "health": {
+        "overflow": false,
+        "broken": [],
+        "h1s": 1
+      }
+    },
+    {
+      "route": "/ru/all-tours/danang-enduro-tour-advanced",
+      "width": 360,
+      "health": {
+        "overflow": false,
+        "broken": [],
+        "h1s": 1
+      }
+    },
+    {
+      "route": "/ru/all-tours/danang-enduro-tour-advanced",
+      "width": 1440,
+      "health": {
+        "overflow": false,
+        "broken": [],
+        "h1s": 1
+      }
+    },
+    {
+      "route": "/ru/all-tours/nhatrang-enduro-tour-advanced",
+      "width": 360,
+      "health": {
+        "overflow": false,
+        "broken": [],
+        "h1s": 1
+      }
+    },
+    {
+      "route": "/ru/all-tours/nhatrang-enduro-tour-advanced",
+      "width": 1440,
+      "health": {
+        "overflow": false,
+        "broken": [],
+        "h1s": 1
+      }
+    },
+    {
+      "route": "/ru/rent-motorbike-dalat",
+      "width": 360,
+      "health": {
+        "overflow": false,
+        "broken": [],
+        "h1s": 1
+      }
+    },
+    {
+      "route": "/ru/rent-motorbike-dalat",
+      "width": 1440,
+      "health": {
+        "overflow": false,
+        "broken": [],
+        "h1s": 1
+      }
+    },
+    {
+      "route": "/ru/rent-scooter-nhatrang",
+      "width": 360,
+      "health": {
+        "overflow": false,
+        "broken": [],
+        "h1s": 1
+      }
+    },
+    {
+      "route": "/ru/rent-scooter-nhatrang",
+      "width": 1440,
+      "health": {
+        "overflow": false,
+        "broken": [],
+        "h1s": 1
+      }
+    },
+    {
+      "route": "/ru/rentals/dalat-yamaha-nvx155",
+      "width": 360,
+      "health": {
+        "overflow": false,
+        "broken": [],
+        "h1s": 1
+      }
+    },
+    {
+      "route": "/ru/rentals/dalat-yamaha-nvx155",
+      "width": 1440,
+      "health": {
+        "overflow": false,
+        "broken": [],
+        "h1s": 1
+      }
+    },
+    {
+      "route": "/ru/all-tours",
+      "width": 360,
+      "health": {
+        "overflow": false,
+        "broken": [],
+        "h1s": 1
+      }
+    },
+    {
+      "route": "/ru/all-tours",
+      "width": 1440,
+      "health": {
+        "overflow": false,
+        "broken": [],
+        "h1s": 1
+      }
+    }
+  ],
+  "errors": []
+}

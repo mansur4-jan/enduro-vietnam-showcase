@@ -1,0 +1,234 @@
+{
+  "checkedAt": "2026-10-05T03:02:38.942Z",
+  "pages": [
+    {
+      "path": "/style-guide",
+      "width": 360,
+      "health": {
+        "overflow": false,
+        "broken": [],
+        "h1s": 1,
+        "ids": [
+          "publicMenuOpen",
+          "publicBackdrop",
+          "publicDrawer",
+          "publicMenuClose",
+          "publicContacts",
+          "_R_"
+        ],
+        "anchors": [],
+        "bodyFont": "Manrope, Arial, sans-serif",
+        "headingFont": "Unbounded, Arial, sans-serif",
+        "orange": "#f15a24",
+        "pine": "#153a27"
+      }
+    },
+    {
+      "path": "/admin/login",
+      "width": 360,
+      "health": {
+        "overflow": false,
+        "broken": [],
+        "h1s": 1,
+        "ids": [
+          "_R_"
+        ],
+        "anchors": [],
+        "bodyFont": "Manrope, Arial, sans-serif",
+        "headingFont": "Unbounded, Arial, sans-serif",
+        "orange": "#f15a24",
+        "pine": "#153a27"
+      }
+    },
+    {
+      "path": "/showcase-missing-page",
+      "width": 360,
+      "health": {
+        "overflow": false,
+        "broken": [],
+        "h1s": 1,
+        "ids": [
+          "_R_",
+          "publicMenuOpen",
+          "publicBackdrop",
+          "publicDrawer",
+          "publicMenuClose",
+          "publicContacts"
+        ],
+        "anchors": [],
+        "bodyFont": "Manrope, Arial, sans-serif",
+        "headingFont": "Unbounded, Arial, sans-serif",
+        "orange": "#f15a24",
+        "pine": "#153a27"
+      }
+    }
+  ],
+  "checks": [
+    {
+      "name": "Layout/media/anchors /style-guide 360",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "broken": [],
+        "h1s": 1,
+        "ids": [
+          "publicMenuOpen",
+          "publicBackdrop",
+          "publicDrawer",
+          "publicMenuClose",
+          "publicContacts",
+          "_R_"
+        ],
+        "anchors": [],
+        "bodyFont": "Manrope, Arial, sans-serif",
+        "headingFont": "Unbounded, Arial, sans-serif",
+        "orange": "#f15a24",
+        "pine": "#153a27"
+      }
+    },
+    {
+      "name": "Unified computed tokens /style-guide 360",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "broken": [],
+        "h1s": 1,
+        "ids": [
+          "publicMenuOpen",
+          "publicBackdrop",
+          "publicDrawer",
+          "publicMenuClose",
+          "publicContacts",
+          "_R_"
+        ],
+        "anchors": [],
+        "bodyFont": "Manrope, Arial, sans-serif",
+        "headingFont": "Unbounded, Arial, sans-serif",
+        "orange": "#f15a24",
+        "pine": "#153a27"
+      }
+    },
+    {
+      "name": "Shared menu open /style-guide",
+      "passed": true
+    },
+    {
+      "name": "Shared menu focus trap /style-guide",
+      "passed": true
+    },
+    {
+      "name": "Shared menu closes /style-guide",
+      "passed": true
+    },
+    {
+      "name": "Layout/media/anchors /admin/login 360",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "broken": [],
+        "h1s": 1,
+        "ids": [
+          "_R_"
+        ],
+        "anchors": [],
+        "bodyFont": "Manrope, Arial, sans-serif",
+        "headingFont": "Unbounded, Arial, sans-serif",
+        "orange": "#f15a24",
+        "pine": "#153a27"
+      }
+    },
+    {
+      "name": "Unified computed tokens /admin/login 360",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "broken": [],
+        "h1s": 1,
+        "ids": [
+          "_R_"
+        ],
+        "anchors": [],
+        "bodyFont": "Manrope, Arial, sans-serif",
+        "headingFont": "Unbounded, Arial, sans-serif",
+        "orange": "#f15a24",
+        "pine": "#153a27"
+      }
+    },
+    {
+      "name": "Layout/media/anchors /showcase-missing-page 360",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "broken": [],
+        "h1s": 1,
+        "ids": [
+          "_R_",
+          "publicMenuOpen",
+          "publicBackdrop",
+          "publicDrawer",
+          "publicMenuClose",
+          "publicContacts"
+        ],
+        "anchors": [],
+        "bodyFont": "Manrope, Arial, sans-serif",
+        "headingFont": "Unbounded, Arial, sans-serif",
+        "orange": "#f15a24",
+        "pine": "#153a27"
+      }
+    },
+    {
+      "name": "Unified computed tokens /showcase-missing-page 360",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "broken": [],
+        "h1s": 1,
+        "ids": [
+          "_R_",
+          "publicMenuOpen",
+          "publicBackdrop",
+          "publicDrawer",
+          "publicMenuClose",
+          "publicContacts"
+        ],
+        "anchors": [],
+        "bodyFont": "Manrope, Arial, sans-serif",
+        "headingFont": "Unbounded, Arial, sans-serif",
+        "orange": "#f15a24",
+        "pine": "#153a27"
+      }
+    },
+    {
+      "name": "Shared menu open /showcase-missing-page",
+      "passed": true
+    },
+    {
+      "name": "Shared menu focus trap /showcase-missing-page",
+      "passed": true
+    },
+    {
+      "name": "Shared menu closes /showcase-missing-page",
+      "passed": true
+    },
+    {
+      "name": "No runtime exceptions",
+      "passed": true,
+      "detail": []
+    }
+  ],
+  "errors": [],
+  "widths": [
+    360,
+    600,
+    601,
+    640,
+    641,
+    900,
+    901,
+    980,
+    981,
+    1250,
+    1251,
+    1440
+  ]
+}

@@ -1,0 +1,6281 @@
+{
+  "checkedAt": "2026-10-04T12:11:32.715Z",
+  "widths": [
+    360,
+    640,
+    641,
+    980,
+    981,
+    1440
+  ],
+  "pages": [
+    {
+      "path": "/ru/rent-motorbike-dalat",
+      "width": 360,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "models",
+          "rentalGrid",
+          "conditions",
+          "process",
+          "team",
+          "routes",
+          "faq",
+          "contacts",
+          "rental-model",
+          "otzyvy",
+          "powered-by",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rent-motorbike-dalat",
+      "width": 640,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "models",
+          "rentalGrid",
+          "conditions",
+          "process",
+          "team",
+          "routes",
+          "faq",
+          "contacts",
+          "rental-model",
+          "otzyvy",
+          "powered-by",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rent-motorbike-dalat",
+      "width": 641,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "models",
+          "rentalGrid",
+          "conditions",
+          "process",
+          "team",
+          "routes",
+          "faq",
+          "contacts",
+          "rental-model",
+          "otzyvy",
+          "powered-by",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rent-motorbike-dalat",
+      "width": 980,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "models",
+          "rentalGrid",
+          "conditions",
+          "process",
+          "team",
+          "routes",
+          "faq",
+          "contacts",
+          "rental-model",
+          "otzyvy",
+          "powered-by",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rent-motorbike-dalat",
+      "width": 981,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "models",
+          "rentalGrid",
+          "conditions",
+          "process",
+          "team",
+          "routes",
+          "faq",
+          "contacts",
+          "rental-model",
+          "otzyvy",
+          "powered-by",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rent-motorbike-dalat",
+      "width": 1440,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "models",
+          "rentalGrid",
+          "conditions",
+          "process",
+          "team",
+          "routes",
+          "faq",
+          "contacts",
+          "rental-model",
+          "otzyvy",
+          "powered-by",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rent-scooter-nhatrang",
+      "width": 360,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "models",
+          "rentalGrid",
+          "conditions",
+          "process",
+          "team",
+          "routes",
+          "faq",
+          "contacts",
+          "rental-model",
+          "otzyvy",
+          "powered-by",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rent-scooter-nhatrang",
+      "width": 640,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "models",
+          "rentalGrid",
+          "conditions",
+          "process",
+          "team",
+          "routes",
+          "faq",
+          "contacts",
+          "rental-model",
+          "otzyvy",
+          "powered-by",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rent-scooter-nhatrang",
+      "width": 641,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "models",
+          "rentalGrid",
+          "conditions",
+          "process",
+          "team",
+          "routes",
+          "faq",
+          "contacts",
+          "rental-model",
+          "otzyvy",
+          "powered-by",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rent-scooter-nhatrang",
+      "width": 980,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "models",
+          "rentalGrid",
+          "conditions",
+          "process",
+          "team",
+          "routes",
+          "faq",
+          "contacts",
+          "rental-model",
+          "otzyvy",
+          "powered-by",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rent-scooter-nhatrang",
+      "width": 981,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "models",
+          "rentalGrid",
+          "conditions",
+          "process",
+          "team",
+          "routes",
+          "faq",
+          "contacts",
+          "rental-model",
+          "otzyvy",
+          "powered-by",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rent-scooter-nhatrang",
+      "width": 1440,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "models",
+          "rentalGrid",
+          "conditions",
+          "process",
+          "team",
+          "routes",
+          "faq",
+          "contacts",
+          "rental-model",
+          "otzyvy",
+          "powered-by",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rentals/motorbikes",
+      "width": 360,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "models",
+          "rentalGrid",
+          "conditions",
+          "process",
+          "team",
+          "routes",
+          "faq",
+          "contacts",
+          "rental-model",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rentals/motorbikes",
+      "width": 640,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "models",
+          "rentalGrid",
+          "conditions",
+          "process",
+          "team",
+          "routes",
+          "faq",
+          "contacts",
+          "rental-model",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rentals/motorbikes",
+      "width": 641,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "models",
+          "rentalGrid",
+          "conditions",
+          "process",
+          "team",
+          "routes",
+          "faq",
+          "contacts",
+          "rental-model",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rentals/motorbikes",
+      "width": 980,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "models",
+          "rentalGrid",
+          "conditions",
+          "process",
+          "team",
+          "routes",
+          "faq",
+          "contacts",
+          "rental-model",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rentals/motorbikes",
+      "width": 981,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "models",
+          "rentalGrid",
+          "conditions",
+          "process",
+          "team",
+          "routes",
+          "faq",
+          "contacts",
+          "rental-model",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rentals/motorbikes",
+      "width": 1440,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "models",
+          "rentalGrid",
+          "conditions",
+          "process",
+          "team",
+          "routes",
+          "faq",
+          "contacts",
+          "rental-model",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rentals/cars",
+      "width": 360,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "models",
+          "conditions",
+          "process",
+          "team",
+          "routes",
+          "faq",
+          "contacts",
+          "rental-model",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rentals/cars",
+      "width": 640,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "models",
+          "conditions",
+          "process",
+          "team",
+          "routes",
+          "faq",
+          "contacts",
+          "rental-model",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rentals/cars",
+      "width": 641,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "models",
+          "conditions",
+          "process",
+          "team",
+          "routes",
+          "faq",
+          "contacts",
+          "rental-model",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rentals/cars",
+      "width": 980,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "models",
+          "conditions",
+          "process",
+          "team",
+          "routes",
+          "faq",
+          "contacts",
+          "rental-model",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rentals/cars",
+      "width": 981,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "models",
+          "conditions",
+          "process",
+          "team",
+          "routes",
+          "faq",
+          "contacts",
+          "rental-model",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rentals/cars",
+      "width": 1440,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "models",
+          "conditions",
+          "process",
+          "team",
+          "routes",
+          "faq",
+          "contacts",
+          "rental-model",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rentals/dalat-yamaha-nouvo-lx6",
+      "width": 360,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rentals/dalat-yamaha-nouvo-lx135",
+      "width": 360,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rentals/nhatrang-yadea-oris",
+      "width": 360,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rentals/dalat-honda-winner-x",
+      "width": 360,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rentals/dalat-yamaha-nvx155",
+      "width": 360,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rentals/nhatrang-yadea-vekoo",
+      "width": 360,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rentals/dalat-sym-attila-elizabeth",
+      "width": 360,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rentals/dalat-sym-attila",
+      "width": 360,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rentals/nhatrang-honda-pcx-125-26",
+      "width": 360,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rentals/nhatrang-yamaha-nvx-155-23",
+      "width": 360,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rentals/nhatrang-yamaha-nvx-155-24",
+      "width": 360,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rentals/nhatrang-yamaha-nvx-155-25",
+      "width": 360,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rentals/nhatrang-honda-pcx-125-27",
+      "width": 360,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rentals/nhatrang-yamaha-nvx-155-28",
+      "width": 360,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rentals/nhatrang-yamaha-nvx-155-31",
+      "width": 360,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rentals/nhatrang-yamaha-nvx-155-32",
+      "width": 360,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rentals/nhatrang-yamaha-nvx-155-33",
+      "width": 360,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rentals/nhatrang-yamaha-nvx-155-34",
+      "width": 360,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rentals/nhatrang-yamaha-nvx-155-36",
+      "width": 360,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rentals/nhatrang-honda-pcx-125-37",
+      "width": 360,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rentals/nhatrang-yamaha-nvx-155-38",
+      "width": 360,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rentals/nhatrang-yamaha-nvx-155-40",
+      "width": 360,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rentals/nhatrang-yamaha-nvx-155-43",
+      "width": 360,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rentals/nhatrang-yamaha-xmax-300-13",
+      "width": 360,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rentals/nhatrang-honda-adv-160-14",
+      "width": 360,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rentals/nhatrang-honda-rebel-300-15",
+      "width": 360,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rentals/nhatrang-honda-adv-150-16",
+      "width": 360,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rentals/nhatrang-ducati-monster-797-17",
+      "width": 360,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rentals/nhatrang-honda-adv-160-18",
+      "width": 360,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rentals/nhatrang-maxi-scooter-gt250-19",
+      "width": 360,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rentals/nhatrang-kawasaki-z300-20",
+      "width": 360,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rentals/nhatrang-yamaha-n-max-155-21",
+      "width": 360,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rentals/nhatrang-honda-adv-160-22",
+      "width": 360,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rentals/nhatrang-honda-pcx-125-29",
+      "width": 360,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rentals/nhatrang-yamaha-nvx-155-41",
+      "width": 360,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rentals/nhatrang-honda-adv-150-42",
+      "width": 360,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rentals/nhatrang-victory-city",
+      "width": 360,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rentals/nhatrang-vinsky-crea50",
+      "width": 360,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rentals/nhatrang-vinsky-crea-50-10",
+      "width": 360,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rentals/nhatrang-yadea-oris-11",
+      "width": 360,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rentals/nhatrang-yadea-xbull",
+      "width": 360,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rentals/nhatrang-yamaha-nvx-125-30",
+      "width": 360,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rentals/nhatrang-yamaha-nvx-125-35",
+      "width": 360,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rentals/nhatrang-yamaha-nvx-125-39",
+      "width": 360,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rentals/nhatrang-yamaha-nouvo-6-1",
+      "width": 360,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rentals/nhatrang-suzuki-hauate-125-2",
+      "width": 360,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rentals/nhatrang-yamaha-nouvo-6-3",
+      "width": 360,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rentals/nhatrang-honda-lead-110-4",
+      "width": 360,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rentals/nhatrang-honda-lead-110-5",
+      "width": 360,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rentals/dalat-honda-leed125",
+      "width": 360,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rentals/dalat-sym-wolf125",
+      "width": 360,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rentals/dalat-peugeot-django",
+      "width": 360,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rentals/dalat-yamaha-nouvo-lx6",
+      "width": 640,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rentals/dalat-yamaha-nouvo-lx6",
+      "width": 641,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rentals/dalat-yamaha-nouvo-lx6",
+      "width": 980,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rentals/dalat-yamaha-nouvo-lx6",
+      "width": 981,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rentals/dalat-yamaha-nouvo-lx6",
+      "width": 1440,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rentals/nhatrang-yadea-oris",
+      "width": 640,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rentals/nhatrang-yadea-oris",
+      "width": 641,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rentals/nhatrang-yadea-oris",
+      "width": 980,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rentals/nhatrang-yadea-oris",
+      "width": 981,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "path": "/ru/rentals/nhatrang-yadea-oris",
+      "width": 1440,
+      "health": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    }
+  ],
+  "checks": [
+    {
+      "name": "Layout/photos/anchors /ru/rent-motorbike-dalat 360",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "models",
+          "rentalGrid",
+          "conditions",
+          "process",
+          "team",
+          "routes",
+          "faq",
+          "contacts",
+          "rental-model",
+          "otzyvy",
+          "powered-by",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "Menu opens /ru/rent-motorbike-dalat 360",
+      "passed": true
+    },
+    {
+      "name": "Menu Shift-Tab trap /ru/rent-motorbike-dalat",
+      "passed": true
+    },
+    {
+      "name": "Menu Tab trap /ru/rent-motorbike-dalat",
+      "passed": true
+    },
+    {
+      "name": "Menu closes /ru/rent-motorbike-dalat 360",
+      "passed": true
+    },
+    {
+      "name": "Homepage fonts/colors/logo /ru/rent-motorbike-dalat 360",
+      "passed": true
+    },
+    {
+      "name": "Native FAQ /ru/rent-motorbike-dalat 360",
+      "passed": true
+    },
+    {
+      "name": "Layout/photos/anchors /ru/rent-motorbike-dalat 640",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "models",
+          "rentalGrid",
+          "conditions",
+          "process",
+          "team",
+          "routes",
+          "faq",
+          "contacts",
+          "rental-model",
+          "otzyvy",
+          "powered-by",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "Menu opens /ru/rent-motorbike-dalat 640",
+      "passed": true
+    },
+    {
+      "name": "Menu closes /ru/rent-motorbike-dalat 640",
+      "passed": true
+    },
+    {
+      "name": "Homepage fonts/colors/logo /ru/rent-motorbike-dalat 640",
+      "passed": true
+    },
+    {
+      "name": "Native FAQ /ru/rent-motorbike-dalat 640",
+      "passed": true
+    },
+    {
+      "name": "Layout/photos/anchors /ru/rent-motorbike-dalat 641",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "models",
+          "rentalGrid",
+          "conditions",
+          "process",
+          "team",
+          "routes",
+          "faq",
+          "contacts",
+          "rental-model",
+          "otzyvy",
+          "powered-by",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "Menu opens /ru/rent-motorbike-dalat 641",
+      "passed": true
+    },
+    {
+      "name": "Menu closes /ru/rent-motorbike-dalat 641",
+      "passed": true
+    },
+    {
+      "name": "Homepage fonts/colors/logo /ru/rent-motorbike-dalat 641",
+      "passed": true
+    },
+    {
+      "name": "Native FAQ /ru/rent-motorbike-dalat 641",
+      "passed": true
+    },
+    {
+      "name": "Layout/photos/anchors /ru/rent-motorbike-dalat 980",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "models",
+          "rentalGrid",
+          "conditions",
+          "process",
+          "team",
+          "routes",
+          "faq",
+          "contacts",
+          "rental-model",
+          "otzyvy",
+          "powered-by",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "Menu opens /ru/rent-motorbike-dalat 980",
+      "passed": true
+    },
+    {
+      "name": "Menu closes /ru/rent-motorbike-dalat 980",
+      "passed": true
+    },
+    {
+      "name": "Homepage fonts/colors/logo /ru/rent-motorbike-dalat 980",
+      "passed": true
+    },
+    {
+      "name": "Native FAQ /ru/rent-motorbike-dalat 980",
+      "passed": true
+    },
+    {
+      "name": "Layout/photos/anchors /ru/rent-motorbike-dalat 981",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "models",
+          "rentalGrid",
+          "conditions",
+          "process",
+          "team",
+          "routes",
+          "faq",
+          "contacts",
+          "rental-model",
+          "otzyvy",
+          "powered-by",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "Menu opens /ru/rent-motorbike-dalat 981",
+      "passed": true
+    },
+    {
+      "name": "Menu closes /ru/rent-motorbike-dalat 981",
+      "passed": true
+    },
+    {
+      "name": "Homepage fonts/colors/logo /ru/rent-motorbike-dalat 981",
+      "passed": true
+    },
+    {
+      "name": "Native FAQ /ru/rent-motorbike-dalat 981",
+      "passed": true
+    },
+    {
+      "name": "Layout/photos/anchors /ru/rent-motorbike-dalat 1440",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "models",
+          "rentalGrid",
+          "conditions",
+          "process",
+          "team",
+          "routes",
+          "faq",
+          "contacts",
+          "rental-model",
+          "otzyvy",
+          "powered-by",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "Menu opens /ru/rent-motorbike-dalat 1440",
+      "passed": true
+    },
+    {
+      "name": "Menu closes /ru/rent-motorbike-dalat 1440",
+      "passed": true
+    },
+    {
+      "name": "Homepage fonts/colors/logo /ru/rent-motorbike-dalat 1440",
+      "passed": true
+    },
+    {
+      "name": "Native FAQ /ru/rent-motorbike-dalat 1440",
+      "passed": true
+    },
+    {
+      "name": "Form covers whole published inventory /ru/rent-motorbike-dalat",
+      "passed": true,
+      "detail": {
+        "expected": 9,
+        "actual": 9
+      }
+    },
+    {
+      "name": "All catalog pages have exactly expected IDs /ru/rent-motorbike-dalat",
+      "passed": true,
+      "detail": {
+        "expected": 9,
+        "actual": 9
+      }
+    },
+    {
+      "name": "Layout/photos/anchors /ru/rent-scooter-nhatrang 360",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "models",
+          "rentalGrid",
+          "conditions",
+          "process",
+          "team",
+          "routes",
+          "faq",
+          "contacts",
+          "rental-model",
+          "otzyvy",
+          "powered-by",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "Menu opens /ru/rent-scooter-nhatrang 360",
+      "passed": true
+    },
+    {
+      "name": "Menu Shift-Tab trap /ru/rent-scooter-nhatrang",
+      "passed": true
+    },
+    {
+      "name": "Menu Tab trap /ru/rent-scooter-nhatrang",
+      "passed": true
+    },
+    {
+      "name": "Menu closes /ru/rent-scooter-nhatrang 360",
+      "passed": true
+    },
+    {
+      "name": "Homepage fonts/colors/logo /ru/rent-scooter-nhatrang 360",
+      "passed": true
+    },
+    {
+      "name": "Native FAQ /ru/rent-scooter-nhatrang 360",
+      "passed": true
+    },
+    {
+      "name": "Layout/photos/anchors /ru/rent-scooter-nhatrang 640",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "models",
+          "rentalGrid",
+          "conditions",
+          "process",
+          "team",
+          "routes",
+          "faq",
+          "contacts",
+          "rental-model",
+          "otzyvy",
+          "powered-by",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "Menu opens /ru/rent-scooter-nhatrang 640",
+      "passed": true
+    },
+    {
+      "name": "Menu closes /ru/rent-scooter-nhatrang 640",
+      "passed": true
+    },
+    {
+      "name": "Homepage fonts/colors/logo /ru/rent-scooter-nhatrang 640",
+      "passed": true
+    },
+    {
+      "name": "Native FAQ /ru/rent-scooter-nhatrang 640",
+      "passed": true
+    },
+    {
+      "name": "Layout/photos/anchors /ru/rent-scooter-nhatrang 641",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "models",
+          "rentalGrid",
+          "conditions",
+          "process",
+          "team",
+          "routes",
+          "faq",
+          "contacts",
+          "rental-model",
+          "otzyvy",
+          "powered-by",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "Menu opens /ru/rent-scooter-nhatrang 641",
+      "passed": true
+    },
+    {
+      "name": "Menu closes /ru/rent-scooter-nhatrang 641",
+      "passed": true
+    },
+    {
+      "name": "Homepage fonts/colors/logo /ru/rent-scooter-nhatrang 641",
+      "passed": true
+    },
+    {
+      "name": "Native FAQ /ru/rent-scooter-nhatrang 641",
+      "passed": true
+    },
+    {
+      "name": "Layout/photos/anchors /ru/rent-scooter-nhatrang 980",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "models",
+          "rentalGrid",
+          "conditions",
+          "process",
+          "team",
+          "routes",
+          "faq",
+          "contacts",
+          "rental-model",
+          "otzyvy",
+          "powered-by",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "Menu opens /ru/rent-scooter-nhatrang 980",
+      "passed": true
+    },
+    {
+      "name": "Menu closes /ru/rent-scooter-nhatrang 980",
+      "passed": true
+    },
+    {
+      "name": "Homepage fonts/colors/logo /ru/rent-scooter-nhatrang 980",
+      "passed": true
+    },
+    {
+      "name": "Native FAQ /ru/rent-scooter-nhatrang 980",
+      "passed": true
+    },
+    {
+      "name": "Layout/photos/anchors /ru/rent-scooter-nhatrang 981",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "models",
+          "rentalGrid",
+          "conditions",
+          "process",
+          "team",
+          "routes",
+          "faq",
+          "contacts",
+          "rental-model",
+          "otzyvy",
+          "powered-by",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "Menu opens /ru/rent-scooter-nhatrang 981",
+      "passed": true
+    },
+    {
+      "name": "Menu closes /ru/rent-scooter-nhatrang 981",
+      "passed": true
+    },
+    {
+      "name": "Homepage fonts/colors/logo /ru/rent-scooter-nhatrang 981",
+      "passed": true
+    },
+    {
+      "name": "Native FAQ /ru/rent-scooter-nhatrang 981",
+      "passed": true
+    },
+    {
+      "name": "Layout/photos/anchors /ru/rent-scooter-nhatrang 1440",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "models",
+          "rentalGrid",
+          "conditions",
+          "process",
+          "team",
+          "routes",
+          "faq",
+          "contacts",
+          "rental-model",
+          "otzyvy",
+          "powered-by",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "Menu opens /ru/rent-scooter-nhatrang 1440",
+      "passed": true
+    },
+    {
+      "name": "Menu closes /ru/rent-scooter-nhatrang 1440",
+      "passed": true
+    },
+    {
+      "name": "Homepage fonts/colors/logo /ru/rent-scooter-nhatrang 1440",
+      "passed": true
+    },
+    {
+      "name": "Native FAQ /ru/rent-scooter-nhatrang 1440",
+      "passed": true
+    },
+    {
+      "name": "Form covers whole published inventory /ru/rent-scooter-nhatrang",
+      "passed": true,
+      "detail": {
+        "expected": 43,
+        "actual": 43
+      }
+    },
+    {
+      "name": "All catalog pages have exactly expected IDs /ru/rent-scooter-nhatrang",
+      "passed": true,
+      "detail": {
+        "expected": 43,
+        "actual": 43
+      }
+    },
+    {
+      "name": "Layout/photos/anchors /ru/rentals/motorbikes 360",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "models",
+          "rentalGrid",
+          "conditions",
+          "process",
+          "team",
+          "routes",
+          "faq",
+          "contacts",
+          "rental-model",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "Menu opens /ru/rentals/motorbikes 360",
+      "passed": true
+    },
+    {
+      "name": "Menu Shift-Tab trap /ru/rentals/motorbikes",
+      "passed": true
+    },
+    {
+      "name": "Menu Tab trap /ru/rentals/motorbikes",
+      "passed": true
+    },
+    {
+      "name": "Menu closes /ru/rentals/motorbikes 360",
+      "passed": true
+    },
+    {
+      "name": "Homepage fonts/colors/logo /ru/rentals/motorbikes 360",
+      "passed": true
+    },
+    {
+      "name": "Native FAQ /ru/rentals/motorbikes 360",
+      "passed": true
+    },
+    {
+      "name": "Layout/photos/anchors /ru/rentals/motorbikes 640",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "models",
+          "rentalGrid",
+          "conditions",
+          "process",
+          "team",
+          "routes",
+          "faq",
+          "contacts",
+          "rental-model",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "Menu opens /ru/rentals/motorbikes 640",
+      "passed": true
+    },
+    {
+      "name": "Menu closes /ru/rentals/motorbikes 640",
+      "passed": true
+    },
+    {
+      "name": "Homepage fonts/colors/logo /ru/rentals/motorbikes 640",
+      "passed": true
+    },
+    {
+      "name": "Native FAQ /ru/rentals/motorbikes 640",
+      "passed": true
+    },
+    {
+      "name": "Layout/photos/anchors /ru/rentals/motorbikes 641",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "models",
+          "rentalGrid",
+          "conditions",
+          "process",
+          "team",
+          "routes",
+          "faq",
+          "contacts",
+          "rental-model",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "Menu opens /ru/rentals/motorbikes 641",
+      "passed": true
+    },
+    {
+      "name": "Menu closes /ru/rentals/motorbikes 641",
+      "passed": true
+    },
+    {
+      "name": "Homepage fonts/colors/logo /ru/rentals/motorbikes 641",
+      "passed": true
+    },
+    {
+      "name": "Native FAQ /ru/rentals/motorbikes 641",
+      "passed": true
+    },
+    {
+      "name": "Layout/photos/anchors /ru/rentals/motorbikes 980",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "models",
+          "rentalGrid",
+          "conditions",
+          "process",
+          "team",
+          "routes",
+          "faq",
+          "contacts",
+          "rental-model",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "Menu opens /ru/rentals/motorbikes 980",
+      "passed": true
+    },
+    {
+      "name": "Menu closes /ru/rentals/motorbikes 980",
+      "passed": true
+    },
+    {
+      "name": "Homepage fonts/colors/logo /ru/rentals/motorbikes 980",
+      "passed": true
+    },
+    {
+      "name": "Native FAQ /ru/rentals/motorbikes 980",
+      "passed": true
+    },
+    {
+      "name": "Layout/photos/anchors /ru/rentals/motorbikes 981",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "models",
+          "rentalGrid",
+          "conditions",
+          "process",
+          "team",
+          "routes",
+          "faq",
+          "contacts",
+          "rental-model",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "Menu opens /ru/rentals/motorbikes 981",
+      "passed": true
+    },
+    {
+      "name": "Menu closes /ru/rentals/motorbikes 981",
+      "passed": true
+    },
+    {
+      "name": "Homepage fonts/colors/logo /ru/rentals/motorbikes 981",
+      "passed": true
+    },
+    {
+      "name": "Native FAQ /ru/rentals/motorbikes 981",
+      "passed": true
+    },
+    {
+      "name": "Layout/photos/anchors /ru/rentals/motorbikes 1440",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "models",
+          "rentalGrid",
+          "conditions",
+          "process",
+          "team",
+          "routes",
+          "faq",
+          "contacts",
+          "rental-model",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "Menu opens /ru/rentals/motorbikes 1440",
+      "passed": true
+    },
+    {
+      "name": "Menu closes /ru/rentals/motorbikes 1440",
+      "passed": true
+    },
+    {
+      "name": "Homepage fonts/colors/logo /ru/rentals/motorbikes 1440",
+      "passed": true
+    },
+    {
+      "name": "Native FAQ /ru/rentals/motorbikes 1440",
+      "passed": true
+    },
+    {
+      "name": "Form covers whole published inventory /ru/rentals/motorbikes",
+      "passed": true,
+      "detail": {
+        "expected": 52,
+        "actual": 52
+      }
+    },
+    {
+      "name": "All catalog pages have exactly expected IDs /ru/rentals/motorbikes",
+      "passed": true,
+      "detail": {
+        "expected": 52,
+        "actual": 52
+      }
+    },
+    {
+      "name": "Layout/photos/anchors /ru/rentals/cars 360",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "models",
+          "conditions",
+          "process",
+          "team",
+          "routes",
+          "faq",
+          "contacts",
+          "rental-model",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "Menu opens /ru/rentals/cars 360",
+      "passed": true
+    },
+    {
+      "name": "Menu Shift-Tab trap /ru/rentals/cars",
+      "passed": true
+    },
+    {
+      "name": "Menu Tab trap /ru/rentals/cars",
+      "passed": true
+    },
+    {
+      "name": "Menu closes /ru/rentals/cars 360",
+      "passed": true
+    },
+    {
+      "name": "Homepage fonts/colors/logo /ru/rentals/cars 360",
+      "passed": true
+    },
+    {
+      "name": "Native FAQ /ru/rentals/cars 360",
+      "passed": true
+    },
+    {
+      "name": "Layout/photos/anchors /ru/rentals/cars 640",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "models",
+          "conditions",
+          "process",
+          "team",
+          "routes",
+          "faq",
+          "contacts",
+          "rental-model",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "Menu opens /ru/rentals/cars 640",
+      "passed": true
+    },
+    {
+      "name": "Menu closes /ru/rentals/cars 640",
+      "passed": true
+    },
+    {
+      "name": "Homepage fonts/colors/logo /ru/rentals/cars 640",
+      "passed": true
+    },
+    {
+      "name": "Native FAQ /ru/rentals/cars 640",
+      "passed": true
+    },
+    {
+      "name": "Layout/photos/anchors /ru/rentals/cars 641",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "models",
+          "conditions",
+          "process",
+          "team",
+          "routes",
+          "faq",
+          "contacts",
+          "rental-model",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "Menu opens /ru/rentals/cars 641",
+      "passed": true
+    },
+    {
+      "name": "Menu closes /ru/rentals/cars 641",
+      "passed": true
+    },
+    {
+      "name": "Homepage fonts/colors/logo /ru/rentals/cars 641",
+      "passed": true
+    },
+    {
+      "name": "Native FAQ /ru/rentals/cars 641",
+      "passed": true
+    },
+    {
+      "name": "Layout/photos/anchors /ru/rentals/cars 980",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "models",
+          "conditions",
+          "process",
+          "team",
+          "routes",
+          "faq",
+          "contacts",
+          "rental-model",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "Menu opens /ru/rentals/cars 980",
+      "passed": true
+    },
+    {
+      "name": "Menu closes /ru/rentals/cars 980",
+      "passed": true
+    },
+    {
+      "name": "Homepage fonts/colors/logo /ru/rentals/cars 980",
+      "passed": true
+    },
+    {
+      "name": "Native FAQ /ru/rentals/cars 980",
+      "passed": true
+    },
+    {
+      "name": "Layout/photos/anchors /ru/rentals/cars 981",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "models",
+          "conditions",
+          "process",
+          "team",
+          "routes",
+          "faq",
+          "contacts",
+          "rental-model",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "Menu opens /ru/rentals/cars 981",
+      "passed": true
+    },
+    {
+      "name": "Menu closes /ru/rentals/cars 981",
+      "passed": true
+    },
+    {
+      "name": "Homepage fonts/colors/logo /ru/rentals/cars 981",
+      "passed": true
+    },
+    {
+      "name": "Native FAQ /ru/rentals/cars 981",
+      "passed": true
+    },
+    {
+      "name": "Layout/photos/anchors /ru/rentals/cars 1440",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "models",
+          "conditions",
+          "process",
+          "team",
+          "routes",
+          "faq",
+          "contacts",
+          "rental-model",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "Menu opens /ru/rentals/cars 1440",
+      "passed": true
+    },
+    {
+      "name": "Menu closes /ru/rentals/cars 1440",
+      "passed": true
+    },
+    {
+      "name": "Homepage fonts/colors/logo /ru/rentals/cars 1440",
+      "passed": true
+    },
+    {
+      "name": "Native FAQ /ru/rentals/cars 1440",
+      "passed": true
+    },
+    {
+      "name": "Rental detail rental-dalat-yamaha-nouvo-lx6",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "All tariff periods and amounts shown rental-dalat-yamaha-nouvo-lx6",
+      "passed": true,
+      "detail": [
+        {
+          "period": "day",
+          "value": "170 000 ₫"
+        },
+        {
+          "period": "week",
+          "value": "900 000 ₫"
+        },
+        {
+          "period": "month",
+          "value": "2 000 000 ₫"
+        }
+      ]
+    },
+    {
+      "name": "All model photos shown rental-dalat-yamaha-nouvo-lx6",
+      "passed": true
+    },
+    {
+      "name": "Rental detail rental-dalat-yamaha-nouvo-lx135",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "All tariff periods and amounts shown rental-dalat-yamaha-nouvo-lx135",
+      "passed": true,
+      "detail": [
+        {
+          "period": "day",
+          "value": "150 000 ₫"
+        },
+        {
+          "period": "week",
+          "value": "750 000 ₫"
+        },
+        {
+          "period": "month",
+          "value": "2 000 000 ₫"
+        }
+      ]
+    },
+    {
+      "name": "All model photos shown rental-dalat-yamaha-nouvo-lx135",
+      "passed": true
+    },
+    {
+      "name": "Rental detail rental-nhatrang-yadea-oris",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "All tariff periods and amounts shown rental-nhatrang-yadea-oris",
+      "passed": true,
+      "detail": [
+        {
+          "period": "day",
+          "value": "350 000 ₫"
+        },
+        {
+          "period": "3_days",
+          "value": "850 000 ₫"
+        },
+        {
+          "period": "week",
+          "value": "1 700 000 ₫"
+        },
+        {
+          "period": "month",
+          "value": "3 500 000 ₫"
+        }
+      ]
+    },
+    {
+      "name": "All model photos shown rental-nhatrang-yadea-oris",
+      "passed": true
+    },
+    {
+      "name": "Rental detail rental-dalat-honda-winner-x",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "All tariff periods and amounts shown rental-dalat-honda-winner-x",
+      "passed": true,
+      "detail": [
+        {
+          "period": "day",
+          "value": "Цена по запросу"
+        },
+        {
+          "period": "week",
+          "value": "Цена по запросу"
+        },
+        {
+          "period": "month",
+          "value": "Цена по запросу"
+        }
+      ]
+    },
+    {
+      "name": "All model photos shown rental-dalat-honda-winner-x",
+      "passed": true
+    },
+    {
+      "name": "Rental detail rental-dalat-yamaha-nvx155",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "All tariff periods and amounts shown rental-dalat-yamaha-nvx155",
+      "passed": true,
+      "detail": [
+        {
+          "period": "day",
+          "value": "300 000 ₫"
+        },
+        {
+          "period": "week",
+          "value": "1 600 000 ₫"
+        },
+        {
+          "period": "month",
+          "value": "4 500 000 ₫"
+        }
+      ]
+    },
+    {
+      "name": "All model photos shown rental-dalat-yamaha-nvx155",
+      "passed": true
+    },
+    {
+      "name": "Rental detail rental-nhatrang-yadea-vekoo",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "All tariff periods and amounts shown rental-nhatrang-yadea-vekoo",
+      "passed": true,
+      "detail": [
+        {
+          "period": "day",
+          "value": "150 000 ₫"
+        },
+        {
+          "period": "3_days",
+          "value": "350 000 ₫"
+        },
+        {
+          "period": "week",
+          "value": "700 000 ₫"
+        },
+        {
+          "period": "month",
+          "value": "2 000 000 ₫"
+        }
+      ]
+    },
+    {
+      "name": "All model photos shown rental-nhatrang-yadea-vekoo",
+      "passed": true
+    },
+    {
+      "name": "Rental detail rental-dalat-sym-attila-elizabeth",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "All tariff periods and amounts shown rental-dalat-sym-attila-elizabeth",
+      "passed": true,
+      "detail": [
+        {
+          "period": "day",
+          "value": "150 000 ₫"
+        },
+        {
+          "period": "week",
+          "value": "750 000 ₫"
+        },
+        {
+          "period": "month",
+          "value": "2 000 000 ₫"
+        }
+      ]
+    },
+    {
+      "name": "All model photos shown rental-dalat-sym-attila-elizabeth",
+      "passed": true
+    },
+    {
+      "name": "Rental detail rental-dalat-sym-attila",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "All tariff periods and amounts shown rental-dalat-sym-attila",
+      "passed": true,
+      "detail": [
+        {
+          "period": "day",
+          "value": "150 000 ₫"
+        },
+        {
+          "period": "week",
+          "value": "750 000 ₫"
+        },
+        {
+          "period": "month",
+          "value": "2 000 000 ₫"
+        }
+      ]
+    },
+    {
+      "name": "All model photos shown rental-dalat-sym-attila",
+      "passed": true
+    },
+    {
+      "name": "Rental detail rental-nhatrang-fleet-26",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "All tariff periods and amounts shown rental-nhatrang-fleet-26",
+      "passed": true,
+      "detail": [
+        {
+          "period": "day",
+          "value": "350 000 ₫"
+        },
+        {
+          "period": "3_days",
+          "value": "850 000 ₫"
+        },
+        {
+          "period": "week",
+          "value": "1 700 000 ₫"
+        },
+        {
+          "period": "month",
+          "value": "3 500 000 ₫"
+        }
+      ]
+    },
+    {
+      "name": "All model photos shown rental-nhatrang-fleet-26",
+      "passed": true
+    },
+    {
+      "name": "Rental detail rental-nhatrang-fleet-23",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "All tariff periods and amounts shown rental-nhatrang-fleet-23",
+      "passed": true,
+      "detail": [
+        {
+          "period": "day",
+          "value": "350 000 ₫"
+        },
+        {
+          "period": "3_days",
+          "value": "850 000 ₫"
+        },
+        {
+          "period": "week",
+          "value": "1 700 000 ₫"
+        },
+        {
+          "period": "month",
+          "value": "3 500 000 ₫"
+        }
+      ]
+    },
+    {
+      "name": "All model photos shown rental-nhatrang-fleet-23",
+      "passed": true
+    },
+    {
+      "name": "Rental detail rental-nhatrang-fleet-24",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "All tariff periods and amounts shown rental-nhatrang-fleet-24",
+      "passed": true,
+      "detail": [
+        {
+          "period": "day",
+          "value": "350 000 ₫"
+        },
+        {
+          "period": "3_days",
+          "value": "850 000 ₫"
+        },
+        {
+          "period": "week",
+          "value": "1 700 000 ₫"
+        },
+        {
+          "period": "month",
+          "value": "3 500 000 ₫"
+        }
+      ]
+    },
+    {
+      "name": "All model photos shown rental-nhatrang-fleet-24",
+      "passed": true
+    },
+    {
+      "name": "Rental detail rental-nhatrang-fleet-25",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "All tariff periods and amounts shown rental-nhatrang-fleet-25",
+      "passed": true,
+      "detail": [
+        {
+          "period": "day",
+          "value": "350 000 ₫"
+        },
+        {
+          "period": "3_days",
+          "value": "850 000 ₫"
+        },
+        {
+          "period": "week",
+          "value": "1 700 000 ₫"
+        },
+        {
+          "period": "month",
+          "value": "3 500 000 ₫"
+        }
+      ]
+    },
+    {
+      "name": "All model photos shown rental-nhatrang-fleet-25",
+      "passed": true
+    },
+    {
+      "name": "Rental detail rental-nhatrang-fleet-27",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "All tariff periods and amounts shown rental-nhatrang-fleet-27",
+      "passed": true,
+      "detail": [
+        {
+          "period": "day",
+          "value": "350 000 ₫"
+        },
+        {
+          "period": "3_days",
+          "value": "850 000 ₫"
+        },
+        {
+          "period": "week",
+          "value": "1 700 000 ₫"
+        },
+        {
+          "period": "month",
+          "value": "3 500 000 ₫"
+        }
+      ]
+    },
+    {
+      "name": "All model photos shown rental-nhatrang-fleet-27",
+      "passed": true
+    },
+    {
+      "name": "Rental detail rental-nhatrang-fleet-28",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "All tariff periods and amounts shown rental-nhatrang-fleet-28",
+      "passed": true,
+      "detail": [
+        {
+          "period": "day",
+          "value": "350 000 ₫"
+        },
+        {
+          "period": "3_days",
+          "value": "850 000 ₫"
+        },
+        {
+          "period": "week",
+          "value": "1 700 000 ₫"
+        },
+        {
+          "period": "month",
+          "value": "3 500 000 ₫"
+        }
+      ]
+    },
+    {
+      "name": "All model photos shown rental-nhatrang-fleet-28",
+      "passed": true
+    },
+    {
+      "name": "Rental detail rental-nhatrang-fleet-31",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "All tariff periods and amounts shown rental-nhatrang-fleet-31",
+      "passed": true,
+      "detail": [
+        {
+          "period": "day",
+          "value": "350 000 ₫"
+        },
+        {
+          "period": "3_days",
+          "value": "850 000 ₫"
+        },
+        {
+          "period": "week",
+          "value": "1 700 000 ₫"
+        },
+        {
+          "period": "month",
+          "value": "3 500 000 ₫"
+        }
+      ]
+    },
+    {
+      "name": "All model photos shown rental-nhatrang-fleet-31",
+      "passed": true
+    },
+    {
+      "name": "Rental detail rental-nhatrang-fleet-32",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "All tariff periods and amounts shown rental-nhatrang-fleet-32",
+      "passed": true,
+      "detail": [
+        {
+          "period": "day",
+          "value": "350 000 ₫"
+        },
+        {
+          "period": "3_days",
+          "value": "850 000 ₫"
+        },
+        {
+          "period": "week",
+          "value": "1 700 000 ₫"
+        },
+        {
+          "period": "month",
+          "value": "3 500 000 ₫"
+        }
+      ]
+    },
+    {
+      "name": "All model photos shown rental-nhatrang-fleet-32",
+      "passed": true
+    },
+    {
+      "name": "Rental detail rental-nhatrang-fleet-33",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "All tariff periods and amounts shown rental-nhatrang-fleet-33",
+      "passed": true,
+      "detail": [
+        {
+          "period": "day",
+          "value": "350 000 ₫"
+        },
+        {
+          "period": "3_days",
+          "value": "850 000 ₫"
+        },
+        {
+          "period": "week",
+          "value": "1 700 000 ₫"
+        },
+        {
+          "period": "month",
+          "value": "3 500 000 ₫"
+        }
+      ]
+    },
+    {
+      "name": "All model photos shown rental-nhatrang-fleet-33",
+      "passed": true
+    },
+    {
+      "name": "Rental detail rental-nhatrang-fleet-34",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "All tariff periods and amounts shown rental-nhatrang-fleet-34",
+      "passed": true,
+      "detail": [
+        {
+          "period": "day",
+          "value": "350 000 ₫"
+        },
+        {
+          "period": "3_days",
+          "value": "850 000 ₫"
+        },
+        {
+          "period": "week",
+          "value": "1 700 000 ₫"
+        },
+        {
+          "period": "month",
+          "value": "3 500 000 ₫"
+        }
+      ]
+    },
+    {
+      "name": "All model photos shown rental-nhatrang-fleet-34",
+      "passed": true
+    },
+    {
+      "name": "Rental detail rental-nhatrang-fleet-36",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "All tariff periods and amounts shown rental-nhatrang-fleet-36",
+      "passed": true,
+      "detail": [
+        {
+          "period": "day",
+          "value": "350 000 ₫"
+        },
+        {
+          "period": "3_days",
+          "value": "850 000 ₫"
+        },
+        {
+          "period": "week",
+          "value": "1 700 000 ₫"
+        },
+        {
+          "period": "month",
+          "value": "3 500 000 ₫"
+        }
+      ]
+    },
+    {
+      "name": "All model photos shown rental-nhatrang-fleet-36",
+      "passed": true
+    },
+    {
+      "name": "Rental detail rental-nhatrang-fleet-37",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "All tariff periods and amounts shown rental-nhatrang-fleet-37",
+      "passed": true,
+      "detail": [
+        {
+          "period": "day",
+          "value": "350 000 ₫"
+        },
+        {
+          "period": "3_days",
+          "value": "850 000 ₫"
+        },
+        {
+          "period": "week",
+          "value": "1 700 000 ₫"
+        },
+        {
+          "period": "month",
+          "value": "3 500 000 ₫"
+        }
+      ]
+    },
+    {
+      "name": "All model photos shown rental-nhatrang-fleet-37",
+      "passed": true
+    },
+    {
+      "name": "Rental detail rental-nhatrang-fleet-38",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "All tariff periods and amounts shown rental-nhatrang-fleet-38",
+      "passed": true,
+      "detail": [
+        {
+          "period": "day",
+          "value": "350 000 ₫"
+        },
+        {
+          "period": "3_days",
+          "value": "850 000 ₫"
+        },
+        {
+          "period": "week",
+          "value": "1 700 000 ₫"
+        },
+        {
+          "period": "month",
+          "value": "3 500 000 ₫"
+        }
+      ]
+    },
+    {
+      "name": "All model photos shown rental-nhatrang-fleet-38",
+      "passed": true
+    },
+    {
+      "name": "Rental detail rental-nhatrang-fleet-40",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "All tariff periods and amounts shown rental-nhatrang-fleet-40",
+      "passed": true,
+      "detail": [
+        {
+          "period": "day",
+          "value": "350 000 ₫"
+        },
+        {
+          "period": "3_days",
+          "value": "850 000 ₫"
+        },
+        {
+          "period": "week",
+          "value": "1 700 000 ₫"
+        },
+        {
+          "period": "month",
+          "value": "3 500 000 ₫"
+        }
+      ]
+    },
+    {
+      "name": "All model photos shown rental-nhatrang-fleet-40",
+      "passed": true
+    },
+    {
+      "name": "Rental detail rental-nhatrang-fleet-43",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "All tariff periods and amounts shown rental-nhatrang-fleet-43",
+      "passed": true,
+      "detail": [
+        {
+          "period": "day",
+          "value": "350 000 ₫"
+        },
+        {
+          "period": "3_days",
+          "value": "850 000 ₫"
+        },
+        {
+          "period": "week",
+          "value": "1 700 000 ₫"
+        },
+        {
+          "period": "month",
+          "value": "3 500 000 ₫"
+        }
+      ]
+    },
+    {
+      "name": "All model photos shown rental-nhatrang-fleet-43",
+      "passed": true
+    },
+    {
+      "name": "Rental detail rental-nhatrang-fleet-13",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "All tariff periods and amounts shown rental-nhatrang-fleet-13",
+      "passed": true,
+      "detail": [
+        {
+          "period": "day",
+          "value": "1 500 000 ₫"
+        },
+        {
+          "period": "3_days",
+          "value": "3 800 000 ₫"
+        },
+        {
+          "period": "week",
+          "value": "6 000 000 ₫"
+        },
+        {
+          "period": "month",
+          "value": "12 500 000 ₫"
+        }
+      ]
+    },
+    {
+      "name": "All model photos shown rental-nhatrang-fleet-13",
+      "passed": true
+    },
+    {
+      "name": "Rental detail rental-nhatrang-fleet-14",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "All tariff periods and amounts shown rental-nhatrang-fleet-14",
+      "passed": true,
+      "detail": [
+        {
+          "period": "day",
+          "value": "600 000 ₫"
+        },
+        {
+          "period": "3_days",
+          "value": "1 500 000 ₫"
+        },
+        {
+          "period": "week",
+          "value": "3 000 000 ₫"
+        },
+        {
+          "period": "month",
+          "value": "6 500 000 ₫"
+        }
+      ]
+    },
+    {
+      "name": "All model photos shown rental-nhatrang-fleet-14",
+      "passed": true
+    },
+    {
+      "name": "Rental detail rental-nhatrang-fleet-15",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "All tariff periods and amounts shown rental-nhatrang-fleet-15",
+      "passed": true,
+      "detail": [
+        {
+          "period": "day",
+          "value": "1 100 000 ₫"
+        },
+        {
+          "period": "3_days",
+          "value": "2 500 000 ₫"
+        },
+        {
+          "period": "week",
+          "value": "5 500 000 ₫"
+        },
+        {
+          "period": "month",
+          "value": "11 000 000 ₫"
+        }
+      ]
+    },
+    {
+      "name": "All model photos shown rental-nhatrang-fleet-15",
+      "passed": true
+    },
+    {
+      "name": "Rental detail rental-nhatrang-fleet-16",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "All tariff periods and amounts shown rental-nhatrang-fleet-16",
+      "passed": true,
+      "detail": [
+        {
+          "period": "day",
+          "value": "500 000 ₫"
+        },
+        {
+          "period": "3_days",
+          "value": "1 200 000 ₫"
+        },
+        {
+          "period": "week",
+          "value": "2 500 000 ₫"
+        },
+        {
+          "period": "month",
+          "value": "6 000 000 ₫"
+        }
+      ]
+    },
+    {
+      "name": "All model photos shown rental-nhatrang-fleet-16",
+      "passed": true
+    },
+    {
+      "name": "Rental detail rental-nhatrang-fleet-17",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "All tariff periods and amounts shown rental-nhatrang-fleet-17",
+      "passed": true,
+      "detail": [
+        {
+          "period": "day",
+          "value": "2 000 000 ₫"
+        },
+        {
+          "period": "3_days",
+          "value": "5 000 000 ₫"
+        },
+        {
+          "period": "week",
+          "value": "10 000 000 ₫"
+        },
+        {
+          "period": "month",
+          "value": "20 000 000 ₫"
+        }
+      ]
+    },
+    {
+      "name": "All model photos shown rental-nhatrang-fleet-17",
+      "passed": true
+    },
+    {
+      "name": "Rental detail rental-nhatrang-fleet-18",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "All tariff periods and amounts shown rental-nhatrang-fleet-18",
+      "passed": true,
+      "detail": [
+        {
+          "period": "day",
+          "value": "600 000 ₫"
+        },
+        {
+          "period": "3_days",
+          "value": "1 500 000 ₫"
+        },
+        {
+          "period": "week",
+          "value": "3 000 000 ₫"
+        },
+        {
+          "period": "month",
+          "value": "6 500 000 ₫"
+        }
+      ]
+    },
+    {
+      "name": "All model photos shown rental-nhatrang-fleet-18",
+      "passed": true
+    },
+    {
+      "name": "Rental detail rental-nhatrang-fleet-19",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "All tariff periods and amounts shown rental-nhatrang-fleet-19",
+      "passed": true,
+      "detail": [
+        {
+          "period": "day",
+          "value": "1 000 000 ₫"
+        },
+        {
+          "period": "3_days",
+          "value": "2 700 000 ₫"
+        },
+        {
+          "period": "week",
+          "value": "4 000 000 ₫"
+        },
+        {
+          "period": "month",
+          "value": "8 500 000 ₫"
+        }
+      ]
+    },
+    {
+      "name": "All model photos shown rental-nhatrang-fleet-19",
+      "passed": true
+    },
+    {
+      "name": "Rental detail rental-nhatrang-fleet-20",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "All tariff periods and amounts shown rental-nhatrang-fleet-20",
+      "passed": true,
+      "detail": [
+        {
+          "period": "day",
+          "value": "1 000 000 ₫"
+        },
+        {
+          "period": "3_days",
+          "value": "2 500 000 ₫"
+        },
+        {
+          "period": "week",
+          "value": "3 800 000 ₫"
+        },
+        {
+          "period": "month",
+          "value": "8 500 000 ₫"
+        }
+      ]
+    },
+    {
+      "name": "All model photos shown rental-nhatrang-fleet-20",
+      "passed": true
+    },
+    {
+      "name": "Rental detail rental-nhatrang-fleet-21",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "All tariff periods and amounts shown rental-nhatrang-fleet-21",
+      "passed": true,
+      "detail": [
+        {
+          "period": "day",
+          "value": "1 000 000 ₫"
+        },
+        {
+          "period": "3_days",
+          "value": "2 500 000 ₫"
+        },
+        {
+          "period": "week",
+          "value": "4 000 000 ₫"
+        },
+        {
+          "period": "month",
+          "value": "7 500 000 ₫"
+        }
+      ]
+    },
+    {
+      "name": "All model photos shown rental-nhatrang-fleet-21",
+      "passed": true
+    },
+    {
+      "name": "Rental detail rental-nhatrang-fleet-22",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "All tariff periods and amounts shown rental-nhatrang-fleet-22",
+      "passed": true,
+      "detail": [
+        {
+          "period": "day",
+          "value": "600 000 ₫"
+        },
+        {
+          "period": "3_days",
+          "value": "1 500 000 ₫"
+        },
+        {
+          "period": "week",
+          "value": "3 000 000 ₫"
+        },
+        {
+          "period": "month",
+          "value": "6 500 000 ₫"
+        }
+      ]
+    },
+    {
+      "name": "All model photos shown rental-nhatrang-fleet-22",
+      "passed": true
+    },
+    {
+      "name": "Rental detail rental-nhatrang-fleet-29",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "All tariff periods and amounts shown rental-nhatrang-fleet-29",
+      "passed": true,
+      "detail": [
+        {
+          "period": "day",
+          "value": "400 000 ₫"
+        },
+        {
+          "period": "3_days",
+          "value": "1 000 000 ₫"
+        },
+        {
+          "period": "week",
+          "value": "2 400 000 ₫"
+        },
+        {
+          "period": "month",
+          "value": "4 500 000 ₫"
+        }
+      ]
+    },
+    {
+      "name": "All model photos shown rental-nhatrang-fleet-29",
+      "passed": true
+    },
+    {
+      "name": "Rental detail rental-nhatrang-fleet-41",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "All tariff periods and amounts shown rental-nhatrang-fleet-41",
+      "passed": true,
+      "detail": [
+        {
+          "period": "day",
+          "value": "400 000 ₫"
+        },
+        {
+          "period": "3_days",
+          "value": "1 000 000 ₫"
+        },
+        {
+          "period": "week",
+          "value": "2 500 000 ₫"
+        },
+        {
+          "period": "month",
+          "value": "3 800 000 ₫"
+        }
+      ]
+    },
+    {
+      "name": "All model photos shown rental-nhatrang-fleet-41",
+      "passed": true
+    },
+    {
+      "name": "Rental detail rental-nhatrang-fleet-42",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "All tariff periods and amounts shown rental-nhatrang-fleet-42",
+      "passed": true,
+      "detail": [
+        {
+          "period": "day",
+          "value": "500 000 ₫"
+        },
+        {
+          "period": "3_days",
+          "value": "1 200 000 ₫"
+        },
+        {
+          "period": "week",
+          "value": "2 500 000 ₫"
+        },
+        {
+          "period": "month",
+          "value": "6 000 000 ₫"
+        }
+      ]
+    },
+    {
+      "name": "All model photos shown rental-nhatrang-fleet-42",
+      "passed": true
+    },
+    {
+      "name": "Rental detail rental-nhatrang-victory-city",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "All tariff periods and amounts shown rental-nhatrang-victory-city",
+      "passed": true,
+      "detail": [
+        {
+          "period": "day",
+          "value": "200 000 ₫"
+        },
+        {
+          "period": "3_days",
+          "value": "500 000 ₫"
+        },
+        {
+          "period": "week",
+          "value": "Цена по запросу"
+        },
+        {
+          "period": "month",
+          "value": "Цена по запросу"
+        }
+      ]
+    },
+    {
+      "name": "All model photos shown rental-nhatrang-victory-city",
+      "passed": true
+    },
+    {
+      "name": "Rental detail rental-nhatrang-vinsky-crea50",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "All tariff periods and amounts shown rental-nhatrang-vinsky-crea50",
+      "passed": true,
+      "detail": [
+        {
+          "period": "day",
+          "value": "250 000 ₫"
+        },
+        {
+          "period": "3_days",
+          "value": "600 000 ₫"
+        },
+        {
+          "period": "week",
+          "value": "Цена по запросу"
+        },
+        {
+          "period": "month",
+          "value": "Цена по запросу"
+        }
+      ]
+    },
+    {
+      "name": "All model photos shown rental-nhatrang-vinsky-crea50",
+      "passed": true
+    },
+    {
+      "name": "Rental detail rental-nhatrang-fleet-10",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "All tariff periods and amounts shown rental-nhatrang-fleet-10",
+      "passed": true,
+      "detail": [
+        {
+          "period": "day",
+          "value": "250 000 ₫"
+        },
+        {
+          "period": "3_days",
+          "value": "600 000 ₫"
+        },
+        {
+          "period": "week",
+          "value": "Цена по запросу"
+        },
+        {
+          "period": "month",
+          "value": "Цена по запросу"
+        }
+      ]
+    },
+    {
+      "name": "All model photos shown rental-nhatrang-fleet-10",
+      "passed": true
+    },
+    {
+      "name": "Rental detail rental-nhatrang-fleet-11",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "All tariff periods and amounts shown rental-nhatrang-fleet-11",
+      "passed": true,
+      "detail": [
+        {
+          "period": "day",
+          "value": "350 000 ₫"
+        },
+        {
+          "period": "3_days",
+          "value": "850 000 ₫"
+        },
+        {
+          "period": "week",
+          "value": "1 700 000 ₫"
+        },
+        {
+          "period": "month",
+          "value": "3 500 000 ₫"
+        }
+      ]
+    },
+    {
+      "name": "All model photos shown rental-nhatrang-fleet-11",
+      "passed": true
+    },
+    {
+      "name": "Rental detail rental-nhatrang-yadea-xbull",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "All tariff periods and amounts shown rental-nhatrang-yadea-xbull",
+      "passed": true,
+      "detail": [
+        {
+          "period": "day",
+          "value": "120 000 ₫"
+        },
+        {
+          "period": "3_days",
+          "value": "300 000 ₫"
+        },
+        {
+          "period": "week",
+          "value": "700 000 ₫"
+        },
+        {
+          "period": "month",
+          "value": "1 900 000 ₫"
+        }
+      ]
+    },
+    {
+      "name": "All model photos shown rental-nhatrang-yadea-xbull",
+      "passed": true
+    },
+    {
+      "name": "Rental detail rental-nhatrang-fleet-30",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "All tariff periods and amounts shown rental-nhatrang-fleet-30",
+      "passed": true,
+      "detail": [
+        {
+          "period": "day",
+          "value": "300 000 ₫"
+        },
+        {
+          "period": "3_days",
+          "value": "750 000 ₫"
+        },
+        {
+          "period": "week",
+          "value": "1 500 000 ₫"
+        },
+        {
+          "period": "month",
+          "value": "3 000 000 ₫"
+        }
+      ]
+    },
+    {
+      "name": "All model photos shown rental-nhatrang-fleet-30",
+      "passed": true
+    },
+    {
+      "name": "Rental detail rental-nhatrang-fleet-35",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "All tariff periods and amounts shown rental-nhatrang-fleet-35",
+      "passed": true,
+      "detail": [
+        {
+          "period": "day",
+          "value": "300 000 ₫"
+        },
+        {
+          "period": "3_days",
+          "value": "750 000 ₫"
+        },
+        {
+          "period": "week",
+          "value": "1 500 000 ₫"
+        },
+        {
+          "period": "month",
+          "value": "3 000 000 ₫"
+        }
+      ]
+    },
+    {
+      "name": "All model photos shown rental-nhatrang-fleet-35",
+      "passed": true
+    },
+    {
+      "name": "Rental detail rental-nhatrang-fleet-39",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "All tariff periods and amounts shown rental-nhatrang-fleet-39",
+      "passed": true,
+      "detail": [
+        {
+          "period": "day",
+          "value": "300 000 ₫"
+        },
+        {
+          "period": "3_days",
+          "value": "750 000 ₫"
+        },
+        {
+          "period": "week",
+          "value": "1 500 000 ₫"
+        },
+        {
+          "period": "month",
+          "value": "3 000 000 ₫"
+        }
+      ]
+    },
+    {
+      "name": "All model photos shown rental-nhatrang-fleet-39",
+      "passed": true
+    },
+    {
+      "name": "Rental detail rental-nhatrang-fleet-1",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "All tariff periods and amounts shown rental-nhatrang-fleet-1",
+      "passed": true,
+      "detail": [
+        {
+          "period": "day",
+          "value": "220 000 ₫"
+        },
+        {
+          "period": "3_days",
+          "value": "500 000 ₫"
+        },
+        {
+          "period": "week",
+          "value": "1 100 000 ₫"
+        },
+        {
+          "period": "month",
+          "value": "2 300 000 ₫"
+        }
+      ]
+    },
+    {
+      "name": "All model photos shown rental-nhatrang-fleet-1",
+      "passed": true
+    },
+    {
+      "name": "Rental detail rental-nhatrang-fleet-2",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "All tariff periods and amounts shown rental-nhatrang-fleet-2",
+      "passed": true,
+      "detail": [
+        {
+          "period": "day",
+          "value": "150 000 ₫"
+        },
+        {
+          "period": "3_days",
+          "value": "350 000 ₫"
+        },
+        {
+          "period": "week",
+          "value": "750 000 ₫"
+        },
+        {
+          "period": "month",
+          "value": "2 000 000 ₫"
+        }
+      ]
+    },
+    {
+      "name": "All model photos shown rental-nhatrang-fleet-2",
+      "passed": true
+    },
+    {
+      "name": "Rental detail rental-nhatrang-fleet-3",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "All tariff periods and amounts shown rental-nhatrang-fleet-3",
+      "passed": true,
+      "detail": [
+        {
+          "period": "day",
+          "value": "220 000 ₫"
+        },
+        {
+          "period": "3_days",
+          "value": "500 000 ₫"
+        },
+        {
+          "period": "week",
+          "value": "1 100 000 ₫"
+        },
+        {
+          "period": "month",
+          "value": "2 300 000 ₫"
+        }
+      ]
+    },
+    {
+      "name": "All model photos shown rental-nhatrang-fleet-3",
+      "passed": true
+    },
+    {
+      "name": "Rental detail rental-nhatrang-fleet-4",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "All tariff periods and amounts shown rental-nhatrang-fleet-4",
+      "passed": true,
+      "detail": [
+        {
+          "period": "day",
+          "value": "220 000 ₫"
+        },
+        {
+          "period": "3_days",
+          "value": "500 000 ₫"
+        },
+        {
+          "period": "week",
+          "value": "1 100 000 ₫"
+        },
+        {
+          "period": "month",
+          "value": "2 300 000 ₫"
+        }
+      ]
+    },
+    {
+      "name": "All model photos shown rental-nhatrang-fleet-4",
+      "passed": true
+    },
+    {
+      "name": "Rental detail rental-nhatrang-fleet-5",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "All tariff periods and amounts shown rental-nhatrang-fleet-5",
+      "passed": true,
+      "detail": [
+        {
+          "period": "day",
+          "value": "220 000 ₫"
+        },
+        {
+          "period": "3_days",
+          "value": "500 000 ₫"
+        },
+        {
+          "period": "week",
+          "value": "1 100 000 ₫"
+        },
+        {
+          "period": "month",
+          "value": "2 300 000 ₫"
+        }
+      ]
+    },
+    {
+      "name": "All model photos shown rental-nhatrang-fleet-5",
+      "passed": true
+    },
+    {
+      "name": "Rental detail rental-dalat-honda-leed125",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "All tariff periods and amounts shown rental-dalat-honda-leed125",
+      "passed": true,
+      "detail": [
+        {
+          "period": "day",
+          "value": "150 000 ₫"
+        },
+        {
+          "period": "week",
+          "value": "750 000 ₫"
+        },
+        {
+          "period": "month",
+          "value": "2 000 000 ₫"
+        }
+      ]
+    },
+    {
+      "name": "All model photos shown rental-dalat-honda-leed125",
+      "passed": true
+    },
+    {
+      "name": "Rental detail rental-dalat-sym-wolf125",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "All tariff periods and amounts shown rental-dalat-sym-wolf125",
+      "passed": true,
+      "detail": [
+        {
+          "period": "day",
+          "value": "300 000 ₫"
+        },
+        {
+          "period": "week",
+          "value": "1 600 000 ₫"
+        },
+        {
+          "period": "month",
+          "value": "4 500 000 ₫"
+        }
+      ]
+    },
+    {
+      "name": "All model photos shown rental-dalat-sym-wolf125",
+      "passed": true
+    },
+    {
+      "name": "Rental detail rental-dalat-peugeot-django",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "All tariff periods and amounts shown rental-dalat-peugeot-django",
+      "passed": true,
+      "detail": [
+        {
+          "period": "day",
+          "value": "300 000 ₫"
+        },
+        {
+          "period": "week",
+          "value": "1 600 000 ₫"
+        },
+        {
+          "period": "month",
+          "value": "4 500 000 ₫"
+        }
+      ]
+    },
+    {
+      "name": "All model photos shown rental-dalat-peugeot-django",
+      "passed": true
+    },
+    {
+      "name": "Representative detail dalat 640",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "Representative detail dalat 641",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "Representative detail dalat 980",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "Representative detail dalat 981",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "Representative detail dalat 1440",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "Representative detail nhatrang 640",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "Representative detail nhatrang 641",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "Representative detail nhatrang 980",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "Representative detail nhatrang 981",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "Representative detail nhatrang 1440",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "h1s": 1,
+        "broken": [],
+        "remote": [],
+        "ids": [
+          "menuOpen",
+          "drawerBackdrop",
+          "drawer",
+          "menuClose",
+          "rates",
+          "conditions",
+          "photos",
+          "models",
+          "contacts",
+          "request",
+          "_R_"
+        ],
+        "priceOverflow": [],
+        "anchors": []
+      }
+    },
+    {
+      "name": "No runtime exceptions",
+      "passed": true,
+      "detail": []
+    }
+  ],
+  "errors": []
+}

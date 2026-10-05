@@ -1,3 +1,4 @@
+import {PublicChrome} from '@/components/shared/PublicChrome';
 import { SafeLink as Link } from '@/components/SafeLink';
 import type { ExportedPage as Page, Inline } from '@/lib/exported-content';
 import { pageIndex } from '@/lib/exported-content';
@@ -18,13 +19,12 @@ function InlineContent({ nodes }: { nodes: Inline[] }) {
 }
 export function ExportedContentPage({ page }: { page: Page }) {
   const ru = page.language === 'ru';
-  const home = ru ? '/ru' : '/';
   const counterpart = ru ? page.route.replace(/^\/ru\/?/, '/') : '/ru' + (page.route === '/' ? '' : page.route);
   const other = pageIndex.some(item => item.route === counterpart);
   const blockIds = new Set(page.blocks.flatMap(block => block.id ? [block.id] : []));
   const uniqueLinks = Array.from(new Map(page.links.filter(link => link.href).map(link => [link.href, link])).values());
-  return <div className="export_page" lang={page.language}>
-    <header className="export_nav"><Link prefetch={false} href={home}>Enduro Vietnam</Link><nav aria-label={ru ? 'Навигация' : 'Navigation'}><Link prefetch={false} href={ru ? '/ru/all-tours' : '/all-tours'}>{ru ? 'Все туры' : 'All tours'}</Link><Link prefetch={false} href="/site-map">{ru ? 'Все страницы' : 'All pages'}</Link>{other && <Link prefetch={false} href={counterpart} hrefLang={ru ? 'en' : 'ru'}>{ru ? 'English' : 'Русский'}</Link>}</nav></header>
+  return <PublicChrome locale={ru?'ru':'en'} alternate={other?counterpart:undefined}><div className="export_page" lang={page.language}>
+
     <main className="export_article">
       {!page.blocks.some(block => block.type === 'h1') && <h1>{page.title}</h1>}
       {page.anchors.filter(id => !blockIds.has(id)).map(id => <span key={id} id={id}/>)}
@@ -44,5 +44,5 @@ export function ExportedContentPage({ page }: { page: Page }) {
       {page.images.length > 0 && <section className="export_gallery" aria-label={ru ? 'Фотографии' : 'Photos'}>{page.images.map(image => <img key={image.src} src={image.src} alt={image.alt} loading="lazy"/>)}</section>}
       {uniqueLinks.length > 0 && <nav className="export_links" aria-label={ru ? 'Ссылки страницы' : 'Page links'}><h2>{ru ? 'Ссылки' : 'Links'}</h2><ul>{uniqueLinks.map(link => <li key={link.href}><Link prefetch={false} href={link.href!}>{link.text || link.href}</Link></li>)}</ul></nav>}
     </main>
-  </div>;
+  </div></PublicChrome>;
 }

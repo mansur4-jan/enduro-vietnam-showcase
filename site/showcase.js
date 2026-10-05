@@ -2,16 +2,17 @@
 (()=>{
 const prefix='/enduro-vietnam-showcase',localPath=location.pathname.slice(prefix.length).replace(/\/$/,'')||'/',ru=localPath.startsWith('/ru');
 document.addEventListener('click',e=>{const a=e.target.closest('a[href]');if(!a)return;let href=a.getAttribute('href');if(href.startsWith('/')&&!href.startsWith('//')&&!href.startsWith(prefix+'/')){a.setAttribute('href',prefix+href);href=prefix+href;}if(href.startsWith(prefix+'/admin')||href.startsWith(prefix+'/api')){e.preventDefault();location.href='https://t.me/mototourvietnam';}},true);
+const search=document.querySelector('.home-search');if(search){const choice=search.querySelector('select:not([name])');choice?.addEventListener('change',()=>{search.action=prefix+(ru?'/ru':'')+(choice.value==='rentals'?'/rentals/motorbikes':'/all-tours');});}
 const form=document.querySelector('.catalog-filters');if(!form)return;
 fetch(prefix+'/catalog.json').then(r=>r.json()).then(data=>{
 const inventory=data.catalogs[localPath]||[],params=new URLSearchParams(location.search);form.querySelectorAll('[name]').forEach(e=>{if(params.has(e.name)&&!e.disabled)e.value=params.get(e.name);});
 const selected=k=>params.get(k)||'',fixedCity=form.querySelector('[name=city]')?.disabled?form.querySelector('[name=city]').value:'',fixedCategory=form.querySelector('[name=category]')?.disabled?form.querySelector('[name=category]').value:'';
 let entries=inventory.map(c=>({card:c,o:data.offers.find(o=>o.id===c.id)})).filter(x=>x.o);
-entries=entries.filter(({o})=>{const t=o.translations[ru?'ru':'en'],text=JSON.stringify(t).toLowerCase()+' '+o.city;const city=fixedCity||selected('city'),category=fixedCategory||selected('category'),unit=selected('unit'),tariff=unit&&o.type==='rental'?o.tariffs?.find(t=>t.period===unit):null,c=tariff?{...tariff,unit:tariff.period}:o.commerce,v=o.vehicle||{},duration=o.duration,currency=selected('currency'),comparable=currency&&unit,scale=currency==='USD'?100:1;
+entries=entries.filter(({o})=>{const t=o.translations[ru?'ru':'en'],destination=data.destinations?.find(d=>d.id===o.city),text=[t?.title,t?.description,destination?.names.ru,destination?.names.en,...(destination?.aliases||[]),o.city].join(' ').toLowerCase();const city=fixedCity||selected('city'),category=fixedCategory||selected('category'),unit=selected('unit'),tariff=unit&&o.type==='rental'?o.tariffs?.find(t=>t.period===unit):null,c=tariff?{...tariff,unit:tariff.period}:o.commerce,v=o.vehicle||{},duration=o.duration,currency=selected('currency'),comparable=currency&&unit,scale=currency==='USD'?100:1;
 return (!selected('q')||text.includes(selected('q').toLowerCase()))&&(!city||o.city===city||o.endCity===city)&&(!category||o.category===category||o.categories.includes(category))&&(!selected('type')||o.type===selected('type'))&&(!currency||c.currency===currency)&&(!unit||c.unit===unit)&&(!comparable||!selected('priceMin')||c.amountMinor!==null&&c.amountMinor>=Number(selected('priceMin'))*scale)&&(!comparable||!selected('priceMax')||c.amountMinor!==null&&c.amountMinor<=Number(selected('priceMax'))*scale)&&(!selected('durationMin')||duration&&duration.unit===(selected('durationUnit')||'hours')&&duration.value>=Number(selected('durationMin')))&&(!selected('durationMax')||duration&&duration.unit===(selected('durationUnit')||'hours')&&duration.value<=Number(selected('durationMax')))&&(!selected('level')||o.level?.toLowerCase().includes(selected('level').toLowerCase()))&&(!selected('engineMin')||typeof v.engineCC==='number'&&v.engineCC>=Number(selected('engineMin')))&&(!selected('seats')||typeof v.seats==='number'&&v.seats>=Number(selected('seats')))&&(!selected('gearbox')||String(v.gearbox||'').toLowerCase()===selected('gearbox'))&&(!selected('drive')||typeof v.selfDrive==='boolean'&&v.selfDrive===(selected('drive')==='self'));});
 if(selected('sort')==='price'&&selected('currency')&&selected('unit'))entries.sort((a,b)=>{const amount=o=>(o.type==='rental'?o.tariffs?.find(t=>t.period===selected('unit')):o.commerce)?.amountMinor??Infinity;return amount(a.o)-amount(b.o)||a.o.id.localeCompare(b.o.id);});
 const count=document.querySelector('[data-results]')||form.parentElement.querySelector('p[aria-live]'),pages=Math.ceil(entries.length/9),page=Math.max(1,Number(selected('page'))||1);if(count){count.textContent=ru?'Найдено '+entries.length+' позиций':entries.length+' offers';count.dataset.results=entries.length;}
-let grid=document.querySelector('#rentalGrid,.offering-grid');if(!grid){grid=document.createElement('div');grid.className=localPath.includes('rent')?'rental-grid':'offering-grid';count?.after(grid);}grid.innerHTML=entries.slice((page-1)*9,page*9).map(c=>c.card.html).join('');document.querySelector('.catalog-empty')?.remove();if(!entries.length)grid.textContent=ru?'Предложения не найдены. Измените фильтры.':'No matching offers. Try different filters.';
+let grid=document.querySelector('#rentalGrid,.offering-grid');if(!grid){grid=document.createElement('div');grid.className=localPath.includes('rent')?'rental-grid':'offering-grid';count?.after(grid);}grid.innerHTML=entries.slice((page-1)*9,page*9).map(c=>{if(!selected('unit')||c.o.type!=='rental')return c.card.html;const rate=c.o.tariffs?.find(t=>t.period===selected('unit'));if(!rate)return c.card.html;const template=document.createElement('template');template.innerHTML=c.card.html;const amount=template.content.querySelector('.card-body>p:not(.eyebrow)');if(amount){const units={day:ru?'день':'day',week:ru?'неделя':'week',month:ru?'месяц':'month','3_days':ru?'3 дня':'3 days'};amount.textContent=rate.amountMinor===null?(ru?'Цена по запросу':'Price on request'):(ru?'от ':'from ')+new Intl.NumberFormat(ru?'ru-RU':'en-US',{style:'currency',currency:rate.currency,maximumFractionDigits:rate.currency==='VND'?0:2}).format(rate.currency==='USD'?rate.amountMinor/100:rate.amountMinor)+' / '+(units[rate.period]||rate.period);}return template.innerHTML;}).join('');document.querySelector('.catalog-empty')?.remove();if(!entries.length)grid.textContent=ru?'Предложения не найдены. Измените фильтры.':'No matching offers. Try different filters.';
 let pagination=document.querySelector('.pagination');if(!pagination){pagination=document.createElement('nav');pagination.className='pagination';pagination.setAttribute('aria-label',ru?'Страницы каталога':'Catalog pages');grid.after(pagination);}pagination.replaceChildren();for(let n=1;n<=pages;n++){const a=document.createElement('a'),q=new URLSearchParams(params);q.set('page',n);a.href=prefix+localPath+'/?'+q+(localPath.includes('rent')?'#models':'');a.textContent=n;if(n===page)a.setAttribute('aria-current','page');pagination.append(a);}
 window.showcaseCatalogReady=true;
 }).catch(()=>{window.showcaseCatalogReady=false;});
@@ -153,6 +154,42 @@ window.showcaseCatalogReady=true;
         return; e.preventDefault(); window.dispatchEvent(new CustomEvent('rental-select', { detail: a.dataset.selectRental })); root.querySelector('#contacts')?.scrollIntoView({ block: 'start', behavior: matchMedia('(prefers-reduced-motion:reduce)').matches ? 'instant' : 'smooth' }); }, { signal });
     root.dataset.rentalReady = 'true';
     return () => { clearTimeout(timer); controller.abort(); document.body.style.overflow = previous; delete root.dataset.rentalReady; };
+})();
+
+(() => {
+    const root = document.querySelector('.public-page');
+    if (!root)
+        return;
+    const drawer = root.querySelector('#publicDrawer'), backdrop = root.querySelector('#publicBackdrop'), trigger = root.querySelector('#publicMenuOpen'), close = root.querySelector('#publicMenuClose'), controller = new AbortController(), signal = controller.signal, previous = document.body.style.overflow;
+    let timer;
+    function menu(open, restore = true) { clearTimeout(timer); drawer.classList.toggle('open', open); backdrop.classList.toggle('open', open); drawer.inert = !open; drawer.setAttribute('aria-hidden', String(!open)); trigger.setAttribute('aria-expanded', String(open)); document.body.style.overflow = open ? 'hidden' : previous; if (open)
+        timer = setTimeout(() => close.focus(), 250);
+    else if (restore)
+        trigger.focus(); }
+    trigger.addEventListener('click', () => menu(true), { signal });
+    close.addEventListener('click', () => menu(false), { signal });
+    backdrop.addEventListener('click', () => menu(false), { signal });
+    drawer.querySelectorAll('a').forEach(a => a.addEventListener('click', () => menu(false, false), { signal }));
+    document.addEventListener('keydown', e => { if (drawer.inert)
+        return; if (e.key === 'Escape') {
+        e.preventDefault();
+        menu(false);
+    } if (e.key === 'Tab') {
+        const nodes = [...drawer.querySelectorAll('a[href],button')], first = nodes[0], last = nodes.at(-1);
+        if (e.shiftKey && document.activeElement === first) {
+            e.preventDefault();
+            last?.focus();
+        }
+        else if (!e.shiftKey && document.activeElement === last) {
+            e.preventDefault();
+            first.focus();
+        }
+    } }, { signal });
+    const scroll = () => root.querySelector('.public-header')?.classList.toggle('scrolled', scrollY > 40);
+    window.addEventListener('scroll', scroll, { signal, passive: true });
+    scroll();
+    root.dataset.publicReady = 'true';
+    return () => { clearTimeout(timer); controller.abort(); document.body.style.overflow = previous; delete root.dataset.publicReady; };
 })();
 
 (()=>{

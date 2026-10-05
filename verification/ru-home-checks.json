@@ -1,0 +1,3059 @@
+{
+  "checkedAt": "2026-10-04T13:57:06.323Z",
+  "widths": [
+    360,
+    520,
+    820,
+    1024,
+    1100,
+    1280,
+    1440
+  ],
+  "pages": [
+    {
+      "width": 360,
+      "original": {
+        ".container.header-in": {
+          "width": 336,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "18px",
+          "columns": "188.969px 129.031px",
+          "color": "rgb(255, 255, 255)"
+        },
+        ".hero-content": {
+          "width": 336,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "100px 0px 22px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgb(255, 255, 255)"
+        },
+        ".hero h1": {
+          "width": 336,
+          "fontSize": "42px",
+          "fontWeight": "700",
+          "lineHeight": "42.84px",
+          "fontFamily": "Unbounded, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgb(255, 255, 255)"
+        },
+        ".hero-claim": {
+          "width": 336,
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "lineHeight": "normal",
+          "fontFamily": "Unbounded, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgba(255, 255, 255, 0.88)"
+        },
+        ".hero-copy": {
+          "width": 336,
+          "fontSize": "11px",
+          "fontWeight": "400",
+          "lineHeight": "18.15px",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgba(255, 255, 255, 0.7)"
+        },
+        ".finder": {
+          "width": 336,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "336px",
+          "color": "rgb(20, 23, 20)"
+        },
+        ".activity-grid": {
+          "width": 336,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "8px",
+          "columns": "164px 164px",
+          "color": "rgb(20, 23, 20)"
+        },
+        ".format-card": {
+          "width": 164,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgb(255, 255, 255)"
+        },
+        ".rental-info-grid": {
+          "width": 336,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "20px",
+          "columns": "336px",
+          "color": "rgb(20, 23, 20)"
+        },
+        ".immersive-content": {
+          "width": 336,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "48px 0px",
+          "gap": "24px",
+          "columns": "336px",
+          "color": "rgb(255, 255, 255)"
+        },
+        ".section-head h2": {
+          "width": 336,
+          "fontSize": "31px",
+          "fontWeight": "700",
+          "lineHeight": "31.62px",
+          "fontFamily": "Unbounded, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgb(20, 23, 20)"
+        },
+        ".guide-grid": {
+          "width": 350,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px 14px 0px 0px",
+          "gap": "10px",
+          "columns": "repeat(2, minmax(0px, 1fr))",
+          "color": "rgb(20, 23, 20)"
+        },
+        ".faq-grid": {
+          "width": 336,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "28px",
+          "columns": "336px",
+          "color": "rgb(20, 23, 20)"
+        }
+      },
+      "rebuilt": {
+        ".container.header-in": {
+          "width": 336,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "18px",
+          "columns": "188.969px 129.031px",
+          "color": "rgb(255, 255, 255)"
+        },
+        ".hero-content": {
+          "width": 336,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "100px 0px 22px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgb(255, 255, 255)"
+        },
+        ".hero h1": {
+          "width": 336,
+          "fontSize": "42px",
+          "fontWeight": "700",
+          "lineHeight": "42.84px",
+          "fontFamily": "Unbounded, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgb(255, 255, 255)"
+        },
+        ".hero-claim": {
+          "width": 336,
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "lineHeight": "normal",
+          "fontFamily": "Unbounded, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgba(255, 255, 255, 0.88)"
+        },
+        ".hero-copy": {
+          "width": 336,
+          "fontSize": "11px",
+          "fontWeight": "400",
+          "lineHeight": "18.15px",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgba(255, 255, 255, 0.7)"
+        },
+        ".finder": {
+          "width": 336,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "336px",
+          "color": "rgb(20, 23, 20)"
+        },
+        ".activity-grid": {
+          "width": 336,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "8px",
+          "columns": "164px 164px",
+          "color": "rgb(20, 23, 20)"
+        },
+        ".format-card": {
+          "width": 164,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgb(255, 255, 255)"
+        },
+        ".rental-info-grid": {
+          "width": 336,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "20px",
+          "columns": "336px",
+          "color": "rgb(20, 23, 20)"
+        },
+        ".immersive-content": {
+          "width": 336,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "48px 0px",
+          "gap": "24px",
+          "columns": "336px",
+          "color": "rgb(255, 255, 255)"
+        },
+        ".section-head h2": {
+          "width": 336,
+          "fontSize": "31px",
+          "fontWeight": "700",
+          "lineHeight": "31.62px",
+          "fontFamily": "Unbounded, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgb(20, 23, 20)"
+        },
+        ".guide-grid": {
+          "width": 350,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px 14px 0px 0px",
+          "gap": "10px",
+          "columns": "repeat(2, minmax(0px, 1fr))",
+          "color": "rgb(20, 23, 20)"
+        },
+        ".faq-grid": {
+          "width": 336,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "28px",
+          "columns": "336px",
+          "color": "rgb(20, 23, 20)"
+        }
+      },
+      "health": {
+        "overflow": false,
+        "broken": [],
+        "h1s": 1,
+        "sections": [
+          "",
+          "cities",
+          "formats",
+          "rentals",
+          "routes",
+          "start",
+          "prices",
+          "",
+          "guides",
+          "faq",
+          "contacts"
+        ]
+      }
+    },
+    {
+      "width": 520,
+      "original": {
+        ".container.header-in": {
+          "width": 496,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "18px",
+          "columns": "348.969px 129.031px",
+          "color": "rgb(255, 255, 255)"
+        },
+        ".hero-content": {
+          "width": 496,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "100px 0px 22px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgb(255, 255, 255)"
+        },
+        ".hero h1": {
+          "width": 496,
+          "fontSize": "42px",
+          "fontWeight": "700",
+          "lineHeight": "42.84px",
+          "fontFamily": "Unbounded, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgb(255, 255, 255)"
+        },
+        ".hero-claim": {
+          "width": 496,
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "lineHeight": "normal",
+          "fontFamily": "Unbounded, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgba(255, 255, 255, 0.88)"
+        },
+        ".hero-copy": {
+          "width": 496,
+          "fontSize": "11px",
+          "fontWeight": "400",
+          "lineHeight": "18.15px",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgba(255, 255, 255, 0.7)"
+        },
+        ".finder": {
+          "width": 496,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "496px",
+          "color": "rgb(20, 23, 20)"
+        },
+        ".activity-grid": {
+          "width": 496,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "8px",
+          "columns": "244px 244px",
+          "color": "rgb(20, 23, 20)"
+        },
+        ".format-card": {
+          "width": 244,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgb(255, 255, 255)"
+        },
+        ".rental-info-grid": {
+          "width": 496,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "20px",
+          "columns": "496px",
+          "color": "rgb(20, 23, 20)"
+        },
+        ".immersive-content": {
+          "width": 496,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "48px 0px",
+          "gap": "24px",
+          "columns": "496px",
+          "color": "rgb(255, 255, 255)"
+        },
+        ".section-head h2": {
+          "width": 496,
+          "fontSize": "31px",
+          "fontWeight": "700",
+          "lineHeight": "31.62px",
+          "fontFamily": "Unbounded, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgb(20, 23, 20)"
+        },
+        ".guide-grid": {
+          "width": 510,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px 14px 0px 0px",
+          "gap": "10px",
+          "columns": "repeat(2, minmax(0px, 1fr))",
+          "color": "rgb(20, 23, 20)"
+        },
+        ".faq-grid": {
+          "width": 496,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "28px",
+          "columns": "496px",
+          "color": "rgb(20, 23, 20)"
+        }
+      },
+      "rebuilt": {
+        ".container.header-in": {
+          "width": 496,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "18px",
+          "columns": "348.969px 129.031px",
+          "color": "rgb(255, 255, 255)"
+        },
+        ".hero-content": {
+          "width": 496,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "100px 0px 22px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgb(255, 255, 255)"
+        },
+        ".hero h1": {
+          "width": 496,
+          "fontSize": "42px",
+          "fontWeight": "700",
+          "lineHeight": "42.84px",
+          "fontFamily": "Unbounded, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgb(255, 255, 255)"
+        },
+        ".hero-claim": {
+          "width": 496,
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "lineHeight": "normal",
+          "fontFamily": "Unbounded, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgba(255, 255, 255, 0.88)"
+        },
+        ".hero-copy": {
+          "width": 496,
+          "fontSize": "11px",
+          "fontWeight": "400",
+          "lineHeight": "18.15px",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgba(255, 255, 255, 0.7)"
+        },
+        ".finder": {
+          "width": 496,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "496px",
+          "color": "rgb(20, 23, 20)"
+        },
+        ".activity-grid": {
+          "width": 496,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "8px",
+          "columns": "244px 244px",
+          "color": "rgb(20, 23, 20)"
+        },
+        ".format-card": {
+          "width": 244,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgb(255, 255, 255)"
+        },
+        ".rental-info-grid": {
+          "width": 496,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "20px",
+          "columns": "496px",
+          "color": "rgb(20, 23, 20)"
+        },
+        ".immersive-content": {
+          "width": 496,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "48px 0px",
+          "gap": "24px",
+          "columns": "496px",
+          "color": "rgb(255, 255, 255)"
+        },
+        ".section-head h2": {
+          "width": 496,
+          "fontSize": "31px",
+          "fontWeight": "700",
+          "lineHeight": "31.62px",
+          "fontFamily": "Unbounded, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgb(20, 23, 20)"
+        },
+        ".guide-grid": {
+          "width": 510,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px 14px 0px 0px",
+          "gap": "10px",
+          "columns": "repeat(2, minmax(0px, 1fr))",
+          "color": "rgb(20, 23, 20)"
+        },
+        ".faq-grid": {
+          "width": 496,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "28px",
+          "columns": "496px",
+          "color": "rgb(20, 23, 20)"
+        }
+      },
+      "health": {
+        "overflow": false,
+        "broken": [],
+        "h1s": 1,
+        "sections": [
+          "",
+          "cities",
+          "formats",
+          "rentals",
+          "routes",
+          "start",
+          "prices",
+          "",
+          "guides",
+          "faq",
+          "contacts"
+        ]
+      }
+    },
+    {
+      "width": 820,
+      "original": {
+        ".container.header-in": {
+          "width": 792,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "18px",
+          "columns": "644.969px 129.031px",
+          "color": "rgb(255, 255, 255)"
+        },
+        ".hero-content": {
+          "width": 792,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "100px 0px 22px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgb(255, 255, 255)"
+        },
+        ".hero h1": {
+          "width": 792,
+          "fontSize": "68px",
+          "fontWeight": "700",
+          "lineHeight": "69.36px",
+          "fontFamily": "Unbounded, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgb(255, 255, 255)"
+        },
+        ".hero-claim": {
+          "width": 792,
+          "fontSize": "18px",
+          "fontWeight": "600",
+          "lineHeight": "normal",
+          "fontFamily": "Unbounded, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgba(255, 255, 255, 0.88)"
+        },
+        ".hero-copy": {
+          "width": 520,
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "lineHeight": "19.8px",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgba(255, 255, 255, 0.7)"
+        },
+        ".finder": {
+          "width": 792,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "792px",
+          "color": "rgb(20, 23, 20)"
+        },
+        ".activity-grid": {
+          "width": 792,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "8px",
+          "columns": "392px 392px",
+          "color": "rgb(20, 23, 20)"
+        },
+        ".format-card": {
+          "width": 392,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgb(255, 255, 255)"
+        },
+        ".rental-info-grid": {
+          "width": 792,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "20px",
+          "columns": "792px",
+          "color": "rgb(20, 23, 20)"
+        },
+        ".immersive-content": {
+          "width": 792,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "48px 0px",
+          "gap": "24px",
+          "columns": "792px",
+          "color": "rgb(255, 255, 255)"
+        },
+        ".section-head h2": {
+          "width": 792,
+          "fontSize": "34.44px",
+          "fontWeight": "700",
+          "lineHeight": "35.1288px",
+          "fontFamily": "Unbounded, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgb(20, 23, 20)"
+        },
+        ".guide-grid": {
+          "width": 806,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px 14px 0px 0px",
+          "gap": "10px",
+          "columns": "repeat(2, minmax(0px, 1fr))",
+          "color": "rgb(20, 23, 20)"
+        },
+        ".faq-grid": {
+          "width": 792,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "28px",
+          "columns": "792px",
+          "color": "rgb(20, 23, 20)"
+        }
+      },
+      "rebuilt": {
+        ".container.header-in": {
+          "width": 792,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "18px",
+          "columns": "644.969px 129.031px",
+          "color": "rgb(255, 255, 255)"
+        },
+        ".hero-content": {
+          "width": 792,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "100px 0px 22px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgb(255, 255, 255)"
+        },
+        ".hero h1": {
+          "width": 792,
+          "fontSize": "68px",
+          "fontWeight": "700",
+          "lineHeight": "69.36px",
+          "fontFamily": "Unbounded, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgb(255, 255, 255)"
+        },
+        ".hero-claim": {
+          "width": 792,
+          "fontSize": "18px",
+          "fontWeight": "600",
+          "lineHeight": "normal",
+          "fontFamily": "Unbounded, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgba(255, 255, 255, 0.88)"
+        },
+        ".hero-copy": {
+          "width": 520,
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "lineHeight": "19.8px",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgba(255, 255, 255, 0.7)"
+        },
+        ".finder": {
+          "width": 792,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "792px",
+          "color": "rgb(20, 23, 20)"
+        },
+        ".activity-grid": {
+          "width": 792,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "8px",
+          "columns": "392px 392px",
+          "color": "rgb(20, 23, 20)"
+        },
+        ".format-card": {
+          "width": 392,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgb(255, 255, 255)"
+        },
+        ".rental-info-grid": {
+          "width": 792,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "20px",
+          "columns": "792px",
+          "color": "rgb(20, 23, 20)"
+        },
+        ".immersive-content": {
+          "width": 792,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "48px 0px",
+          "gap": "24px",
+          "columns": "792px",
+          "color": "rgb(255, 255, 255)"
+        },
+        ".section-head h2": {
+          "width": 792,
+          "fontSize": "34.44px",
+          "fontWeight": "700",
+          "lineHeight": "35.1288px",
+          "fontFamily": "Unbounded, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgb(20, 23, 20)"
+        },
+        ".guide-grid": {
+          "width": 806,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px 14px 0px 0px",
+          "gap": "10px",
+          "columns": "repeat(2, minmax(0px, 1fr))",
+          "color": "rgb(20, 23, 20)"
+        },
+        ".faq-grid": {
+          "width": 792,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "28px",
+          "columns": "792px",
+          "color": "rgb(20, 23, 20)"
+        }
+      },
+      "health": {
+        "overflow": false,
+        "broken": [],
+        "h1s": 1,
+        "sections": [
+          "",
+          "cities",
+          "formats",
+          "rentals",
+          "routes",
+          "start",
+          "prices",
+          "",
+          "guides",
+          "faq",
+          "contacts"
+        ]
+      }
+    },
+    {
+      "width": 1024,
+      "original": {
+        ".container.header-in": {
+          "width": 984,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "18px",
+          "columns": "178px 460.406px 309.594px",
+          "color": "rgb(255, 255, 255)"
+        },
+        ".hero-content": {
+          "width": 984,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "110px 0px 30px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgb(255, 255, 255)"
+        },
+        ".hero h1": {
+          "width": 984,
+          "fontSize": "64.512px",
+          "fontWeight": "700",
+          "lineHeight": "65.8022px",
+          "fontFamily": "Unbounded, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgb(255, 255, 255)"
+        },
+        ".hero-claim": {
+          "width": 850,
+          "fontSize": "21.504px",
+          "fontWeight": "600",
+          "lineHeight": "normal",
+          "fontFamily": "Unbounded, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgba(255, 255, 255, 0.88)"
+        },
+        ".hero-copy": {
+          "width": 680,
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "lineHeight": "23.1px",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgba(255, 255, 255, 0.7)"
+        },
+        ".finder": {
+          "width": 984,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "378.594px 435.391px 170.016px",
+          "color": "rgb(20, 23, 20)"
+        },
+        ".activity-grid": {
+          "width": 984,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "12px",
+          "columns": "320px 320px 320px",
+          "color": "rgb(20, 23, 20)"
+        },
+        ".format-card": {
+          "width": 320,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgb(255, 255, 255)"
+        },
+        ".rental-info-grid": {
+          "width": 984,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "20px",
+          "columns": "984px",
+          "color": "rgb(20, 23, 20)"
+        },
+        ".immersive-content": {
+          "width": 984,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "56px 0px",
+          "gap": "70px",
+          "columns": "457px 457px",
+          "color": "rgb(255, 255, 255)"
+        },
+        ".section-head h2": {
+          "width": 980,
+          "fontSize": "43.008px",
+          "fontWeight": "700",
+          "lineHeight": "43.8682px",
+          "fontFamily": "Unbounded, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgb(20, 23, 20)"
+        },
+        ".guide-grid": {
+          "width": 984,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "14px",
+          "columns": "485px 485px",
+          "color": "rgb(20, 23, 20)"
+        },
+        ".faq-grid": {
+          "width": 984,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "70px",
+          "columns": "365.594px 548.406px",
+          "color": "rgb(20, 23, 20)"
+        }
+      },
+      "rebuilt": {
+        ".container.header-in": {
+          "width": 984,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "18px",
+          "columns": "178px 460.406px 309.594px",
+          "color": "rgb(255, 255, 255)"
+        },
+        ".hero-content": {
+          "width": 984,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "110px 0px 30px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgb(255, 255, 255)"
+        },
+        ".hero h1": {
+          "width": 984,
+          "fontSize": "64.512px",
+          "fontWeight": "700",
+          "lineHeight": "65.8022px",
+          "fontFamily": "Unbounded, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgb(255, 255, 255)"
+        },
+        ".hero-claim": {
+          "width": 850,
+          "fontSize": "21.504px",
+          "fontWeight": "600",
+          "lineHeight": "normal",
+          "fontFamily": "Unbounded, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgba(255, 255, 255, 0.88)"
+        },
+        ".hero-copy": {
+          "width": 680,
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "lineHeight": "23.1px",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgba(255, 255, 255, 0.7)"
+        },
+        ".finder": {
+          "width": 984,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "378.594px 435.391px 170.016px",
+          "color": "rgb(20, 23, 20)"
+        },
+        ".activity-grid": {
+          "width": 984,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "12px",
+          "columns": "320px 320px 320px",
+          "color": "rgb(20, 23, 20)"
+        },
+        ".format-card": {
+          "width": 320,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgb(255, 255, 255)"
+        },
+        ".rental-info-grid": {
+          "width": 984,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "20px",
+          "columns": "443.438px 520.562px",
+          "color": "rgb(20, 23, 20)"
+        },
+        ".immersive-content": {
+          "width": 984,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "56px 0px",
+          "gap": "70px",
+          "columns": "457px 457px",
+          "color": "rgb(255, 255, 255)"
+        },
+        ".section-head h2": {
+          "width": 980,
+          "fontSize": "43.008px",
+          "fontWeight": "700",
+          "lineHeight": "43.8682px",
+          "fontFamily": "Unbounded, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgb(20, 23, 20)"
+        },
+        ".guide-grid": {
+          "width": 984,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "14px",
+          "columns": "485px 485px",
+          "color": "rgb(20, 23, 20)"
+        },
+        ".faq-grid": {
+          "width": 984,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "70px",
+          "columns": "365.594px 548.406px",
+          "color": "rgb(20, 23, 20)"
+        }
+      },
+      "health": {
+        "overflow": false,
+        "broken": [],
+        "h1s": 1,
+        "sections": [
+          "",
+          "cities",
+          "formats",
+          "rentals",
+          "routes",
+          "start",
+          "prices",
+          "",
+          "guides",
+          "faq",
+          "contacts"
+        ]
+      }
+    },
+    {
+      "width": 1100,
+      "original": {
+        ".container.header-in": {
+          "width": 1060,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "18px",
+          "columns": "178px 536.406px 309.594px",
+          "color": "rgb(255, 255, 255)"
+        },
+        ".hero-content": {
+          "width": 1060,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "110px 0px 30px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgb(255, 255, 255)"
+        },
+        ".hero h1": {
+          "width": 1050,
+          "fontSize": "69.3px",
+          "fontWeight": "700",
+          "lineHeight": "70.686px",
+          "fontFamily": "Unbounded, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgb(255, 255, 255)"
+        },
+        ".hero-claim": {
+          "width": 850,
+          "fontSize": "23.1px",
+          "fontWeight": "600",
+          "lineHeight": "normal",
+          "fontFamily": "Unbounded, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgba(255, 255, 255, 0.88)"
+        },
+        ".hero-copy": {
+          "width": 680,
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "lineHeight": "23.1px",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgba(255, 255, 255, 0.7)"
+        },
+        ".finder": {
+          "width": 1040,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "404.641px 465.344px 170.016px",
+          "color": "rgb(20, 23, 20)"
+        },
+        ".activity-grid": {
+          "width": 1060,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "12px",
+          "columns": "345.328px 345.328px 345.344px",
+          "color": "rgb(20, 23, 20)"
+        },
+        ".format-card": {
+          "width": 345.328125,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgb(255, 255, 255)"
+        },
+        ".rental-info-grid": {
+          "width": 1060,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "20px",
+          "columns": "478.391px 561.609px",
+          "color": "rgb(20, 23, 20)"
+        },
+        ".immersive-content": {
+          "width": 1060,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "56px 0px",
+          "gap": "70px",
+          "columns": "495px 495px",
+          "color": "rgb(255, 255, 255)"
+        },
+        ".section-head h2": {
+          "width": 980,
+          "fontSize": "46.2px",
+          "fontWeight": "700",
+          "lineHeight": "47.124px",
+          "fontFamily": "Unbounded, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgb(20, 23, 20)"
+        },
+        ".guide-grid": {
+          "width": 1060,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "14px",
+          "columns": "523px 523px",
+          "color": "rgb(20, 23, 20)"
+        },
+        ".faq-grid": {
+          "width": 1060,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "70px",
+          "columns": "396px 594px",
+          "color": "rgb(20, 23, 20)"
+        }
+      },
+      "rebuilt": {
+        ".container.header-in": {
+          "width": 1060,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "18px",
+          "columns": "178px 536.406px 309.594px",
+          "color": "rgb(255, 255, 255)"
+        },
+        ".hero-content": {
+          "width": 1060,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "110px 0px 30px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgb(255, 255, 255)"
+        },
+        ".hero h1": {
+          "width": 1050,
+          "fontSize": "69.3px",
+          "fontWeight": "700",
+          "lineHeight": "70.686px",
+          "fontFamily": "Unbounded, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgb(255, 255, 255)"
+        },
+        ".hero-claim": {
+          "width": 850,
+          "fontSize": "23.1px",
+          "fontWeight": "600",
+          "lineHeight": "normal",
+          "fontFamily": "Unbounded, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgba(255, 255, 255, 0.88)"
+        },
+        ".hero-copy": {
+          "width": 680,
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "lineHeight": "23.1px",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgba(255, 255, 255, 0.7)"
+        },
+        ".finder": {
+          "width": 1040,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "404.641px 465.344px 170.016px",
+          "color": "rgb(20, 23, 20)"
+        },
+        ".activity-grid": {
+          "width": 1060,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "12px",
+          "columns": "345.328px 345.328px 345.344px",
+          "color": "rgb(20, 23, 20)"
+        },
+        ".format-card": {
+          "width": 345.328125,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgb(255, 255, 255)"
+        },
+        ".rental-info-grid": {
+          "width": 1060,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "20px",
+          "columns": "478.391px 561.609px",
+          "color": "rgb(20, 23, 20)"
+        },
+        ".immersive-content": {
+          "width": 1060,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "56px 0px",
+          "gap": "70px",
+          "columns": "495px 495px",
+          "color": "rgb(255, 255, 255)"
+        },
+        ".section-head h2": {
+          "width": 980,
+          "fontSize": "46.2px",
+          "fontWeight": "700",
+          "lineHeight": "47.124px",
+          "fontFamily": "Unbounded, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgb(20, 23, 20)"
+        },
+        ".guide-grid": {
+          "width": 1060,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "14px",
+          "columns": "523px 523px",
+          "color": "rgb(20, 23, 20)"
+        },
+        ".faq-grid": {
+          "width": 1060,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "70px",
+          "columns": "396px 594px",
+          "color": "rgb(20, 23, 20)"
+        }
+      },
+      "health": {
+        "overflow": false,
+        "broken": [],
+        "h1s": 1,
+        "sections": [
+          "",
+          "cities",
+          "formats",
+          "rentals",
+          "routes",
+          "start",
+          "prices",
+          "",
+          "guides",
+          "faq",
+          "contacts"
+        ]
+      }
+    },
+    {
+      "width": 1280,
+      "original": {
+        ".container.header-in": {
+          "width": 1216,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "18px",
+          "columns": "178px 649.406px 352.594px",
+          "color": "rgb(255, 255, 255)"
+        },
+        ".hero-content": {
+          "width": 1216,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "110px 0px 30px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgb(255, 255, 255)"
+        },
+        ".hero h1": {
+          "width": 1050,
+          "fontSize": "80.64px",
+          "fontWeight": "700",
+          "lineHeight": "82.2528px",
+          "fontFamily": "Unbounded, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgb(255, 255, 255)"
+        },
+        ".hero-claim": {
+          "width": 850,
+          "fontSize": "26.88px",
+          "fontWeight": "600",
+          "lineHeight": "normal",
+          "fontFamily": "Unbounded, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgba(255, 255, 255, 0.88)"
+        },
+        ".hero-copy": {
+          "width": 680,
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "lineHeight": "23.1px",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgba(255, 255, 255, 0.7)"
+        },
+        ".finder": {
+          "width": 1040,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "404.641px 465.344px 170.016px",
+          "color": "rgb(20, 23, 20)"
+        },
+        ".activity-grid": {
+          "width": 1216,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "12px",
+          "columns": "192.656px 192.672px 192.672px 192.656px 192.672px 192.672px",
+          "color": "rgb(20, 23, 20)"
+        },
+        ".format-card": {
+          "width": 192.65625,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgb(255, 255, 255)"
+        },
+        ".rental-info-grid": {
+          "width": 1216,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "20px",
+          "columns": "550.156px 645.844px",
+          "color": "rgb(20, 23, 20)"
+        },
+        ".immersive-content": {
+          "width": 1216,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "56px 0px",
+          "gap": "70px",
+          "columns": "643.812px 502.188px",
+          "color": "rgb(255, 255, 255)"
+        },
+        ".section-head h2": {
+          "width": 718.59375,
+          "fontSize": "53.76px",
+          "fontWeight": "700",
+          "lineHeight": "54.8352px",
+          "fontFamily": "Unbounded, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgb(20, 23, 20)"
+        },
+        ".guide-grid": {
+          "width": 1216,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "14px",
+          "columns": "293.5px 293.5px 293.5px 293.5px",
+          "color": "rgb(20, 23, 20)"
+        },
+        ".faq-grid": {
+          "width": 1216,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "70px",
+          "columns": "458.391px 687.609px",
+          "color": "rgb(20, 23, 20)"
+        }
+      },
+      "rebuilt": {
+        ".container.header-in": {
+          "width": 1216,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "18px",
+          "columns": "178px 649.406px 352.594px",
+          "color": "rgb(255, 255, 255)"
+        },
+        ".hero-content": {
+          "width": 1216,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "110px 0px 30px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgb(255, 255, 255)"
+        },
+        ".hero h1": {
+          "width": 1050,
+          "fontSize": "80.64px",
+          "fontWeight": "700",
+          "lineHeight": "82.2528px",
+          "fontFamily": "Unbounded, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgb(255, 255, 255)"
+        },
+        ".hero-claim": {
+          "width": 850,
+          "fontSize": "26.88px",
+          "fontWeight": "600",
+          "lineHeight": "normal",
+          "fontFamily": "Unbounded, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgba(255, 255, 255, 0.88)"
+        },
+        ".hero-copy": {
+          "width": 680,
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "lineHeight": "23.1px",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgba(255, 255, 255, 0.7)"
+        },
+        ".finder": {
+          "width": 1040,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "404.641px 465.344px 170.016px",
+          "color": "rgb(20, 23, 20)"
+        },
+        ".activity-grid": {
+          "width": 1216,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "12px",
+          "columns": "192.656px 192.672px 192.672px 192.656px 192.672px 192.672px",
+          "color": "rgb(20, 23, 20)"
+        },
+        ".format-card": {
+          "width": 192.65625,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgb(255, 255, 255)"
+        },
+        ".rental-info-grid": {
+          "width": 1216,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "20px",
+          "columns": "550.156px 645.844px",
+          "color": "rgb(20, 23, 20)"
+        },
+        ".immersive-content": {
+          "width": 1216,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "56px 0px",
+          "gap": "70px",
+          "columns": "643.812px 502.188px",
+          "color": "rgb(255, 255, 255)"
+        },
+        ".section-head h2": {
+          "width": 718.59375,
+          "fontSize": "53.76px",
+          "fontWeight": "700",
+          "lineHeight": "54.8352px",
+          "fontFamily": "Unbounded, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgb(20, 23, 20)"
+        },
+        ".guide-grid": {
+          "width": 1216,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "14px",
+          "columns": "293.5px 293.5px 293.5px 293.5px",
+          "color": "rgb(20, 23, 20)"
+        },
+        ".faq-grid": {
+          "width": 1216,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "70px",
+          "columns": "458.391px 687.609px",
+          "color": "rgb(20, 23, 20)"
+        }
+      },
+      "health": {
+        "overflow": false,
+        "broken": [],
+        "h1s": 1,
+        "sections": [
+          "",
+          "cities",
+          "formats",
+          "rentals",
+          "routes",
+          "start",
+          "prices",
+          "",
+          "guides",
+          "faq",
+          "contacts"
+        ]
+      }
+    },
+    {
+      "width": 1440,
+      "original": {
+        ".container.header-in": {
+          "width": 1376,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "18px",
+          "columns": "178px 767.406px 394.594px",
+          "color": "rgb(255, 255, 255)"
+        },
+        ".hero-content": {
+          "width": 1376,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "110px 0px 30px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgb(255, 255, 255)"
+        },
+        ".hero h1": {
+          "width": 1050,
+          "fontSize": "90.72px",
+          "fontWeight": "700",
+          "lineHeight": "92.5344px",
+          "fontFamily": "Unbounded, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgb(255, 255, 255)"
+        },
+        ".hero-claim": {
+          "width": 850,
+          "fontSize": "30px",
+          "fontWeight": "600",
+          "lineHeight": "normal",
+          "fontFamily": "Unbounded, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgba(255, 255, 255, 0.88)"
+        },
+        ".hero-copy": {
+          "width": 680,
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "lineHeight": "23.1px",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgba(255, 255, 255, 0.7)"
+        },
+        ".finder": {
+          "width": 1040,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "404.641px 465.344px 170.016px",
+          "color": "rgb(20, 23, 20)"
+        },
+        ".activity-grid": {
+          "width": 1376,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "12px",
+          "columns": "219.328px 219.328px 219.328px 219.344px 219.328px 219.328px",
+          "color": "rgb(20, 23, 20)"
+        },
+        ".format-card": {
+          "width": 219.328125,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgb(255, 255, 255)"
+        },
+        ".rental-info-grid": {
+          "width": 1376,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "20px",
+          "columns": "623.75px 732.25px",
+          "color": "rgb(20, 23, 20)"
+        },
+        ".immersive-content": {
+          "width": 1376,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "56px 0px",
+          "gap": "70px",
+          "columns": "733.703px 572.297px",
+          "color": "rgb(255, 255, 255)"
+        },
+        ".section-head h2": {
+          "width": 818.046875,
+          "fontSize": "60px",
+          "fontWeight": "700",
+          "lineHeight": "61.2px",
+          "fontFamily": "Unbounded, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgb(20, 23, 20)"
+        },
+        ".guide-grid": {
+          "width": 1376,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "14px",
+          "columns": "333.5px 333.5px 333.5px 333.5px",
+          "color": "rgb(20, 23, 20)"
+        },
+        ".faq-grid": {
+          "width": 1376,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "70px",
+          "columns": "522.391px 783.609px",
+          "color": "rgb(20, 23, 20)"
+        }
+      },
+      "rebuilt": {
+        ".container.header-in": {
+          "width": 1376,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "18px",
+          "columns": "178px 767.406px 394.594px",
+          "color": "rgb(255, 255, 255)"
+        },
+        ".hero-content": {
+          "width": 1376,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "110px 0px 30px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgb(255, 255, 255)"
+        },
+        ".hero h1": {
+          "width": 1050,
+          "fontSize": "90.72px",
+          "fontWeight": "700",
+          "lineHeight": "92.5344px",
+          "fontFamily": "Unbounded, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgb(255, 255, 255)"
+        },
+        ".hero-claim": {
+          "width": 850,
+          "fontSize": "30px",
+          "fontWeight": "600",
+          "lineHeight": "normal",
+          "fontFamily": "Unbounded, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgba(255, 255, 255, 0.88)"
+        },
+        ".hero-copy": {
+          "width": 680,
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "lineHeight": "23.1px",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgba(255, 255, 255, 0.7)"
+        },
+        ".finder": {
+          "width": 1040,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "404.641px 465.344px 170.016px",
+          "color": "rgb(20, 23, 20)"
+        },
+        ".activity-grid": {
+          "width": 1376,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "12px",
+          "columns": "219.328px 219.328px 219.328px 219.344px 219.328px 219.328px",
+          "color": "rgb(20, 23, 20)"
+        },
+        ".format-card": {
+          "width": 219.328125,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgb(255, 255, 255)"
+        },
+        ".rental-info-grid": {
+          "width": 1376,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "20px",
+          "columns": "623.75px 732.25px",
+          "color": "rgb(20, 23, 20)"
+        },
+        ".immersive-content": {
+          "width": 1376,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "56px 0px",
+          "gap": "70px",
+          "columns": "733.703px 572.297px",
+          "color": "rgb(255, 255, 255)"
+        },
+        ".section-head h2": {
+          "width": 818.046875,
+          "fontSize": "60px",
+          "fontWeight": "700",
+          "lineHeight": "61.2px",
+          "fontFamily": "Unbounded, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "normal",
+          "columns": "none",
+          "color": "rgb(20, 23, 20)"
+        },
+        ".guide-grid": {
+          "width": 1376,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "14px",
+          "columns": "333.5px 333.5px 333.5px 333.5px",
+          "color": "rgb(20, 23, 20)"
+        },
+        ".faq-grid": {
+          "width": 1376,
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "normal",
+          "fontFamily": "Manrope, system-ui, sans-serif",
+          "padding": "0px",
+          "gap": "70px",
+          "columns": "522.391px 783.609px",
+          "color": "rgb(20, 23, 20)"
+        }
+      },
+      "health": {
+        "overflow": false,
+        "broken": [],
+        "h1s": 1,
+        "sections": [
+          "",
+          "cities",
+          "formats",
+          "rentals",
+          "routes",
+          "start",
+          "prices",
+          "",
+          "guides",
+          "faq",
+          "contacts"
+        ]
+      }
+    }
+  ],
+  "checks": [
+    {
+      "name": "Unchanged design roles 360",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "Logo background removed 360",
+      "passed": true
+    },
+    {
+      "name": "Layout/images 360",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "broken": [],
+        "h1s": 1,
+        "sections": [
+          "",
+          "cities",
+          "formats",
+          "rentals",
+          "routes",
+          "start",
+          "prices",
+          "",
+          "guides",
+          "faq",
+          "contacts"
+        ]
+      }
+    },
+    {
+      "name": "Uniform city heights 360",
+      "passed": true,
+      "detail": [
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42
+      ]
+    },
+    {
+      "name": "City dropdown stays above following section 360",
+      "passed": true,
+      "detail": {
+        "visible": true,
+        "overflow": "visible",
+        "bounds": {
+          "top": 639.8125,
+          "bottom": 899.8125,
+          "height": 260
+        },
+        "open": "field autocomplete-field open",
+        "hit": "<button type=\"button\" data-value=\"Хюэ\">Хюэ</button>",
+        "buttons": 10
+      }
+    },
+    {
+      "name": "Activity dropdown visible 360",
+      "passed": true
+    },
+    {
+      "name": "Menu opens 360",
+      "passed": true
+    },
+    {
+      "name": "Escape closes menu 360",
+      "passed": true
+    },
+    {
+      "name": "Modal opens 360",
+      "passed": true
+    },
+    {
+      "name": "Modal closes 360",
+      "passed": true
+    },
+    {
+      "name": "Unchanged design roles 520",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "Logo background removed 520",
+      "passed": true
+    },
+    {
+      "name": "Layout/images 520",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "broken": [],
+        "h1s": 1,
+        "sections": [
+          "",
+          "cities",
+          "formats",
+          "rentals",
+          "routes",
+          "start",
+          "prices",
+          "",
+          "guides",
+          "faq",
+          "contacts"
+        ]
+      }
+    },
+    {
+      "name": "Uniform city heights 520",
+      "passed": true,
+      "detail": [
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42
+      ]
+    },
+    {
+      "name": "City dropdown stays above following section 520",
+      "passed": true,
+      "detail": {
+        "visible": true,
+        "overflow": "visible",
+        "bounds": {
+          "top": 639.8125,
+          "bottom": 899.8125,
+          "height": 260
+        },
+        "open": "field autocomplete-field open",
+        "hit": "<button type=\"button\" data-value=\"Хюэ\">Хюэ</button>",
+        "buttons": 10
+      }
+    },
+    {
+      "name": "Activity dropdown visible 520",
+      "passed": true
+    },
+    {
+      "name": "Menu opens 520",
+      "passed": true
+    },
+    {
+      "name": "Escape closes menu 520",
+      "passed": true
+    },
+    {
+      "name": "Modal opens 520",
+      "passed": true
+    },
+    {
+      "name": "Modal closes 520",
+      "passed": true
+    },
+    {
+      "name": "Unchanged design roles 820",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "Logo background removed 820",
+      "passed": true
+    },
+    {
+      "name": "Layout/images 820",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "broken": [],
+        "h1s": 1,
+        "sections": [
+          "",
+          "cities",
+          "formats",
+          "rentals",
+          "routes",
+          "start",
+          "prices",
+          "",
+          "guides",
+          "faq",
+          "contacts"
+        ]
+      }
+    },
+    {
+      "name": "Uniform city heights 820",
+      "passed": true,
+      "detail": [
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42
+      ]
+    },
+    {
+      "name": "City dropdown stays above following section 820",
+      "passed": true,
+      "detail": {
+        "visible": true,
+        "overflow": "visible",
+        "bounds": {
+          "top": 640,
+          "bottom": 900,
+          "height": 260
+        },
+        "open": "field autocomplete-field open",
+        "hit": "<button type=\"button\" data-value=\"Хюэ\">Хюэ</button>",
+        "buttons": 10
+      }
+    },
+    {
+      "name": "Activity dropdown visible 820",
+      "passed": true
+    },
+    {
+      "name": "Menu opens 820",
+      "passed": true
+    },
+    {
+      "name": "Escape closes menu 820",
+      "passed": true
+    },
+    {
+      "name": "Modal opens 820",
+      "passed": true
+    },
+    {
+      "name": "Modal closes 820",
+      "passed": true
+    },
+    {
+      "name": "Unchanged design roles 1024",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "Logo background removed 1024",
+      "passed": true
+    },
+    {
+      "name": "Layout/images 1024",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "broken": [],
+        "h1s": 1,
+        "sections": [
+          "",
+          "cities",
+          "formats",
+          "rentals",
+          "routes",
+          "start",
+          "prices",
+          "",
+          "guides",
+          "faq",
+          "contacts"
+        ]
+      }
+    },
+    {
+      "name": "Uniform city heights 1024",
+      "passed": true,
+      "detail": [
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42
+      ]
+    },
+    {
+      "name": "City dropdown stays above following section 1024",
+      "passed": true,
+      "detail": {
+        "visible": true,
+        "overflow": "visible",
+        "bounds": {
+          "top": 640,
+          "bottom": 900,
+          "height": 260
+        },
+        "open": "field autocomplete-field open",
+        "hit": "<button type=\"button\" data-value=\"Хюэ\">Хюэ</button>",
+        "buttons": 10
+      }
+    },
+    {
+      "name": "Activity dropdown visible 1024",
+      "passed": true
+    },
+    {
+      "name": "Rental fits desktop screen 1024",
+      "passed": true,
+      "detail": {
+        "height": 531.1875,
+        "available": 644,
+        "clipped": false,
+        "boxes": [
+          {
+            "class": "rental-hero-card",
+            "scroll": 380,
+            "client": 380
+          },
+          {
+            "class": "rental-info-panel",
+            "scroll": 378,
+            "client": 378
+          }
+        ]
+      }
+    },
+    {
+      "name": "Menu opens 1024",
+      "passed": true
+    },
+    {
+      "name": "Escape closes menu 1024",
+      "passed": true
+    },
+    {
+      "name": "Modal opens 1024",
+      "passed": true
+    },
+    {
+      "name": "Modal closes 1024",
+      "passed": true
+    },
+    {
+      "name": "Unchanged design roles 1100",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "Logo background removed 1100",
+      "passed": true
+    },
+    {
+      "name": "Layout/images 1100",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "broken": [],
+        "h1s": 1,
+        "sections": [
+          "",
+          "cities",
+          "formats",
+          "rentals",
+          "routes",
+          "start",
+          "prices",
+          "",
+          "guides",
+          "faq",
+          "contacts"
+        ]
+      }
+    },
+    {
+      "name": "Uniform city heights 1100",
+      "passed": true,
+      "detail": [
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42
+      ]
+    },
+    {
+      "name": "City dropdown stays above following section 1100",
+      "passed": true,
+      "detail": {
+        "visible": true,
+        "overflow": "visible",
+        "bounds": {
+          "top": 640,
+          "bottom": 900,
+          "height": 260
+        },
+        "open": "field autocomplete-field open",
+        "hit": "<button type=\"button\" data-value=\"Хюэ\">Хюэ</button>",
+        "buttons": 10
+      }
+    },
+    {
+      "name": "Activity dropdown visible 1100",
+      "passed": true
+    },
+    {
+      "name": "Rental fits desktop screen 1100",
+      "passed": true,
+      "detail": {
+        "height": 506.390625,
+        "available": 644,
+        "clipped": false,
+        "boxes": [
+          {
+            "class": "rental-hero-card",
+            "scroll": 380,
+            "client": 380
+          },
+          {
+            "class": "rental-info-panel",
+            "scroll": 378,
+            "client": 378
+          }
+        ]
+      }
+    },
+    {
+      "name": "Menu opens 1100",
+      "passed": true
+    },
+    {
+      "name": "Escape closes menu 1100",
+      "passed": true
+    },
+    {
+      "name": "Modal opens 1100",
+      "passed": true
+    },
+    {
+      "name": "Modal closes 1100",
+      "passed": true
+    },
+    {
+      "name": "Unchanged design roles 1280",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "Logo background removed 1280",
+      "passed": true
+    },
+    {
+      "name": "Layout/images 1280",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "broken": [],
+        "h1s": 1,
+        "sections": [
+          "",
+          "cities",
+          "formats",
+          "rentals",
+          "routes",
+          "start",
+          "prices",
+          "",
+          "guides",
+          "faq",
+          "contacts"
+        ]
+      }
+    },
+    {
+      "name": "Uniform city heights 1280",
+      "passed": true,
+      "detail": [
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42
+      ]
+    },
+    {
+      "name": "City dropdown stays above following section 1280",
+      "passed": true,
+      "detail": {
+        "visible": true,
+        "overflow": "visible",
+        "bounds": {
+          "top": 640,
+          "bottom": 900,
+          "height": 260
+        },
+        "open": "field autocomplete-field open",
+        "hit": "<button type=\"button\" data-value=\"Хюэ\">Хюэ</button>",
+        "buttons": 10
+      }
+    },
+    {
+      "name": "Activity dropdown visible 1280",
+      "passed": true
+    },
+    {
+      "name": "Rental fits desktop screen 1280",
+      "passed": true,
+      "detail": {
+        "height": 500.59375,
+        "available": 644,
+        "clipped": false,
+        "boxes": [
+          {
+            "class": "rental-hero-card",
+            "scroll": 380,
+            "client": 380
+          },
+          {
+            "class": "rental-info-panel",
+            "scroll": 378,
+            "client": 378
+          }
+        ]
+      }
+    },
+    {
+      "name": "Menu opens 1280",
+      "passed": true
+    },
+    {
+      "name": "Escape closes menu 1280",
+      "passed": true
+    },
+    {
+      "name": "Modal opens 1280",
+      "passed": true
+    },
+    {
+      "name": "Modal closes 1280",
+      "passed": true
+    },
+    {
+      "name": "Unchanged design roles 1440",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "Logo background removed 1440",
+      "passed": true
+    },
+    {
+      "name": "Layout/images 1440",
+      "passed": true,
+      "detail": {
+        "overflow": false,
+        "broken": [],
+        "h1s": 1,
+        "sections": [
+          "",
+          "cities",
+          "formats",
+          "rentals",
+          "routes",
+          "start",
+          "prices",
+          "",
+          "guides",
+          "faq",
+          "contacts"
+        ]
+      }
+    },
+    {
+      "name": "Uniform city heights 1440",
+      "passed": true,
+      "detail": [
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42
+      ]
+    },
+    {
+      "name": "City dropdown stays above following section 1440",
+      "passed": true,
+      "detail": {
+        "visible": true,
+        "overflow": "visible",
+        "bounds": {
+          "top": 640,
+          "bottom": 900,
+          "height": 260
+        },
+        "open": "field autocomplete-field open",
+        "hit": "<button type=\"button\" data-value=\"Хюэ\">Хюэ</button>",
+        "buttons": 10
+      }
+    },
+    {
+      "name": "Activity dropdown visible 1440",
+      "passed": true
+    },
+    {
+      "name": "Rental fits desktop screen 1440",
+      "passed": true,
+      "detail": {
+        "height": 500.59375,
+        "available": 644,
+        "clipped": false,
+        "boxes": [
+          {
+            "class": "rental-hero-card",
+            "scroll": 380,
+            "client": 380
+          },
+          {
+            "class": "rental-info-panel",
+            "scroll": 378,
+            "client": 378
+          }
+        ]
+      }
+    },
+    {
+      "name": "Menu opens 1440",
+      "passed": true
+    },
+    {
+      "name": "Escape closes menu 1440",
+      "passed": true
+    },
+    {
+      "name": "Modal opens 1440",
+      "passed": true
+    },
+    {
+      "name": "Modal closes 1440",
+      "passed": true
+    },
+    {
+      "name": "No runtime exceptions",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "Future city opens consultation",
+      "passed": true
+    },
+    {
+      "name": "Rental search separate from tours",
+      "passed": true
+    },
+    {
+      "name": "Price overview covers multiple cities and activities",
+      "passed": true
+    },
+    {
+      "name": "Enduro navigation uses relevant catalog",
+      "passed": true
+    },
+    {
+      "name": "Contact URL telegramContact",
+      "passed": true
+    },
+    {
+      "name": "Contact URL telegramChannel",
+      "passed": true
+    },
+    {
+      "name": "Contact URL whatsapp",
+      "passed": true
+    },
+    {
+      "name": "Contact URL instagram",
+      "passed": true
+    },
+    {
+      "name": "Contact URL tiktok",
+      "passed": true
+    },
+    {
+      "name": "Contact URL youtube",
+      "passed": true
+    },
+    {
+      "name": "Contact URL googleMaps",
+      "passed": true
+    },
+    {
+      "name": "Contact URL tripadvisor",
+      "passed": true
+    },
+    {
+      "name": "Confirmed contacts not intercepted as placeholders",
+      "passed": true
+    },
+    {
+      "name": "General inquiry committed",
+      "passed": true,
+      "detail": {
+        "status": 201
+      }
+    },
+    {
+      "name": "Inquiry retry does not duplicate",
+      "passed": true
+    },
+    {
+      "name": "Idempotency conflict rejected",
+      "passed": true
+    },
+    {
+      "name": "Consent required",
+      "passed": true
+    },
+    {
+      "name": "Foreign origin blocked",
+      "passed": true
+    },
+    {
+      "name": "General request has no fabricated offering",
+      "passed": true
+    },
+    {
+      "name": "Both notifications queued once",
+      "passed": true
+    }
+  ],
+  "errors": []
+}

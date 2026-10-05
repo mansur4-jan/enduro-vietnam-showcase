@@ -1,0 +1,2318 @@
+{
+  "checkedAt": "2026-10-05T03:21:27.374Z",
+  "checks": [
+    {
+      "path": "/",
+      "canonical": "/",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru"
+        }
+      ]
+    },
+    {
+      "path": "/all-tours",
+      "canonical": "/all-tours",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/all-tours"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/all-tours"
+        }
+      ]
+    },
+    {
+      "path": "/ru",
+      "canonical": "/ru",
+      "languagePairs": [
+        {
+          "locale": "ru",
+          "path": "/ru"
+        },
+        {
+          "locale": "en",
+          "path": "/"
+        }
+      ]
+    },
+    {
+      "path": "/ru/all-tours",
+      "canonical": "/ru/all-tours",
+      "languagePairs": [
+        {
+          "locale": "ru",
+          "path": "/ru/all-tours"
+        },
+        {
+          "locale": "en",
+          "path": "/all-tours"
+        }
+      ]
+    },
+    {
+      "path": "/all-tours/5-day-motorbike-tour-from-saigon-ho-chi-minh-city",
+      "canonical": "/all-tours/5-day-motorbike-tour-from-saigon-ho-chi-minh-city",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/all-tours/5-day-motorbike-tour-from-saigon-ho-chi-minh-city"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/all-tours/5-day-motorbike-tour-from-saigon-ho-chi-minh-city"
+        }
+      ]
+    },
+    {
+      "path": "/all-tours/dalat-easy-rider-enduro-beginners",
+      "canonical": "/all-tours/dalat-easy-rider-enduro-beginners",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/all-tours/dalat-easy-rider-enduro-beginners"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/all-tours/dalat-easy-rider-enduro-beginners"
+        }
+      ]
+    },
+    {
+      "path": "/all-tours/dalat-enduro-tour-advanced",
+      "canonical": "/all-tours/dalat-enduro-tour-advanced",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/all-tours/dalat-enduro-tour-advanced"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/all-tours/dalat-enduro-tour-advanced"
+        }
+      ]
+    },
+    {
+      "path": "/all-tours/dalat-enduro-tour-one-day",
+      "canonical": "/all-tours/dalat-enduro-tour-one-day",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/all-tours/dalat-enduro-tour-one-day"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/all-tours/dalat-enduro-tour-one-day"
+        }
+      ]
+    },
+    {
+      "path": "/all-tours/dalat-enduro-tour-two-day",
+      "canonical": "/all-tours/dalat-enduro-tour-two-day",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/all-tours/dalat-enduro-tour-two-day"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/all-tours/dalat-enduro-tour-two-day"
+        }
+      ]
+    },
+    {
+      "path": "/all-tours/danang-enduro-tour-advanced",
+      "canonical": "/all-tours/danang-enduro-tour-advanced",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/all-tours/danang-enduro-tour-advanced"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/all-tours/danang-enduro-tour-advanced"
+        }
+      ]
+    },
+    {
+      "path": "/all-tours/danang-enduro-tour-one-day",
+      "canonical": "/all-tours/danang-enduro-tour-one-day",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/all-tours/danang-enduro-tour-one-day"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/all-tours/danang-enduro-tour-one-day"
+        }
+      ]
+    },
+    {
+      "path": "/all-tours/mekong-delta-and-coastline-vietnam-motorbike-tour-6-days",
+      "canonical": "/all-tours/mekong-delta-and-coastline-vietnam-motorbike-tour-6-days",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/all-tours/mekong-delta-and-coastline-vietnam-motorbike-tour-6-days"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/all-tours/mekong-delta-and-coastline-vietnam-motorbike-tour-6-days"
+        }
+      ]
+    },
+    {
+      "path": "/all-tours/motorbike-tour-south-vietnam-4-days",
+      "canonical": "/all-tours/motorbike-tour-south-vietnam-4-days",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/all-tours/motorbike-tour-south-vietnam-4-days"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/all-tours/motorbike-tour-south-vietnam-4-days"
+        }
+      ]
+    },
+    {
+      "path": "/all-tours/motorcycle-tour-on-coastline-and-highlands-vietnam-7-days",
+      "canonical": "/all-tours/motorcycle-tour-on-coastline-and-highlands-vietnam-7-days",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/all-tours/motorcycle-tour-on-coastline-and-highlands-vietnam-7-days"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/all-tours/motorcycle-tour-on-coastline-and-highlands-vietnam-7-days"
+        }
+      ]
+    },
+    {
+      "path": "/all-tours/nhatrang-enduro-tour-advanced",
+      "canonical": "/all-tours/nhatrang-enduro-tour-advanced",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/all-tours/nhatrang-enduro-tour-advanced"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/all-tours/nhatrang-enduro-tour-advanced"
+        }
+      ]
+    },
+    {
+      "path": "/all-tours/nhatrang-enduro-tour-one-day",
+      "canonical": "/all-tours/nhatrang-enduro-tour-one-day",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/all-tours/nhatrang-enduro-tour-one-day"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/all-tours/nhatrang-enduro-tour-one-day"
+        }
+      ]
+    },
+    {
+      "path": "/all-tours/saigon-motorbike-tour-10-days",
+      "canonical": "/all-tours/saigon-motorbike-tour-10-days",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/all-tours/saigon-motorbike-tour-10-days"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/all-tours/saigon-motorbike-tour-10-days"
+        }
+      ]
+    },
+    {
+      "path": "/all-tours/south-vietnam-motorbike-tour-7-days",
+      "canonical": "/all-tours/south-vietnam-motorbike-tour-7-days",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/all-tours/south-vietnam-motorbike-tour-7-days"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/all-tours/south-vietnam-motorbike-tour-7-days"
+        }
+      ]
+    },
+    {
+      "path": "/all-tours/three-day-tour-dalat-muine",
+      "canonical": "/all-tours/three-day-tour-dalat-muine",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/all-tours/three-day-tour-dalat-muine"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/all-tours/three-day-tour-dalat-muine"
+        }
+      ]
+    },
+    {
+      "path": "/all-tours/three-day-tour-dalat-nhatrang",
+      "canonical": "/all-tours/three-day-tour-dalat-nhatrang",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/all-tours/three-day-tour-dalat-nhatrang"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/all-tours/three-day-tour-dalat-nhatrang"
+        }
+      ]
+    },
+    {
+      "path": "/dalat",
+      "canonical": "/dalat",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/dalat"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/dalat"
+        }
+      ]
+    },
+    {
+      "path": "/danang",
+      "canonical": "/danang",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/danang"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/danang"
+        }
+      ]
+    },
+    {
+      "path": "/muine",
+      "canonical": "/muine",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/muine"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/muine"
+        }
+      ]
+    },
+    {
+      "path": "/nhatrang",
+      "canonical": "/nhatrang",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/nhatrang"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/nhatrang"
+        }
+      ]
+    },
+    {
+      "path": "/privacy",
+      "canonical": "/privacy",
+      "languagePairs": []
+    },
+    {
+      "path": "/rent-motorbike-dalat",
+      "canonical": "/rent-motorbike-dalat",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rent-motorbike-dalat"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rent-motorbike-dalat"
+        }
+      ]
+    },
+    {
+      "path": "/rent-scooter-nhatrang",
+      "canonical": "/rent-scooter-nhatrang",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rent-scooter-nhatrang"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rent-scooter-nhatrang"
+        }
+      ]
+    },
+    {
+      "path": "/ru/all-tours/5-day-motorbike-tour-from-saigon-ho-chi-minh-city",
+      "canonical": "/ru/all-tours/5-day-motorbike-tour-from-saigon-ho-chi-minh-city",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/all-tours/5-day-motorbike-tour-from-saigon-ho-chi-minh-city"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/all-tours/5-day-motorbike-tour-from-saigon-ho-chi-minh-city"
+        }
+      ]
+    },
+    {
+      "path": "/ru/all-tours/dalat-easy-rider-enduro-beginners",
+      "canonical": "/ru/all-tours/dalat-easy-rider-enduro-beginners",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/all-tours/dalat-easy-rider-enduro-beginners"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/all-tours/dalat-easy-rider-enduro-beginners"
+        }
+      ]
+    },
+    {
+      "path": "/ru/all-tours/dalat-enduro-tour-advanced",
+      "canonical": "/ru/all-tours/dalat-enduro-tour-advanced",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/all-tours/dalat-enduro-tour-advanced"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/all-tours/dalat-enduro-tour-advanced"
+        }
+      ]
+    },
+    {
+      "path": "/ru/all-tours/dalat-enduro-tour-one-day",
+      "canonical": "/ru/all-tours/dalat-enduro-tour-one-day",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/all-tours/dalat-enduro-tour-one-day"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/all-tours/dalat-enduro-tour-one-day"
+        }
+      ]
+    },
+    {
+      "path": "/ru/all-tours/dalat-enduro-tour-two-day",
+      "canonical": "/ru/all-tours/dalat-enduro-tour-two-day",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/all-tours/dalat-enduro-tour-two-day"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/all-tours/dalat-enduro-tour-two-day"
+        }
+      ]
+    },
+    {
+      "path": "/ru/all-tours/danang-enduro-tour-advanced",
+      "canonical": "/ru/all-tours/danang-enduro-tour-advanced",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/all-tours/danang-enduro-tour-advanced"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/all-tours/danang-enduro-tour-advanced"
+        }
+      ]
+    },
+    {
+      "path": "/ru/all-tours/danang-enduro-tour-one-day",
+      "canonical": "/ru/all-tours/danang-enduro-tour-one-day",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/all-tours/danang-enduro-tour-one-day"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/all-tours/danang-enduro-tour-one-day"
+        }
+      ]
+    },
+    {
+      "path": "/ru/all-tours/mekong-delta-and-coastline-vietnam-motorbike-tour-6-days",
+      "canonical": "/ru/all-tours/mekong-delta-and-coastline-vietnam-motorbike-tour-6-days",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/all-tours/mekong-delta-and-coastline-vietnam-motorbike-tour-6-days"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/all-tours/mekong-delta-and-coastline-vietnam-motorbike-tour-6-days"
+        }
+      ]
+    },
+    {
+      "path": "/ru/all-tours/motorbike-tour-south-vietnam-4-days",
+      "canonical": "/ru/all-tours/motorbike-tour-south-vietnam-4-days",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/all-tours/motorbike-tour-south-vietnam-4-days"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/all-tours/motorbike-tour-south-vietnam-4-days"
+        }
+      ]
+    },
+    {
+      "path": "/ru/all-tours/motorcycle-tour-on-coastline-and-highlands-vietnam-7-days",
+      "canonical": "/ru/all-tours/motorcycle-tour-on-coastline-and-highlands-vietnam-7-days",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/all-tours/motorcycle-tour-on-coastline-and-highlands-vietnam-7-days"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/all-tours/motorcycle-tour-on-coastline-and-highlands-vietnam-7-days"
+        }
+      ]
+    },
+    {
+      "path": "/ru/all-tours/nhatrang-enduro-tour-advanced",
+      "canonical": "/ru/all-tours/nhatrang-enduro-tour-advanced",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/all-tours/nhatrang-enduro-tour-advanced"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/all-tours/nhatrang-enduro-tour-advanced"
+        }
+      ]
+    },
+    {
+      "path": "/ru/all-tours/nhatrang-enduro-tour-one-day",
+      "canonical": "/ru/all-tours/nhatrang-enduro-tour-one-day",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/all-tours/nhatrang-enduro-tour-one-day"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/all-tours/nhatrang-enduro-tour-one-day"
+        }
+      ]
+    },
+    {
+      "path": "/ru/all-tours/saigon-motorbike-tour-10-days",
+      "canonical": "/ru/all-tours/saigon-motorbike-tour-10-days",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/all-tours/saigon-motorbike-tour-10-days"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/all-tours/saigon-motorbike-tour-10-days"
+        }
+      ]
+    },
+    {
+      "path": "/ru/all-tours/south-vietnam-motorbike-tour-7-days",
+      "canonical": "/ru/all-tours/south-vietnam-motorbike-tour-7-days",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/all-tours/south-vietnam-motorbike-tour-7-days"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/all-tours/south-vietnam-motorbike-tour-7-days"
+        }
+      ]
+    },
+    {
+      "path": "/ru/all-tours/three-day-tour-dalat-muine",
+      "canonical": "/ru/all-tours/three-day-tour-dalat-muine",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/all-tours/three-day-tour-dalat-muine"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/all-tours/three-day-tour-dalat-muine"
+        }
+      ]
+    },
+    {
+      "path": "/ru/all-tours/three-day-tour-dalat-nhatrang",
+      "canonical": "/ru/all-tours/three-day-tour-dalat-nhatrang",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/all-tours/three-day-tour-dalat-nhatrang"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/all-tours/three-day-tour-dalat-nhatrang"
+        }
+      ]
+    },
+    {
+      "path": "/ru/all-tours/vietnam-motorcycle-tours-12-days",
+      "canonical": "/ru/all-tours/vietnam-motorcycle-tours-12-days",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/all-tours/vietnam-motorcycle-tours-12-days"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/all-tours/vietnam-motorcycle-tours-12-days"
+        }
+      ]
+    },
+    {
+      "path": "/ru/dalat",
+      "canonical": "/ru/dalat",
+      "languagePairs": [
+        {
+          "locale": "ru",
+          "path": "/ru/dalat"
+        },
+        {
+          "locale": "en",
+          "path": "/dalat"
+        }
+      ]
+    },
+    {
+      "path": "/ru/danang",
+      "canonical": "/ru/danang",
+      "languagePairs": [
+        {
+          "locale": "ru",
+          "path": "/ru/danang"
+        },
+        {
+          "locale": "en",
+          "path": "/danang"
+        }
+      ]
+    },
+    {
+      "path": "/ru/muine",
+      "canonical": "/ru/muine",
+      "languagePairs": [
+        {
+          "locale": "ru",
+          "path": "/ru/muine"
+        },
+        {
+          "locale": "en",
+          "path": "/muine"
+        }
+      ]
+    },
+    {
+      "path": "/ru/nhatrang",
+      "canonical": "/ru/nhatrang",
+      "languagePairs": [
+        {
+          "locale": "ru",
+          "path": "/ru/nhatrang"
+        },
+        {
+          "locale": "en",
+          "path": "/nhatrang"
+        }
+      ]
+    },
+    {
+      "path": "/ru/rent-motorbike-dalat",
+      "canonical": "/ru/rent-motorbike-dalat",
+      "languagePairs": [
+        {
+          "locale": "ru",
+          "path": "/ru/rent-motorbike-dalat"
+        },
+        {
+          "locale": "en",
+          "path": "/rent-motorbike-dalat"
+        }
+      ]
+    },
+    {
+      "path": "/ru/rent-scooter-nhatrang",
+      "canonical": "/ru/rent-scooter-nhatrang",
+      "languagePairs": [
+        {
+          "locale": "ru",
+          "path": "/ru/rent-scooter-nhatrang"
+        },
+        {
+          "locale": "en",
+          "path": "/rent-scooter-nhatrang"
+        }
+      ]
+    },
+    {
+      "path": "/all-tours/vietnam-motorcycle-tours-12-days",
+      "canonical": "/all-tours/vietnam-motorcycle-tours-12-days",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/all-tours/vietnam-motorcycle-tours-12-days"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/all-tours/vietnam-motorcycle-tours-12-days"
+        }
+      ]
+    },
+    {
+      "path": "/rentals/dalat-yamaha-nouvo-lx135",
+      "canonical": "/rentals/dalat-yamaha-nouvo-lx135",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/dalat-yamaha-nouvo-lx135"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/dalat-yamaha-nouvo-lx135"
+        }
+      ]
+    },
+    {
+      "path": "/ru/rentals/dalat-yamaha-nouvo-lx135",
+      "canonical": "/ru/rentals/dalat-yamaha-nouvo-lx135",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/dalat-yamaha-nouvo-lx135"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/dalat-yamaha-nouvo-lx135"
+        }
+      ]
+    },
+    {
+      "path": "/rentals/dalat-yamaha-nvx155",
+      "canonical": "/rentals/dalat-yamaha-nvx155",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/dalat-yamaha-nvx155"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/dalat-yamaha-nvx155"
+        }
+      ]
+    },
+    {
+      "path": "/ru/rentals/dalat-yamaha-nvx155",
+      "canonical": "/ru/rentals/dalat-yamaha-nvx155",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/dalat-yamaha-nvx155"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/dalat-yamaha-nvx155"
+        }
+      ]
+    },
+    {
+      "path": "/rentals/dalat-honda-leed125",
+      "canonical": "/rentals/dalat-honda-leed125",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/dalat-honda-leed125"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/dalat-honda-leed125"
+        }
+      ]
+    },
+    {
+      "path": "/ru/rentals/dalat-honda-leed125",
+      "canonical": "/ru/rentals/dalat-honda-leed125",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/dalat-honda-leed125"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/dalat-honda-leed125"
+        }
+      ]
+    },
+    {
+      "path": "/rentals/dalat-yamaha-nouvo-lx6",
+      "canonical": "/rentals/dalat-yamaha-nouvo-lx6",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/dalat-yamaha-nouvo-lx6"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/dalat-yamaha-nouvo-lx6"
+        }
+      ]
+    },
+    {
+      "path": "/ru/rentals/dalat-yamaha-nouvo-lx6",
+      "canonical": "/ru/rentals/dalat-yamaha-nouvo-lx6",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/dalat-yamaha-nouvo-lx6"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/dalat-yamaha-nouvo-lx6"
+        }
+      ]
+    },
+    {
+      "path": "/rentals/dalat-sym-wolf125",
+      "canonical": "/rentals/dalat-sym-wolf125",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/dalat-sym-wolf125"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/dalat-sym-wolf125"
+        }
+      ]
+    },
+    {
+      "path": "/ru/rentals/dalat-sym-wolf125",
+      "canonical": "/ru/rentals/dalat-sym-wolf125",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/dalat-sym-wolf125"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/dalat-sym-wolf125"
+        }
+      ]
+    },
+    {
+      "path": "/rentals/dalat-peugeot-django",
+      "canonical": "/rentals/dalat-peugeot-django",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/dalat-peugeot-django"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/dalat-peugeot-django"
+        }
+      ]
+    },
+    {
+      "path": "/ru/rentals/dalat-peugeot-django",
+      "canonical": "/ru/rentals/dalat-peugeot-django",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/dalat-peugeot-django"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/dalat-peugeot-django"
+        }
+      ]
+    },
+    {
+      "path": "/rentals/dalat-sym-attila-elizabeth",
+      "canonical": "/rentals/dalat-sym-attila-elizabeth",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/dalat-sym-attila-elizabeth"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/dalat-sym-attila-elizabeth"
+        }
+      ]
+    },
+    {
+      "path": "/ru/rentals/dalat-sym-attila-elizabeth",
+      "canonical": "/ru/rentals/dalat-sym-attila-elizabeth",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/dalat-sym-attila-elizabeth"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/dalat-sym-attila-elizabeth"
+        }
+      ]
+    },
+    {
+      "path": "/rentals/dalat-sym-attila",
+      "canonical": "/rentals/dalat-sym-attila",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/dalat-sym-attila"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/dalat-sym-attila"
+        }
+      ]
+    },
+    {
+      "path": "/ru/rentals/dalat-sym-attila",
+      "canonical": "/ru/rentals/dalat-sym-attila",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/dalat-sym-attila"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/dalat-sym-attila"
+        }
+      ]
+    },
+    {
+      "path": "/rentals/nhatrang-yadea-vekoo",
+      "canonical": "/rentals/nhatrang-yadea-vekoo",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-yadea-vekoo"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-yadea-vekoo"
+        }
+      ]
+    },
+    {
+      "path": "/ru/rentals/nhatrang-yadea-vekoo",
+      "canonical": "/ru/rentals/nhatrang-yadea-vekoo",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-yadea-vekoo"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-yadea-vekoo"
+        }
+      ]
+    },
+    {
+      "path": "/rentals/nhatrang-yadea-oris",
+      "canonical": "/rentals/nhatrang-yadea-oris",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-yadea-oris"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-yadea-oris"
+        }
+      ]
+    },
+    {
+      "path": "/ru/rentals/nhatrang-yadea-oris",
+      "canonical": "/ru/rentals/nhatrang-yadea-oris",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-yadea-oris"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-yadea-oris"
+        }
+      ]
+    },
+    {
+      "path": "/rentals/nhatrang-victory-city",
+      "canonical": "/rentals/nhatrang-victory-city",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-victory-city"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-victory-city"
+        }
+      ]
+    },
+    {
+      "path": "/ru/rentals/nhatrang-victory-city",
+      "canonical": "/ru/rentals/nhatrang-victory-city",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-victory-city"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-victory-city"
+        }
+      ]
+    },
+    {
+      "path": "/rentals/nhatrang-vinsky-crea50",
+      "canonical": "/rentals/nhatrang-vinsky-crea50",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-vinsky-crea50"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-vinsky-crea50"
+        }
+      ]
+    },
+    {
+      "path": "/ru/rentals/nhatrang-vinsky-crea50",
+      "canonical": "/ru/rentals/nhatrang-vinsky-crea50",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-vinsky-crea50"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-vinsky-crea50"
+        }
+      ]
+    },
+    {
+      "path": "/rentals/nhatrang-yadea-xbull",
+      "canonical": "/rentals/nhatrang-yadea-xbull",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-yadea-xbull"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-yadea-xbull"
+        }
+      ]
+    },
+    {
+      "path": "/ru/rentals/nhatrang-yadea-xbull",
+      "canonical": "/ru/rentals/nhatrang-yadea-xbull",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-yadea-xbull"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-yadea-xbull"
+        }
+      ]
+    },
+    {
+      "path": "/ru/rentals/dalat-honda-winner-x",
+      "canonical": "/ru/rentals/dalat-honda-winner-x",
+      "languagePairs": [
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/dalat-honda-winner-x"
+        }
+      ]
+    },
+    {
+      "path": "/rentals/nhatrang-yamaha-nvx-155-23",
+      "canonical": "/rentals/nhatrang-yamaha-nvx-155-23",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-yamaha-nvx-155-23"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-yamaha-nvx-155-23"
+        }
+      ]
+    },
+    {
+      "path": "/ru/rentals/nhatrang-yamaha-nvx-155-23",
+      "canonical": "/ru/rentals/nhatrang-yamaha-nvx-155-23",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-yamaha-nvx-155-23"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-yamaha-nvx-155-23"
+        }
+      ]
+    },
+    {
+      "path": "/rentals/nhatrang-yamaha-nvx-155-24",
+      "canonical": "/rentals/nhatrang-yamaha-nvx-155-24",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-yamaha-nvx-155-24"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-yamaha-nvx-155-24"
+        }
+      ]
+    },
+    {
+      "path": "/ru/rentals/nhatrang-yamaha-nvx-155-24",
+      "canonical": "/ru/rentals/nhatrang-yamaha-nvx-155-24",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-yamaha-nvx-155-24"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-yamaha-nvx-155-24"
+        }
+      ]
+    },
+    {
+      "path": "/rentals/nhatrang-yamaha-nvx-155-25",
+      "canonical": "/rentals/nhatrang-yamaha-nvx-155-25",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-yamaha-nvx-155-25"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-yamaha-nvx-155-25"
+        }
+      ]
+    },
+    {
+      "path": "/ru/rentals/nhatrang-yamaha-nvx-155-25",
+      "canonical": "/ru/rentals/nhatrang-yamaha-nvx-155-25",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-yamaha-nvx-155-25"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-yamaha-nvx-155-25"
+        }
+      ]
+    },
+    {
+      "path": "/rentals/nhatrang-honda-pcx-125-26",
+      "canonical": "/rentals/nhatrang-honda-pcx-125-26",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-honda-pcx-125-26"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-honda-pcx-125-26"
+        }
+      ]
+    },
+    {
+      "path": "/ru/rentals/nhatrang-honda-pcx-125-26",
+      "canonical": "/ru/rentals/nhatrang-honda-pcx-125-26",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-honda-pcx-125-26"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-honda-pcx-125-26"
+        }
+      ]
+    },
+    {
+      "path": "/rentals/nhatrang-honda-pcx-125-27",
+      "canonical": "/rentals/nhatrang-honda-pcx-125-27",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-honda-pcx-125-27"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-honda-pcx-125-27"
+        }
+      ]
+    },
+    {
+      "path": "/ru/rentals/nhatrang-honda-pcx-125-27",
+      "canonical": "/ru/rentals/nhatrang-honda-pcx-125-27",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-honda-pcx-125-27"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-honda-pcx-125-27"
+        }
+      ]
+    },
+    {
+      "path": "/rentals/nhatrang-yamaha-nvx-155-28",
+      "canonical": "/rentals/nhatrang-yamaha-nvx-155-28",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-yamaha-nvx-155-28"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-yamaha-nvx-155-28"
+        }
+      ]
+    },
+    {
+      "path": "/ru/rentals/nhatrang-yamaha-nvx-155-28",
+      "canonical": "/ru/rentals/nhatrang-yamaha-nvx-155-28",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-yamaha-nvx-155-28"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-yamaha-nvx-155-28"
+        }
+      ]
+    },
+    {
+      "path": "/rentals/nhatrang-yamaha-nvx-155-31",
+      "canonical": "/rentals/nhatrang-yamaha-nvx-155-31",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-yamaha-nvx-155-31"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-yamaha-nvx-155-31"
+        }
+      ]
+    },
+    {
+      "path": "/ru/rentals/nhatrang-yamaha-nvx-155-31",
+      "canonical": "/ru/rentals/nhatrang-yamaha-nvx-155-31",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-yamaha-nvx-155-31"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-yamaha-nvx-155-31"
+        }
+      ]
+    },
+    {
+      "path": "/rentals/nhatrang-yamaha-nvx-155-32",
+      "canonical": "/rentals/nhatrang-yamaha-nvx-155-32",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-yamaha-nvx-155-32"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-yamaha-nvx-155-32"
+        }
+      ]
+    },
+    {
+      "path": "/ru/rentals/nhatrang-yamaha-nvx-155-32",
+      "canonical": "/ru/rentals/nhatrang-yamaha-nvx-155-32",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-yamaha-nvx-155-32"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-yamaha-nvx-155-32"
+        }
+      ]
+    },
+    {
+      "path": "/rentals/nhatrang-yamaha-nvx-155-33",
+      "canonical": "/rentals/nhatrang-yamaha-nvx-155-33",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-yamaha-nvx-155-33"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-yamaha-nvx-155-33"
+        }
+      ]
+    },
+    {
+      "path": "/ru/rentals/nhatrang-yamaha-nvx-155-33",
+      "canonical": "/ru/rentals/nhatrang-yamaha-nvx-155-33",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-yamaha-nvx-155-33"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-yamaha-nvx-155-33"
+        }
+      ]
+    },
+    {
+      "path": "/rentals/nhatrang-yamaha-nvx-155-34",
+      "canonical": "/rentals/nhatrang-yamaha-nvx-155-34",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-yamaha-nvx-155-34"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-yamaha-nvx-155-34"
+        }
+      ]
+    },
+    {
+      "path": "/ru/rentals/nhatrang-yamaha-nvx-155-34",
+      "canonical": "/ru/rentals/nhatrang-yamaha-nvx-155-34",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-yamaha-nvx-155-34"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-yamaha-nvx-155-34"
+        }
+      ]
+    },
+    {
+      "path": "/rentals/nhatrang-yamaha-nvx-155-36",
+      "canonical": "/rentals/nhatrang-yamaha-nvx-155-36",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-yamaha-nvx-155-36"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-yamaha-nvx-155-36"
+        }
+      ]
+    },
+    {
+      "path": "/ru/rentals/nhatrang-yamaha-nvx-155-36",
+      "canonical": "/ru/rentals/nhatrang-yamaha-nvx-155-36",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-yamaha-nvx-155-36"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-yamaha-nvx-155-36"
+        }
+      ]
+    },
+    {
+      "path": "/rentals/nhatrang-honda-pcx-125-37",
+      "canonical": "/rentals/nhatrang-honda-pcx-125-37",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-honda-pcx-125-37"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-honda-pcx-125-37"
+        }
+      ]
+    },
+    {
+      "path": "/ru/rentals/nhatrang-honda-pcx-125-37",
+      "canonical": "/ru/rentals/nhatrang-honda-pcx-125-37",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-honda-pcx-125-37"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-honda-pcx-125-37"
+        }
+      ]
+    },
+    {
+      "path": "/rentals/nhatrang-yamaha-nvx-155-38",
+      "canonical": "/rentals/nhatrang-yamaha-nvx-155-38",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-yamaha-nvx-155-38"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-yamaha-nvx-155-38"
+        }
+      ]
+    },
+    {
+      "path": "/ru/rentals/nhatrang-yamaha-nvx-155-38",
+      "canonical": "/ru/rentals/nhatrang-yamaha-nvx-155-38",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-yamaha-nvx-155-38"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-yamaha-nvx-155-38"
+        }
+      ]
+    },
+    {
+      "path": "/rentals/nhatrang-yamaha-nvx-155-40",
+      "canonical": "/rentals/nhatrang-yamaha-nvx-155-40",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-yamaha-nvx-155-40"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-yamaha-nvx-155-40"
+        }
+      ]
+    },
+    {
+      "path": "/ru/rentals/nhatrang-yamaha-nvx-155-40",
+      "canonical": "/ru/rentals/nhatrang-yamaha-nvx-155-40",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-yamaha-nvx-155-40"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-yamaha-nvx-155-40"
+        }
+      ]
+    },
+    {
+      "path": "/rentals/nhatrang-yamaha-nvx-155-43",
+      "canonical": "/rentals/nhatrang-yamaha-nvx-155-43",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-yamaha-nvx-155-43"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-yamaha-nvx-155-43"
+        }
+      ]
+    },
+    {
+      "path": "/ru/rentals/nhatrang-yamaha-nvx-155-43",
+      "canonical": "/ru/rentals/nhatrang-yamaha-nvx-155-43",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-yamaha-nvx-155-43"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-yamaha-nvx-155-43"
+        }
+      ]
+    },
+    {
+      "path": "/rentals/nhatrang-yamaha-xmax-300-13",
+      "canonical": "/rentals/nhatrang-yamaha-xmax-300-13",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-yamaha-xmax-300-13"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-yamaha-xmax-300-13"
+        }
+      ]
+    },
+    {
+      "path": "/ru/rentals/nhatrang-yamaha-xmax-300-13",
+      "canonical": "/ru/rentals/nhatrang-yamaha-xmax-300-13",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-yamaha-xmax-300-13"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-yamaha-xmax-300-13"
+        }
+      ]
+    },
+    {
+      "path": "/rentals/nhatrang-honda-adv-160-14",
+      "canonical": "/rentals/nhatrang-honda-adv-160-14",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-honda-adv-160-14"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-honda-adv-160-14"
+        }
+      ]
+    },
+    {
+      "path": "/ru/rentals/nhatrang-honda-adv-160-14",
+      "canonical": "/ru/rentals/nhatrang-honda-adv-160-14",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-honda-adv-160-14"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-honda-adv-160-14"
+        }
+      ]
+    },
+    {
+      "path": "/rentals/nhatrang-honda-rebel-300-15",
+      "canonical": "/rentals/nhatrang-honda-rebel-300-15",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-honda-rebel-300-15"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-honda-rebel-300-15"
+        }
+      ]
+    },
+    {
+      "path": "/ru/rentals/nhatrang-honda-rebel-300-15",
+      "canonical": "/ru/rentals/nhatrang-honda-rebel-300-15",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-honda-rebel-300-15"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-honda-rebel-300-15"
+        }
+      ]
+    },
+    {
+      "path": "/rentals/nhatrang-honda-adv-150-16",
+      "canonical": "/rentals/nhatrang-honda-adv-150-16",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-honda-adv-150-16"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-honda-adv-150-16"
+        }
+      ]
+    },
+    {
+      "path": "/ru/rentals/nhatrang-honda-adv-150-16",
+      "canonical": "/ru/rentals/nhatrang-honda-adv-150-16",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-honda-adv-150-16"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-honda-adv-150-16"
+        }
+      ]
+    },
+    {
+      "path": "/rentals/nhatrang-ducati-monster-797-17",
+      "canonical": "/rentals/nhatrang-ducati-monster-797-17",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-ducati-monster-797-17"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-ducati-monster-797-17"
+        }
+      ]
+    },
+    {
+      "path": "/ru/rentals/nhatrang-ducati-monster-797-17",
+      "canonical": "/ru/rentals/nhatrang-ducati-monster-797-17",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-ducati-monster-797-17"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-ducati-monster-797-17"
+        }
+      ]
+    },
+    {
+      "path": "/rentals/nhatrang-honda-adv-160-18",
+      "canonical": "/rentals/nhatrang-honda-adv-160-18",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-honda-adv-160-18"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-honda-adv-160-18"
+        }
+      ]
+    },
+    {
+      "path": "/ru/rentals/nhatrang-honda-adv-160-18",
+      "canonical": "/ru/rentals/nhatrang-honda-adv-160-18",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-honda-adv-160-18"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-honda-adv-160-18"
+        }
+      ]
+    },
+    {
+      "path": "/rentals/nhatrang-maxi-scooter-gt250-19",
+      "canonical": "/rentals/nhatrang-maxi-scooter-gt250-19",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-maxi-scooter-gt250-19"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-maxi-scooter-gt250-19"
+        }
+      ]
+    },
+    {
+      "path": "/ru/rentals/nhatrang-maxi-scooter-gt250-19",
+      "canonical": "/ru/rentals/nhatrang-maxi-scooter-gt250-19",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-maxi-scooter-gt250-19"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-maxi-scooter-gt250-19"
+        }
+      ]
+    },
+    {
+      "path": "/rentals/nhatrang-kawasaki-z300-20",
+      "canonical": "/rentals/nhatrang-kawasaki-z300-20",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-kawasaki-z300-20"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-kawasaki-z300-20"
+        }
+      ]
+    },
+    {
+      "path": "/ru/rentals/nhatrang-kawasaki-z300-20",
+      "canonical": "/ru/rentals/nhatrang-kawasaki-z300-20",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-kawasaki-z300-20"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-kawasaki-z300-20"
+        }
+      ]
+    },
+    {
+      "path": "/rentals/nhatrang-yamaha-n-max-155-21",
+      "canonical": "/rentals/nhatrang-yamaha-n-max-155-21",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-yamaha-n-max-155-21"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-yamaha-n-max-155-21"
+        }
+      ]
+    },
+    {
+      "path": "/ru/rentals/nhatrang-yamaha-n-max-155-21",
+      "canonical": "/ru/rentals/nhatrang-yamaha-n-max-155-21",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-yamaha-n-max-155-21"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-yamaha-n-max-155-21"
+        }
+      ]
+    },
+    {
+      "path": "/rentals/nhatrang-honda-adv-160-22",
+      "canonical": "/rentals/nhatrang-honda-adv-160-22",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-honda-adv-160-22"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-honda-adv-160-22"
+        }
+      ]
+    },
+    {
+      "path": "/ru/rentals/nhatrang-honda-adv-160-22",
+      "canonical": "/ru/rentals/nhatrang-honda-adv-160-22",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-honda-adv-160-22"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-honda-adv-160-22"
+        }
+      ]
+    },
+    {
+      "path": "/rentals/nhatrang-honda-pcx-125-29",
+      "canonical": "/rentals/nhatrang-honda-pcx-125-29",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-honda-pcx-125-29"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-honda-pcx-125-29"
+        }
+      ]
+    },
+    {
+      "path": "/ru/rentals/nhatrang-honda-pcx-125-29",
+      "canonical": "/ru/rentals/nhatrang-honda-pcx-125-29",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-honda-pcx-125-29"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-honda-pcx-125-29"
+        }
+      ]
+    },
+    {
+      "path": "/rentals/nhatrang-yamaha-nvx-155-41",
+      "canonical": "/rentals/nhatrang-yamaha-nvx-155-41",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-yamaha-nvx-155-41"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-yamaha-nvx-155-41"
+        }
+      ]
+    },
+    {
+      "path": "/ru/rentals/nhatrang-yamaha-nvx-155-41",
+      "canonical": "/ru/rentals/nhatrang-yamaha-nvx-155-41",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-yamaha-nvx-155-41"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-yamaha-nvx-155-41"
+        }
+      ]
+    },
+    {
+      "path": "/rentals/nhatrang-honda-adv-150-42",
+      "canonical": "/rentals/nhatrang-honda-adv-150-42",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-honda-adv-150-42"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-honda-adv-150-42"
+        }
+      ]
+    },
+    {
+      "path": "/ru/rentals/nhatrang-honda-adv-150-42",
+      "canonical": "/ru/rentals/nhatrang-honda-adv-150-42",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-honda-adv-150-42"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-honda-adv-150-42"
+        }
+      ]
+    },
+    {
+      "path": "/rentals/nhatrang-vinsky-crea-50-10",
+      "canonical": "/rentals/nhatrang-vinsky-crea-50-10",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-vinsky-crea-50-10"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-vinsky-crea-50-10"
+        }
+      ]
+    },
+    {
+      "path": "/ru/rentals/nhatrang-vinsky-crea-50-10",
+      "canonical": "/ru/rentals/nhatrang-vinsky-crea-50-10",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-vinsky-crea-50-10"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-vinsky-crea-50-10"
+        }
+      ]
+    },
+    {
+      "path": "/rentals/nhatrang-yadea-oris-11",
+      "canonical": "/rentals/nhatrang-yadea-oris-11",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-yadea-oris-11"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-yadea-oris-11"
+        }
+      ]
+    },
+    {
+      "path": "/ru/rentals/nhatrang-yadea-oris-11",
+      "canonical": "/ru/rentals/nhatrang-yadea-oris-11",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-yadea-oris-11"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-yadea-oris-11"
+        }
+      ]
+    },
+    {
+      "path": "/rentals/nhatrang-yamaha-nvx-125-30",
+      "canonical": "/rentals/nhatrang-yamaha-nvx-125-30",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-yamaha-nvx-125-30"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-yamaha-nvx-125-30"
+        }
+      ]
+    },
+    {
+      "path": "/ru/rentals/nhatrang-yamaha-nvx-125-30",
+      "canonical": "/ru/rentals/nhatrang-yamaha-nvx-125-30",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-yamaha-nvx-125-30"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-yamaha-nvx-125-30"
+        }
+      ]
+    },
+    {
+      "path": "/rentals/nhatrang-yamaha-nvx-125-35",
+      "canonical": "/rentals/nhatrang-yamaha-nvx-125-35",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-yamaha-nvx-125-35"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-yamaha-nvx-125-35"
+        }
+      ]
+    },
+    {
+      "path": "/ru/rentals/nhatrang-yamaha-nvx-125-35",
+      "canonical": "/ru/rentals/nhatrang-yamaha-nvx-125-35",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-yamaha-nvx-125-35"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-yamaha-nvx-125-35"
+        }
+      ]
+    },
+    {
+      "path": "/rentals/nhatrang-yamaha-nvx-125-39",
+      "canonical": "/rentals/nhatrang-yamaha-nvx-125-39",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-yamaha-nvx-125-39"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-yamaha-nvx-125-39"
+        }
+      ]
+    },
+    {
+      "path": "/ru/rentals/nhatrang-yamaha-nvx-125-39",
+      "canonical": "/ru/rentals/nhatrang-yamaha-nvx-125-39",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-yamaha-nvx-125-39"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-yamaha-nvx-125-39"
+        }
+      ]
+    },
+    {
+      "path": "/rentals/nhatrang-yamaha-nouvo-6-1",
+      "canonical": "/rentals/nhatrang-yamaha-nouvo-6-1",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-yamaha-nouvo-6-1"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-yamaha-nouvo-6-1"
+        }
+      ]
+    },
+    {
+      "path": "/ru/rentals/nhatrang-yamaha-nouvo-6-1",
+      "canonical": "/ru/rentals/nhatrang-yamaha-nouvo-6-1",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-yamaha-nouvo-6-1"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-yamaha-nouvo-6-1"
+        }
+      ]
+    },
+    {
+      "path": "/rentals/nhatrang-suzuki-hauate-125-2",
+      "canonical": "/rentals/nhatrang-suzuki-hauate-125-2",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-suzuki-hauate-125-2"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-suzuki-hauate-125-2"
+        }
+      ]
+    },
+    {
+      "path": "/ru/rentals/nhatrang-suzuki-hauate-125-2",
+      "canonical": "/ru/rentals/nhatrang-suzuki-hauate-125-2",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-suzuki-hauate-125-2"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-suzuki-hauate-125-2"
+        }
+      ]
+    },
+    {
+      "path": "/rentals/nhatrang-yamaha-nouvo-6-3",
+      "canonical": "/rentals/nhatrang-yamaha-nouvo-6-3",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-yamaha-nouvo-6-3"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-yamaha-nouvo-6-3"
+        }
+      ]
+    },
+    {
+      "path": "/ru/rentals/nhatrang-yamaha-nouvo-6-3",
+      "canonical": "/ru/rentals/nhatrang-yamaha-nouvo-6-3",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-yamaha-nouvo-6-3"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-yamaha-nouvo-6-3"
+        }
+      ]
+    },
+    {
+      "path": "/rentals/nhatrang-honda-lead-110-4",
+      "canonical": "/rentals/nhatrang-honda-lead-110-4",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-honda-lead-110-4"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-honda-lead-110-4"
+        }
+      ]
+    },
+    {
+      "path": "/ru/rentals/nhatrang-honda-lead-110-4",
+      "canonical": "/ru/rentals/nhatrang-honda-lead-110-4",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-honda-lead-110-4"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-honda-lead-110-4"
+        }
+      ]
+    },
+    {
+      "path": "/rentals/nhatrang-honda-lead-110-5",
+      "canonical": "/rentals/nhatrang-honda-lead-110-5",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-honda-lead-110-5"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-honda-lead-110-5"
+        }
+      ]
+    },
+    {
+      "path": "/ru/rentals/nhatrang-honda-lead-110-5",
+      "canonical": "/ru/rentals/nhatrang-honda-lead-110-5",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/nhatrang-honda-lead-110-5"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/nhatrang-honda-lead-110-5"
+        }
+      ]
+    },
+    {
+      "path": "/destinations",
+      "canonical": "/destinations",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/destinations"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/destinations"
+        }
+      ]
+    },
+    {
+      "path": "/ru/destinations",
+      "canonical": "/ru/destinations",
+      "languagePairs": [
+        {
+          "locale": "ru",
+          "path": "/ru/destinations"
+        },
+        {
+          "locale": "en",
+          "path": "/destinations"
+        }
+      ]
+    },
+    {
+      "path": "/destinations/dalat",
+      "canonical": "/destinations/dalat",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/destinations/dalat"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/destinations/dalat"
+        }
+      ]
+    },
+    {
+      "path": "/ru/destinations/dalat",
+      "canonical": "/ru/destinations/dalat",
+      "languagePairs": [
+        {
+          "locale": "ru",
+          "path": "/ru/destinations/dalat"
+        },
+        {
+          "locale": "en",
+          "path": "/destinations/dalat"
+        }
+      ]
+    },
+    {
+      "path": "/rentals/motorbikes",
+      "canonical": "/rentals/motorbikes",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/motorbikes"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/motorbikes"
+        }
+      ]
+    },
+    {
+      "path": "/ru/rentals/motorbikes",
+      "canonical": "/ru/rentals/motorbikes",
+      "languagePairs": [
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/motorbikes"
+        },
+        {
+          "locale": "en",
+          "path": "/rentals/motorbikes"
+        }
+      ]
+    },
+    {
+      "path": "/rentals/cars",
+      "canonical": "/rentals/cars",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/rentals/cars"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/cars"
+        }
+      ]
+    },
+    {
+      "path": "/ru/rentals/cars",
+      "canonical": "/ru/rentals/cars",
+      "languagePairs": [
+        {
+          "locale": "ru",
+          "path": "/ru/rentals/cars"
+        },
+        {
+          "locale": "en",
+          "path": "/rentals/cars"
+        }
+      ]
+    },
+    {
+      "path": "/partners/enduro-vietnam",
+      "canonical": "/partners/enduro-vietnam",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/partners/enduro-vietnam"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/partners/enduro-vietnam"
+        }
+      ]
+    },
+    {
+      "path": "/ru/partners/enduro-vietnam",
+      "canonical": "/ru/partners/enduro-vietnam",
+      "languagePairs": [
+        {
+          "locale": "ru",
+          "path": "/ru/partners/enduro-vietnam"
+        },
+        {
+          "locale": "en",
+          "path": "/partners/enduro-vietnam"
+        }
+      ]
+    },
+    {
+      "path": "/activities/motorbike-tours",
+      "canonical": "/activities/motorbike-tours",
+      "languagePairs": [
+        {
+          "locale": "en",
+          "path": "/activities/motorbike-tours"
+        },
+        {
+          "locale": "ru",
+          "path": "/ru/activities/motorbike-tours"
+        }
+      ]
+    },
+    {
+      "path": "/ru/activities/motorbike-tours",
+      "canonical": "/ru/activities/motorbike-tours",
+      "languagePairs": [
+        {
+          "locale": "ru",
+          "path": "/ru/activities/motorbike-tours"
+        },
+        {
+          "locale": "en",
+          "path": "/activities/motorbike-tours"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "sourceProductionGscTested": false
+}
